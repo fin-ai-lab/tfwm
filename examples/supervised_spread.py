@@ -12,6 +12,10 @@ Spread change is the parity check because it has the least run-to-run noise:
 across 10 seeds x 9 months (plots/variance_decomp, the 6-month recipe) the
 seed standard deviation of its head IC is 0.0026, about 1% of its ~0.2 level,
 so a 5% band is roughly four standard deviations wide.
+
+Measured 2026-09-28 on a clean H100 from the public repo, 2020-01: head IC
+0.2091 against the released head's 0.2048 (+2.1%), on the same 147 cells.
+Training took ~100 min (2,988 steps at ~2 s/step) on an H100 PCIe.
 """
 import sys
 from pathlib import Path

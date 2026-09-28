@@ -10,6 +10,15 @@ within --tolerance on volatility change and spread change.
 
 Return is reported but not gated. Its IC is ~0.01, so a few percent of it is
 far inside the run-to-run spread, and a 5% check on it would fail at random.
+
+VOLATILITY CHANGE IS THE GATE THAT DISCRIMINATES. The probe reads spread change
+well off almost any encoder of this architecture: a 50-step --smoke model
+already matches the released encoder on it (0.121 vs 0.118 for 2020-01) while
+missing volatility change by 13%. So a spread pass alone says little; a
+volatility pass says the training worked.
+
+Measured 2026-09-28 on a clean H100 from the public repo, 2020-01:
+volatility change -0.9%, spread change +3.5% against the released encoder.
 """
 import sys
 from pathlib import Path

@@ -202,9 +202,11 @@ def config_diff(ours: Path, theirs: Path) -> list[str]:
     b = flat(json.loads(theirs.read_text())["config"])
     # Where the files live, not what was trained; and live-probe settings,
     # which the reported recipe does not use (training.live_eval=false).
+    # mode.freeze_backbone was retired 2026-09-16: training is always end to
+    # end, which is what the released runs' False meant.
     skip = ("machine.", "wandb.", "checkpoint.", "probe_eval.", "skip_if_done",
             "dataset.xs_anchor_stats_dir", "training.max_train_steps",
-            "optimizer.warmup_steps")
+            "optimizer.warmup_steps", "mode.freeze_backbone")
     out = []
     for k in sorted(set(a) | set(b)):
         if k.startswith(skip) or k not in b:   # absent in the release = added since
