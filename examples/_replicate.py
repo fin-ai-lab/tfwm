@@ -90,13 +90,35 @@ class Month:
 
 # ── data ─────────────────────────────────────────────────────────────────────
 
+def hub(fn, *args, **kw):
+    """Call a Hub API function, waiting out HTTP 429 and retrying.
+
+    THE HUB ALLOWS 1000 API REQUESTS PER 5 MINUTES PER ACCOUNT, logged in or
+    not, and every file downloaded costs at least one. One evaluation month is
+    ~2500 files across the three layouts, so a 429 is expected, not
+    exceptional -- and once the window is spent, every call fails, listings
+    and whoami included, until it rolls over.
+    """
+    for attempt in range(1, 13):
+        try:
+            return fn(*args, **kw)
+        except Exception as e:  # HfHubHTTPError and requests' HTTPError alike
+            resp = getattr(e, "response", None)
+            if getattr(resp, "status_code", None) != 429 or attempt == 12:
+                raise
+            wait = int(resp.headers.get("Retry-After", 0) or 0) or 300
+            print(f"rate-limited by the Hub (attempt {attempt}); "
+                  f"resuming in {wait} s", flush=True)
+            time.sleep(wait)
+
+
 def check_login() -> None:
-    from huggingface_hub import whoami
-    try:
-        print(f"Hugging Face: logged in as {whoami()['name']}")
-    except Exception:
-        print("WARNING: not logged in to Hugging Face. Anonymous downloads are "
-              "rate-limited; run `hf auth login` or set HF_TOKEN.", file=sys.stderr)
+    from huggingface_hub import get_token, whoami
+    if get_token() is None:
+        print("WARNING: not logged in to Hugging Face; run `hf auth login` or "
+              "set HF_TOKEN.", file=sys.stderr)
+        return
+    print(f"Hugging Face: logged in as {hub(whoami)['name']}")
 
 
 def download(data: Path, repo: tuple[str, str], months: list[str]) -> Path:
@@ -108,31 +130,23 @@ def download(data: Path, repo: tuple[str, str], months: list[str]) -> Path:
     from huggingface_hub import list_repo_files, snapshot_download
     name, sub = repo
     prefixes = [f"{sub}/{m.replace('-', '/')}/" for m in months]
-    want = [f for f in list_repo_files(f"{ORG}/{name}", repo_type="dataset")
+    want = [f for f in hub(list_repo_files, f"{ORG}/{name}", repo_type="dataset")
             if f.startswith(tuple(prefixes))]
     if not want:
         raise SystemExit(f"{name} has no files for {months}")
     missing = [f for f in want if not (data / f).exists()]
-    # THE HUB ALLOWS 1000 API REQUESTS PER 5 MINUTES PER ACCOUNT, logged in or
-    # not, and every file costs at least one. One evaluation month is ~2500
-    # files across the three layouts, so a 429 is expected, not exceptional:
-    # wait the window out and resume. snapshot_download skips files already
-    # on disk, so each attempt only fetches what is left.
-    for attempt in range(1, 13):
+    # snapshot_download skips files already on disk, so each round fetches
+    # only what is left -- including after a round that returned cleanly with
+    # files missing, which a spent rate-limit window can also cause.
+    for rnd in range(6):
         if not missing:
             break
+        if rnd:
+            print(f"{len(missing)} files still missing; retrying in 300 s", flush=True)
+            time.sleep(300)
         print(f"downloading {len(missing)} of {len(want)} files from {name}", flush=True)
-        try:
-            snapshot_download(f"{ORG}/{name}", repo_type="dataset", local_dir=data,
-                              allow_patterns=[p + "*" for p in prefixes], max_workers=4)
-        except Exception as e:  # HfHubHTTPError and requests' HTTPError alike
-            resp = getattr(e, "response", None)
-            if getattr(resp, "status_code", None) != 429:
-                raise
-            wait = int(resp.headers.get("Retry-After", 0) or 0) or 300
-            print(f"rate-limited by the Hub (attempt {attempt}); "
-                  f"resuming in {wait} s", flush=True)
-            time.sleep(wait)
+        hub(snapshot_download, f"{ORG}/{name}", repo_type="dataset", local_dir=data,
+            allow_patterns=[p + "*" for p in prefixes], max_workers=4)
         missing = [f for f in want if not (data / f).exists()]
     if missing:
         raise SystemExit(f"{name}: {len(missing)} files still missing, "
@@ -153,7 +167,7 @@ def build_targets(sparse: Path, out: Path, months: list[str]) -> Path:
 def released(work: Path, slug: str, month: str) -> Path:
     """One month of a released encoder, in a private copy (scoring writes into it)."""
     from huggingface_hub import snapshot_download
-    src = Path(snapshot_download(f"{ORG}/tfwm-{slug}", allow_patterns=[f"{month}/*"]))
+    src = Path(hub(snapshot_download, f"{ORG}/tfwm-{slug}", allow_patterns=[f"{month}/*"]))
     dst = work / "released" / slug / month
     if not dst.exists():
         shutil.copytree(src / month, dst)
