@@ -45,32 +45,63 @@ results are in `plots/core/probe_breadth_snapshot.json.gz`, and the head,
 latent and RankMe results are in `plots/metrics/` and `plots/latent_eval/`.
 `plots/core/README.md` explains how the tables are assembled.
 
-## Train an encoder
+## Replicate a released encoder
 
-The default machine config, `machine=hub`, reads Market-1T straight from the
-Hub and downloads only the months a run needs, into `$HF_HOME`. Log in
-first (`hf auth login`), because anonymous downloads are rate-limited. Every
-default in `market_jepa/schemas.py` is the reported recipe, so a run names
-only its method and dates. To reproduce the 2020-01 evaluation month (trained
-on 2019-07 to 2019-12):
+Two scripts in `examples/` do the whole loop on one GPU. Each one downloads
+the data, trains the reported recipe for one evaluation month, scores the new
+checkpoint and the released one with the paper's scorer on the same machine,
+and checks the two agree:
 
 ```bash
-DATES="dataset.train_date_start=2019-07-01 dataset.train_date_end=2019-12-31 \
-       dataset.eval_train_date_start=2019-07-01 dataset.eval_train_date_end=2019-12-31 \
-       dataset.eval_date_start=2020-01-01 dataset.eval_date_end=2020-01-31"
+hf auth login                                  # anonymous downloads are rate-limited
+uv run examples/supervised_spread.py           # supervised spread change
+uv run examples/lejepa_time_warp.py            # LeJEPA, time-warp pairing
+uv run examples/lejepa_time_warp.py --smoke    # 50 steps: checks the pipeline in minutes
+```
+
+Supervised spread change is the tightest check. Its seed-to-seed standard
+deviation is about 1% of its IC (`plots/variance_decomp/`), so a 5% band is
+roughly four standard deviations wide. The LeJEPA script gates on volatility
+change and spread change and reports return without gating on it, because
+return's IC (~0.01) is small enough that a 5% band sits inside run-to-run
+noise.
+
+## Train an encoder
+
+Every default in `market_jepa/schemas.py` is the reported recipe, so a run
+names only its method, its dates, and the cross-sectional target tables. The
+tables standardize each target against its cross-section and set where views
+may end, so a run without them trains a different model. Build them from the
+sparse layout first (see *Score an encoder* for the download):
+
+```bash
+uv run sf-build-targets --mosaic-dir market1t/1Hz_mosaic_mnth_sparse \
+    --out-dir xs_anchor_stats_fwdvwap60 --start 2019-07 --end 2020-01 \
+    --holiday-csv data/market_holidays.csv
+```
+
+The default machine config, `machine=hub`, reads the training data straight
+from the Hub. It downloads only the months a run needs, into `$HF_HOME`. To
+reproduce the 2020-01 evaluation month (trained on 2019-07 to 2019-12):
+
+```bash
+COMMON="dataset.xs_anchor_stats_dir=$PWD/xs_anchor_stats_fwdvwap60 \
+        dataset.train_date_start=2019-07-01 dataset.train_date_end=2019-12-31 \
+        dataset.eval_train_date_start=2019-07-01 dataset.eval_train_date_end=2019-12-31 \
+        dataset.eval_date_start=2020-01-01 dataset.eval_date_end=2020-01-31"
 
 # LeJEPA, time-warp pairing
-uv run train.py mode=lejepa mode.lamb=0.001 dataset.augmentations.0.name=time_warp $DATES
+uv run train.py mode=lejepa mode.lamb=0.001 dataset.augmentations.0.name=time_warp $COMMON
 
 # A self-supervised baseline: the mode is the whole arm
-uv run train.py mode=ts2vec $DATES
+uv run train.py mode=ts2vec $COMMON
 
 # Supervised specialist; supervised arms train from the day store
-uv run train.py mode=supervised mode.task=return_900 dataset.backend=days $DATES
+uv run train.py mode=supervised mode.task=spread_change_900 dataset.backend=days $COMMON
 
 # Supervised multihead
 uv run train.py mode=multi_supervised \
-    mode.tasks=[return_900,volatility_change_900,spread_change_900] dataset.backend=days $DATES
+    mode.tasks=[return_900,volatility_change_900,spread_change_900] dataset.backend=days $COMMON
 ```
 
 Each arm's exact overrides are in `scripts/sweeps/`. The LeJEPA pairings and
@@ -134,6 +165,7 @@ in the paper's table.
 |---|---|
 | `market_jepa/` | Models, objectives, training loop, evaluation |
 | `stable-finance/` | Data pipeline: sharding, dense grids, day store, targets (submodule) |
+| `examples/` | End-to-end replication of a released encoder, with a parity check |
 | `train.py` | Hydra entry point; `market_jepa/schemas.py` defines every option |
 | `scripts/sweeps/` | The exact arms behind every reported method |
 | `scripts/eval/` | Probe scoring, RankMe, FLOPs, checkpoint audits |
