@@ -53,7 +53,7 @@ checkpoint and the released one with the paper's scorer on the same machine,
 and checks the two agree:
 
 ```bash
-hf auth login                                  # anonymous downloads are rate-limited
+hf auth login                                  # the examples wait out Hub rate limits
 uv run examples/supervised_spread.py           # supervised spread change
 uv run examples/lejepa_time_warp.py            # LeJEPA, time-warp pairing
 uv run examples/lejepa_time_warp.py --smoke    # 50 steps: checks the pipeline in minutes
@@ -120,11 +120,14 @@ window. The paper's tables average over 31 evaluation months from 2008 to
 
 The probe fits a ridge per target on the encoder's six training months
 (36 anchors a day) and scores cross-sectional rank IC on the evaluation month
-(8 anchors a day). Scoring reads local copies of the data. Download them with
-a Hugging Face login (`hf auth login`, or set `HF_TOKEN`), because anonymous
-requests are rate-limited well below what a few months of shards need.
-Check that the download is complete, since a rate-limited
-`snapshot_download` can return without error with files missing.
+(8 anchors a day). Scoring reads local copies of the data. Log in first
+(`hf auth login`, or set `HF_TOKEN`). Even logged in, the Hub allows 1,000 API
+requests per 5 minutes per account, and each file costs at least one. A
+seven-month download is about 2,500 files across the three layouts, so expect
+HTTP 429 partway through. Wait five minutes and rerun: files already on disk
+are skipped. Check that the download is complete, since a rate-limited
+`snapshot_download` can return without error with files missing. The examples
+do both for you.
 
 ```python
 from huggingface_hub import snapshot_download

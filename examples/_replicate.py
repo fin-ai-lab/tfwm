@@ -19,6 +19,7 @@ import os
 import shutil
 import subprocess
 import sys
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -112,14 +113,30 @@ def download(data: Path, repo: tuple[str, str], months: list[str]) -> Path:
     if not want:
         raise SystemExit(f"{name} has no files for {months}")
     missing = [f for f in want if not (data / f).exists()]
-    if missing:
-        print(f"downloading {len(missing)} of {len(want)} files from {name}")
-        snapshot_download(f"{ORG}/{name}", repo_type="dataset", local_dir=data,
-                          allow_patterns=[p + "*" for p in prefixes], max_workers=4)
+    # THE HUB ALLOWS 1000 API REQUESTS PER 5 MINUTES PER ACCOUNT, logged in or
+    # not, and every file costs at least one. One evaluation month is ~2500
+    # files across the three layouts, so a 429 is expected, not exceptional:
+    # wait the window out and resume. snapshot_download skips files already
+    # on disk, so each attempt only fetches what is left.
+    for attempt in range(1, 13):
+        if not missing:
+            break
+        print(f"downloading {len(missing)} of {len(want)} files from {name}", flush=True)
+        try:
+            snapshot_download(f"{ORG}/{name}", repo_type="dataset", local_dir=data,
+                              allow_patterns=[p + "*" for p in prefixes], max_workers=4)
+        except Exception as e:  # HfHubHTTPError and requests' HTTPError alike
+            resp = getattr(e, "response", None)
+            if getattr(resp, "status_code", None) != 429:
+                raise
+            wait = int(resp.headers.get("Retry-After", 0) or 0) or 300
+            print(f"rate-limited by the Hub (attempt {attempt}); "
+                  f"resuming in {wait} s", flush=True)
+            time.sleep(wait)
         missing = [f for f in want if not (data / f).exists()]
     if missing:
-        raise SystemExit(f"{name}: {len(missing)} files still missing after "
-                         f"download (rate-limited?), e.g. {missing[0]}. Rerun.")
+        raise SystemExit(f"{name}: {len(missing)} files still missing, "
+                         f"e.g. {missing[0]}. Rerun to resume.")
     return data / sub
 
 
