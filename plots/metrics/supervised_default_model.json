@@ -1,0 +1,263 @@
+{
+ "scale": "small",
+ "label": "Reported Model",
+ "n_months": 29,
+ "flops": 5.068849168605243e+17,
+ "flops_mean": 5.19661444607156e+17,
+ "flops_min": 352843574166945792,
+ "flops_max": 804196775639384064,
+ "steps_mean": 3481.655172413793,
+ "per_month": [
+  {
+   "train_end": "2008-07",
+   "eval_month": "2008-08",
+   "steps": 3696,
+   "views": 15138816,
+   "flops": 551653912910757888
+  },
+  {
+   "train_end": "2008-08",
+   "eval_month": "2008-09",
+   "steps": 3732,
+   "views": 15286272,
+   "flops": 557027165309239296
+  },
+  {
+   "train_end": "2009-11",
+   "eval_month": "2009-12",
+   "steps": 3528,
+   "views": 14450688,
+   "flops": 526578735051177984
+  },
+  {
+   "train_end": "2009-12",
+   "eval_month": "2010-01",
+   "steps": 3240,
+   "views": 13271040,
+   "flops": 483592715863326720
+  },
+  {
+   "train_end": "2010-03",
+   "eval_month": "2010-04",
+   "steps": 2796,
+   "views": 11452416,
+   "flops": 417322602948722688
+  },
+  {
+   "train_end": "2010-05",
+   "eval_month": "2010-06",
+   "steps": 2796,
+   "views": 11452416,
+   "flops": 417322602948722688
+  },
+  {
+   "train_end": "2010-12",
+   "eval_month": "2011-01",
+   "steps": 3060,
+   "views": 12533760,
+   "flops": 456726453870919680
+  },
+  {
+   "train_end": "2011-05",
+   "eval_month": "2011-06",
+   "steps": 2856,
+   "views": 11698176,
+   "flops": 426278023612858368
+  },
+  {
+   "train_end": "2012-03",
+   "eval_month": "2012-04",
+   "steps": 3276,
+   "views": 13418496,
+   "flops": 488965968261808128
+  },
+  {
+   "train_end": "2012-08",
+   "eval_month": "2012-09",
+   "steps": 3360,
+   "views": 13762560,
+   "flops": 501503557191598080
+  },
+  {
+   "train_end": "2012-09",
+   "eval_month": "2012-10",
+   "steps": 3156,
+   "views": 12926976,
+   "flops": 471055126933536768
+  },
+  {
+   "train_end": "2012-10",
+   "eval_month": "2012-11",
+   "steps": 3168,
+   "views": 12976128,
+   "flops": 472846211066363904
+  },
+  {
+   "train_end": "2012-12",
+   "eval_month": "2013-01",
+   "steps": 2652,
+   "views": 10862592,
+   "flops": 395829593354797056
+  },
+  {
+   "train_end": "2013-03",
+   "eval_month": "2013-04",
+   "steps": 2364,
+   "views": 9682944,
+   "flops": 352843574166945792
+  },
+  {
+   "train_end": "2013-11",
+   "eval_month": "2013-12",
+   "steps": 2808,
+   "views": 11501568,
+   "flops": 419113687081549824
+  },
+  {
+   "train_end": "2013-12",
+   "eval_month": "2014-01",
+   "steps": 2556,
+   "views": 10469376,
+   "flops": 381500920292179968
+  },
+  {
+   "train_end": "2016-12",
+   "eval_month": "2017-01",
+   "steps": 3168,
+   "views": 12976128,
+   "flops": 472846211066363904
+  },
+  {
+   "train_end": "2017-01",
+   "eval_month": "2017-02",
+   "steps": 2892,
+   "views": 11845632,
+   "flops": 431651276011339776
+  },
+  {
+   "train_end": "2017-07",
+   "eval_month": "2017-08",
+   "steps": 2940,
+   "views": 12042240,
+   "flops": 438815612542648320
+  },
+  {
+   "train_end": "2018-10",
+   "eval_month": "2018-11",
+   "steps": 3096,
+   "views": 12681216,
+   "flops": 462099706269401088
+  },
+  {
+   "train_end": "2019-08",
+   "eval_month": "2019-09",
+   "steps": 3456,
+   "views": 14155776,
+   "flops": 515832230254215168
+  },
+  {
+   "train_end": "2019-12",
+   "eval_month": "2020-01",
+   "steps": 2988,
+   "views": 12238848,
+   "flops": 445979949073956864
+  },
+  {
+   "train_end": "2020-07",
+   "eval_month": "2020-08",
+   "steps": 4512,
+   "views": 18481152,
+   "flops": 673447633943003136
+  },
+  {
+   "train_end": "2020-08",
+   "eval_month": "2020-09",
+   "steps": 4620,
+   "views": 18923520,
+   "flops": 689567391138447360
+  },
+  {
+   "train_end": "2020-11",
+   "eval_month": "2020-12",
+   "steps": 4272,
+   "views": 17498112,
+   "flops": 637625951286460416
+  },
+  {
+   "train_end": "2021-08",
+   "eval_month": "2021-09",
+   "steps": 5388,
+   "views": 22069248,
+   "flops": 804196775639384064
+  },
+  {
+   "train_end": "2021-11",
+   "eval_month": "2021-12",
+   "steps": 5052,
+   "views": 20692992,
+   "flops": 754046419920224256
+  },
+  {
+   "train_end": "2022-06",
+   "eval_month": "2022-07",
+   "steps": 5304,
+   "views": 21725184,
+   "flops": 791659186709594112
+  },
+  {
+   "train_end": "2023-03",
+   "eval_month": "2023-04",
+   "steps": 4236,
+   "views": 17350656,
+   "flops": 632252698887979008
+  }
+ ],
+ "ic_head": {
+  "return_900": {
+   "mean": 0.027360536195502442,
+   "n_months": 31,
+   "commit": "581eb2"
+  },
+  "volatility_change_900": {
+   "mean": 0.08988098897714894,
+   "n_months": 31,
+   "commit": "581eb2"
+  },
+  "spread_change_900": {
+   "mean": 0.24945966637289804,
+   "n_months": 31,
+   "commit": "581eb2"
+  }
+ },
+ "flops_from": [
+  "supervised-scaling-small-762334-2008-02-01-2008-07-31",
+  "supervised-scaling-small-762334-2008-03-01-2008-08-31",
+  "supervised-scaling-small-762334-2009-06-01-2009-11-30",
+  "supervised-scaling-small-762334-2009-07-01-2009-12-31",
+  "supervised-scaling-small-762334-2009-10-01-2010-03-31",
+  "supervised-scaling-small-762334-2009-12-01-2010-05-31",
+  "supervised-scaling-small-762334-2010-07-01-2010-12-31",
+  "supervised-scaling-small-762334-2010-12-01-2011-05-31",
+  "supervised-scaling-small-762334-2011-10-01-2012-03-31",
+  "supervised-scaling-small-762334-2012-03-01-2012-08-31",
+  "supervised-scaling-small-762334-2012-04-01-2012-09-30",
+  "supervised-scaling-small-762334-2012-05-01-2012-10-31",
+  "supervised-scaling-small-762334-2012-07-01-2012-12-31",
+  "supervised-scaling-small-762334-2012-10-01-2013-03-31",
+  "supervised-scaling-small-762334-2013-06-01-2013-11-30",
+  "supervised-scaling-small-762334-2013-07-01-2013-12-31",
+  "supervised-scaling-small-762334-2016-07-01-2016-12-31",
+  "supervised-scaling-small-762334-2016-08-01-2017-01-31",
+  "supervised-scaling-small-762334-2017-02-01-2017-07-31",
+  "supervised-scaling-small-762334-2018-05-01-2018-10-31",
+  "supervised-scaling-small-762334-2019-03-01-2019-08-31",
+  "supervised-scaling-small-762334-2019-07-01-2019-12-31",
+  "supervised-scaling-small-762334-2020-02-01-2020-07-31",
+  "supervised-scaling-small-762334-2020-03-01-2020-08-31",
+  "supervised-scaling-small-762334-2020-06-01-2020-11-30",
+  "supervised-scaling-small-762334-2021-03-01-2021-08-31",
+  "supervised-scaling-small-762334-2021-06-01-2021-11-30",
+  "supervised-scaling-small-762334-2022-01-01-2022-06-30",
+  "supervised-scaling-small-762334-2022-10-01-2023-03-31"
+ ]
+}

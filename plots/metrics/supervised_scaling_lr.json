@@ -1,0 +1,886 @@
+{
+ "rows": [
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "return_900",
+   "blr": 5e-05,
+   "ic_head": 0.045563213450908656,
+   "ic_probe": 0.030674249320444002
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "return_900",
+   "blr": 0.0002,
+   "ic_head": 0.03770161382380031,
+   "ic_probe": 0.026202711870876312
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.11580150056005378,
+   "ic_probe": 0.10664919710050387
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "spread_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.2165210842174602,
+   "ic_probe": 0.2200857069822838
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.04064608984465932,
+   "ic_probe": 0.02983435817900163
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.22000273001803486,
+   "ic_probe": 0.221214416033258
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "volatility_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.11543194948231188,
+   "ic_probe": 0.1077510616690154
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.20752775625192302,
+   "ic_probe": 0.20354244969529442
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "spread_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.2028886620079402,
+   "ic_probe": 0.19561429425308233
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.026831918245300766,
+   "ic_probe": 0.026631643665303566
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.11700564385847877,
+   "ic_probe": 0.1074169494543077
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "return_900",
+   "blr": 5e-05,
+   "ic_head": 0.03069983613953422,
+   "ic_probe": 0.021680562157406668
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "volatility_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.11899688672066193,
+   "ic_probe": 0.10708400415965484
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.07629074360698813,
+   "ic_probe": 0.07137517573026719
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "spread_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.31048532130893525,
+   "ic_probe": 0.30911206581309847
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.03694698336585551,
+   "ic_probe": 0.021212861764860473
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "return_900",
+   "blr": 0.0002,
+   "ic_head": 0.03295240901076069,
+   "ic_probe": 0.022171169535638958
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.3140175837052834,
+   "ic_probe": 0.3137685180590518
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "volatility_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.07725674095687722,
+   "ic_probe": 0.07093267335662698
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "return_900",
+   "blr": 5e-05,
+   "ic_head": 0.04289342726011252,
+   "ic_probe": 0.02456067070949006
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "return_900",
+   "blr": 5e-05,
+   "ic_head": 0.017434168056247454,
+   "ic_probe": 0.008127453068591523
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.06641708150813075,
+   "ic_probe": 0.06039871749847357
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "spread_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.34434018140715933,
+   "ic_probe": 0.34439605463053463
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.3466455055194971,
+   "ic_probe": 0.34630763579410834
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.014731580904122332,
+   "ic_probe": 0.008492551731668989
+  },
+  {
+   "scale": "base",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "volatility_change_900",
+   "blr": 5e-05,
+   "ic_head": 0.06693784665149655,
+   "ic_probe": 0.06415537950664137
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "return_900",
+   "blr": 0.0008,
+   "ic_head": 0.011116562386421926,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.045826931956749056,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "spread_change_900",
+   "blr": 0.0004,
+   "ic_head": 0.21967762217780887,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.21659405967435785,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "return_900",
+   "blr": 0.0004,
+   "ic_head": 0.049181672293223976,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "return_900",
+   "blr": 0.0002,
+   "ic_head": 0.04861893110834044,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.11219165818633293,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "volatility_change_900",
+   "blr": 0.0004,
+   "ic_head": 0.11496007514584446,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "spread_change_900",
+   "blr": 0.0002,
+   "ic_head": 0.2172061845121765,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2009-06",
+   "task": "volatility_change_900",
+   "blr": 0.0002,
+   "ic_head": 0.11395945777356122,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "volatility_change_900",
+   "blr": 0.0002,
+   "ic_head": 0.1179039634443287,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "return_900",
+   "blr": 0.0004,
+   "ic_head": 0.02214868561872772,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "spread_change_900",
+   "blr": 0.0002,
+   "ic_head": 0.20714537513088754,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.20414583084437404,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "return_900",
+   "blr": 0.0002,
+   "ic_head": 0.03322857194886353,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "volatility_change_900",
+   "blr": 0.0004,
+   "ic_head": 0.11399251962088663,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.02756905582390994,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.11551513837512914,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2011-12",
+   "task": "spread_change_900",
+   "blr": 0.0004,
+   "ic_head": 0.2103482577224072,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "volatility_change_900",
+   "blr": 0.0002,
+   "ic_head": 0.0764239914913961,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "return_900",
+   "blr": 0.0008,
+   "ic_head": 0.011690773898396862,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.28772693476791744,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.07544240607578787,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "volatility_change_900",
+   "blr": 0.0008,
+   "ic_head": 0.06481185192651678,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "return_900",
+   "blr": 0.0004,
+   "ic_head": 0.016018618871244138,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "volatility_change_900",
+   "blr": 0.0004,
+   "ic_head": 0.07741365512922144,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "spread_change_900",
+   "blr": 0.0002,
+   "ic_head": 0.2960544939874488,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.017053357112016387,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "return_900",
+   "blr": 0.0002,
+   "ic_head": 0.017892182515873413,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2015-06",
+   "task": "spread_change_900",
+   "blr": 0.0004,
+   "ic_head": 0.29937093923720753,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.039815243739894,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "return_900",
+   "blr": 0.0002,
+   "ic_head": 0.0413064685335665,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.07167529274416087,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2016-03",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.3068339484024595,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "return_900",
+   "blr": 0.0002,
+   "ic_head": 0.018059760105061964,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "return_900",
+   "blr": 0.0001,
+   "ic_head": 0.019858432268389774,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "volatility_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.06318633344822723,
+   "ic_probe": null
+  },
+  {
+   "scale": "tiny",
+   "commit": "762334",
+   "train_end": "2021-03",
+   "task": "spread_change_900",
+   "blr": 0.0001,
+   "ic_head": 0.3431035973050248,
+   "ic_probe": null
+  }
+ ],
+ "summary": {
+  "base": {
+   "return_900": {
+    "5e-05": {
+     "ic_head": {
+      "mean": 0.03414766122670071,
+      "n": 4,
+      "delta_vs_ref": 0.008901308938230088,
+      "se_delta": 0.0010397093111217393,
+      "n_paired": 2
+     },
+     "ic_probe": {
+      "mean": 0.021260733813983065,
+      "n": 4,
+      "delta_vs_ref": 0.003430519311709396,
+      "se_delta": 0.0010410181378582937,
+      "n_paired": 2
+     }
+    },
+    "0.0001": {
+     "ic_head": {
+      "mean": 0.029789143089984482,
+      "n": 4,
+      "delta_vs_ref": 0.003469525187976913,
+      "se_delta": 0.0005250491671179025,
+      "n_paired": 2
+     },
+     "ic_probe": {
+      "mean": 0.021542853835208667,
+      "n": 4,
+      "delta_vs_ref": 0.0013366692686734172,
+      "se_delta": 0.002294977039451902,
+      "n_paired": 2
+     }
+    },
+    "0.0002": {
+     "ic_head": {
+      "mean": 0.0353270114172805,
+      "n": 2,
+      "delta_vs_ref": 0.0,
+      "se_delta": 0.0,
+      "n_paired": 2
+     },
+     "ic_probe": {
+      "mean": 0.024186940703257637,
+      "n": 2,
+      "delta_vs_ref": 0.0,
+      "se_delta": 0.0,
+      "n_paired": 2
+     }
+    }
+   },
+   "volatility_change_900": {
+    "5e-05": {
+     "ic_head": {
+      "mean": 0.09465585595283689,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     },
+     "ic_probe": {
+      "mean": 0.08748077967298463,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0001": {
+     "ic_head": {
+      "mean": 0.09387874238341286,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     },
+     "ic_probe": {
+      "mean": 0.0864600099458881,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    }
+   },
+   "spread_change_900": {
+    "5e-05": {
+     "ic_head": {
+      "mean": 0.26855881223537376,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     },
+     "ic_probe": {
+      "mean": 0.2673020304197498,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0001": {
+     "ic_head": {
+      "mean": 0.27204839387368457,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     },
+     "ic_probe": {
+      "mean": 0.27120825489542816,
+      "n": 4,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    }
+   }
+  },
+  "tiny": {
+   "return_900": {
+    "0.0001": {
+     "ic_head": {
+      "mean": 0.030024604180191827,
+      "n": 5,
+      "delta_vs_ref": -0.0017965786621493376,
+      "se_delta": 0.0012216691159883475,
+      "n_paired": 5
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0002": {
+     "ic_head": {
+      "mean": 0.03182118284234117,
+      "n": 5,
+      "delta_vs_ref": 0.0,
+      "se_delta": 0.0,
+      "n_paired": 5
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0004": {
+     "ic_head": {
+      "mean": 0.029116325594398612,
+      "n": 3,
+      "delta_vs_ref": -0.004130236263293848,
+      "se_delta": 0.003545284301916383,
+      "n_paired": 3
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0008": {
+     "ic_head": {
+      "mean": 0.011403668142409394,
+      "n": 2,
+      "delta_vs_ref": -0.021851888669697533,
+      "se_delta": 0.01565048005222098,
+      "n_paired": 2
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    }
+   },
+   "volatility_change_900": {
+    "0.0001": {
+     "ic_head": {
+      "mean": 0.08760216576592761,
+      "n": 5,
+      "delta_vs_ref": -0.0017127366906786918,
+      "se_delta": 0.0004071669610828302,
+      "n_paired": 3
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0002": {
+     "ic_head": {
+      "mean": 0.10276247090309533,
+      "n": 3,
+      "delta_vs_ref": 0.0,
+      "se_delta": 0.0,
+      "n_paired": 3
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0004": {
+     "ic_head": {
+      "mean": 0.10212208329865084,
+      "n": 3,
+      "delta_vs_ref": -0.0006403876044444959,
+      "se_delta": 0.0016355311662124377,
+      "n_paired": 3
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0008": {
+     "ic_head": {
+      "mean": 0.06481185192651678,
+      "n": 1,
+      "delta_vs_ref": -0.011612139564879317,
+      "se_delta": null,
+      "n_paired": 1
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    }
+   },
+   "spread_change_900": {
+    "0.0001": {
+     "ic_head": {
+      "mean": 0.2716808741988267,
+      "n": 5,
+      "delta_vs_ref": -0.003979742781287839,
+      "se_delta": 0.0022805389524917985,
+      "n_paired": 3
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0002": {
+     "ic_head": {
+      "mean": 0.24013535121017093,
+      "n": 3,
+      "delta_vs_ref": 0.0,
+      "se_delta": 0.0,
+      "n_paired": 3
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    },
+    "0.0004": {
+     "ic_head": {
+      "mean": 0.24313227304580787,
+      "n": 3,
+      "delta_vs_ref": 0.0029969218356369156,
+      "se_delta": 0.0002647793603679617,
+      "n_paired": 3
+     },
+     "ic_probe": {
+      "mean": null,
+      "n": 0,
+      "delta_vs_ref": null,
+      "se_delta": null,
+      "n_paired": 0
+     }
+    }
+   }
+  }
+ }
+}

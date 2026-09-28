@@ -1,0 +1,35 @@
+% requires \usepackage[normalem]{ulem} for \sout
+\begin{table}[t]
+\caption{Forecasting rank IC at the 15-minute horizon from a ridge probe on frozen six-month features, averaged over 31 eval months; a supervised arm's own head IC follows in parentheses, \sout{struck} cells fail to beat the untrained Random ViT floor, and \textbf{bold} marks the best two \emph{self-supervised} arms per target.}
+\label{tab:probe_fit}
+\centering
+\begin{tabular}{lccc}
+\toprule
+ & Return & Volatility & Spread \\
+\midrule
+\addlinespace \multicolumn{4}{l}{\emph{Supervised}} \\
+Return & $0.0277$\,($0.0274$) & $0.0702$ & \sout{$0.1294$} \\
+Vol & $0.0201$ & $0.0891$\,($0.0899$) & \sout{$0.1469$} \\
+Spread & $0.0179$ & $0.0770$ & $0.2493$\,($0.2495$) \\
+Multihead & $0.0317$\,($0.0322$) & $0.0951$\,($0.0963$) & $0.2432$\,($0.2418$) \\
+\addlinespace \multicolumn{4}{l}{\emph{LeJEPA}~\citep{balestriero2025lejepaprovablescalableselfsupervised}} \\
+\scriptsize{Same Stock, Diff. View} & $0.0182$ & $0.0723$ & \sout{$\mathbf{0.1656}$} \\
+Time Warping & $\mathbf{0.0206}$ & $\mathbf{0.0726}$ & \sout{$\mathbf{0.1670}$} \\
+Gaussian Noising & $0.0178$ & \sout{$0.0694$} & \sout{$0.1612$} \\
+Cross Stock & \sout{$0.0173$} & \sout{$0.0698$} & \sout{$0.1653$} \\
+C-S, Same Industry & $0.0178$ & \sout{$0.0698$} & \sout{$0.1646$} \\
+\addlinespace \multicolumn{4}{l}{\emph{SSL}} \\
+DINO~\citep{caron_etal_dino} & \sout{$0.0100$} & \sout{$0.0308$} & \sout{$0.0619$} \\
+BYOL~\citep{grill2020bootstraplatentnewapproach} & \sout{$0.0107$} & \sout{$0.0313$} & \sout{$0.0680$} \\
+CPC~\citep{oord2019representationlearningcontrastivepredictive} & $0.0190$ & $0.0703$ & \sout{$0.1505$} \\
+I-JEPA~\citep{assran2023selfsupervisedlearningimagesjointembedding} & \sout{$0.0103$} & \sout{$0.0256$} & \sout{$0.0641$} \\
+MAE~\citep{he_etal_2022} & $0.0185$ & \sout{$0.0689$} & \sout{$0.1409$} \\
+TS2Vec~\citep{yue2022ts2vec} & $\mathbf{0.0208}$ & $\mathbf{0.0726}$ & \sout{$0.1486$} \\
+CoST~\citep{woo2022costcontrastivelearningdisentangled} & \sout{$0.0101$} & \sout{$0.0343$} & \sout{$0.0303$} \\
+TF-C~\citep{zhang2022selfsupervisedcontrastivepretrainingtime} & \sout{$0.0091$} & \sout{$0.0577$} & \sout{$0.1155$} \\
+TimeMAE~\citep{Cheng_2026} & $0.0204$ & $0.0712$ & \sout{$0.1389$} \\
+\addlinespace \multicolumn{4}{l}{\emph{Untrained floor}} \\
+Random ViT & $0.0175$ & $0.0700$ & $0.1677$ \\
+\bottomrule
+\end{tabular}
+\end{table}

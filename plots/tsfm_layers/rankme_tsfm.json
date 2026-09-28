@@ -1,0 +1,10201 @@
+[
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 7.843298517792344
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 17.825515117487377
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 188.28174349164553
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 182.12670621373357
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 109.82489079134324
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 36.827123579164095
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 51.511042327832186
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 75.81444378599728
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 92.80270724126854
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 112.10596292051851
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 135.32349398589233
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 168.1624672791676
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 768,
+  "rankme": 175.06859819778435
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 15.181616706375255
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 41.76689632599028
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 53.55883401215133
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 44.248180205817356
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 81.33989827037558
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 65.49258676021017
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 75.02842840059785
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 81.87317642824323
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 88.0777220740217
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 88.95073786217127
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 87.561124476312
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 80.48917745832217
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 832,
+  "rankme": 70.19987173951931
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 6.344535322541125
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 27.50433861733429
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 38.75751755154878
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 28.872923898399602
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 49.501283753675644
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 47.49249635141353
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 51.81991174600996
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 50.33464181804776
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 63.508428213945216
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 65.31022037403113
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 38.373274667424425
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 27.872520610747962
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 22.802757553004597
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 107.87613039606134
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 52.0010099699999
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 39.648622374301766
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 47.43814607874902
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 61.53604902579359
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 54.187547165010066
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 44.917219178814605
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2008-08",
+  "n": 14144,
+  "d": 1280,
+  "rankme": 48.07205361797673
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 7.7029852976784685
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 17.50391318174866
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 189.46994734065663
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 183.26170259835317
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 108.99798781180019
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 36.13249016057612
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 50.60378131144023
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 74.40001591850249
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 90.86641554285711
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 109.03024993937355
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 132.44326740933366
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 165.9361045548299
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 768,
+  "rankme": 174.7509469712703
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 15.258160830459472
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 42.22308109640323
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 55.5147139679542
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 46.296724641359404
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 84.64915858529014
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 67.94544610400062
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 77.98537712818482
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 84.66836002335405
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 90.72619070846194
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 91.4302127179938
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 89.6465087410219
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 82.59504777016124
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 832,
+  "rankme": 72.09991192190769
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 6.4020000621303
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 27.526761628355757
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 38.98080109862425
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 29.166276689626468
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 50.473586151987824
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 49.18427859799457
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 53.646526279107945
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 52.57655506749142
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 64.94573067523208
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 67.22287300520634
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 38.9873278932137
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 28.1981645559292
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 23.04289279922343
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 109.03056898670424
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 52.046456163456156
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 39.45619144067638
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 47.16107382439302
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 61.065764573724486
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 54.129381219386204
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 45.391083218622846
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2008-09",
+  "n": 11758,
+  "d": 1280,
+  "rankme": 48.37361239325903
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 7.600598766617727
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 17.182373839140425
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 184.6387372336777
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 178.94715674456026
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 107.39905545084957
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 35.471623036021626
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 49.47416337696986
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 72.25209364512789
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 88.01489329228461
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 105.86617484688371
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 128.57395814121233
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 161.6954484464067
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 768,
+  "rankme": 171.5961588452736
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 15.295173083347487
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 41.774415527232584
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 54.61388727141097
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 45.648991800179665
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 83.50529982608911
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 67.5955318647671
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 77.55060756472575
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 84.03821036517962
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 89.90693060691459
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 90.4234772695427
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 88.38416648230357
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 81.25589047639295
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 832,
+  "rankme": 70.88792772760036
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 6.410207481354979
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 27.132580957369154
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 38.13864630750413
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 28.65939250374962
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 50.13879344000307
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 48.96659964807771
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 53.48842041231615
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 53.04480014387644
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 65.01029183033161
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 67.21495862830652
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 38.703892723257034
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 27.885774231144445
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 22.852517417673937
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 107.77342541169216
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 51.63048953054509
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 38.7938998250176
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 46.266496282178565
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 59.718204264163276
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 52.56849202088624
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 44.139599075774186
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2008-10",
+  "n": 15715,
+  "d": 1280,
+  "rankme": 47.1903724365143
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 7.712861791800473
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 17.6185009937512
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 186.6767112268403
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 178.51625673374093
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 111.639332240925
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 36.62815453613611
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 51.137752356669864
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 75.75781545621487
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 93.91374832588231
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 113.44988646483579
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 135.83758972462255
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 167.8851916229848
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 768,
+  "rankme": 173.96133183050745
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 15.274564875457157
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 41.81014558657442
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 51.83446347881513
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 42.711705822308666
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 78.24797582925062
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 66.23411400620323
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 75.68294914727628
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 82.29757304306334
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 88.37462057670551
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 89.04578299162743
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 87.02985443375766
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 79.29857842775672
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 832,
+  "rankme": 68.50121060125609
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 6.314553705319369
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 27.860130477337425
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 38.77211633149395
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 28.997534968093337
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 49.696667313170664
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 47.6672341308932
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 52.770257039393
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 51.39742720446989
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 63.99910055733121
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 65.01775174144599
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 38.27440416425282
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 27.14334197887357
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 22.5172038989974
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 113.17285999969103
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 51.57351412404199
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 39.67313217492139
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 47.51738899023153
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 61.21987228135516
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 54.066804175335086
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 44.68145180295783
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2009-12",
+  "n": 9555,
+  "d": 1280,
+  "rankme": 47.91633934414933
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 7.334076781915844
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 16.39548580234646
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 173.08652317779016
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 166.26621379352915
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 100.96038221416386
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 33.302910256221004
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 46.383968073858725
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 69.33034710025667
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 85.70175450570147
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 103.22472985133096
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 124.59266181323824
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 154.81577964295732
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 768,
+  "rankme": 161.22239387371778
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 14.334069430415843
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 39.68130895056528
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 50.811254238867924
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 41.9851183222502
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 76.81561138680982
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 63.659140494280344
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 72.66465724348801
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 79.04920344468283
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 84.66640520084239
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 85.25034957761876
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 83.56868812840568
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 76.86681327911823
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 832,
+  "rankme": 66.68443414124164
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 6.268373564090685
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 26.695659046176218
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 34.93876795005123
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 26.366874044241264
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 46.015025470272136
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 44.647068846167606
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 49.16618047636102
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 47.923900233364705
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 57.582153371451895
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 58.865329196478655
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 34.0772564675729
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 24.255622267950127
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 21.353801752691485
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 102.82905429520939
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 48.12923896172202
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 36.28370923776881
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 42.98176105552439
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 54.715804291181236
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 48.44532591557581
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 40.272891273808014
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2010-01",
+  "n": 2831,
+  "d": 1280,
+  "rankme": 42.974070337300354
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 7.686398106694594
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 17.43334823839639
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 181.7823081249224
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 173.65797586293976
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 108.60682536055333
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 35.85301156210136
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 50.0867543965151
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 74.30053041534512
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 91.28823044456036
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 109.89532215811569
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 131.78815278247941
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 163.25423584402782
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 768,
+  "rankme": 169.63265127296998
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 15.049392905993562
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 41.68333628132713
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 53.330495424996236
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 43.978768161185556
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 80.29650089261898
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 66.05759535459589
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 75.75386858032311
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 82.44207454264907
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 88.50712828072541
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 89.32831857297147
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 87.80503864544531
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 80.56138063264527
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 832,
+  "rankme": 70.02924345331043
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 6.301885000887635
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 27.77733196145069
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 38.953133591551385
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 29.227928907382722
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 50.6067639866036
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 48.584959368427185
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 53.449442007138586
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 51.961628995312104
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 64.57127477000758
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 65.60803797967277
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 38.39558934597279
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 27.104197326346807
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 22.742224278869344
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 111.18739728187987
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 51.94691087474829
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 39.73202216104318
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 47.58228930367018
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 61.46458805757392
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 54.103949903873534
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 44.74279603930149
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2010-04",
+  "n": 11702,
+  "d": 1280,
+  "rankme": 47.921511071646506
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 7.642320521034398
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 16.74705664061007
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 172.96075949619137
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 165.2753884501477
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 102.12194367235611
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 33.70222361914973
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 46.91851094609051
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 69.83390966459869
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 84.80752626464181
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 101.73730570142303
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 121.37144147109643
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 152.25420016983833
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 768,
+  "rankme": 160.2771026528272
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 14.7716991023841
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 40.58865267371927
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 48.65874727077808
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 40.293845686207135
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 74.52825360017856
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 64.46406008725586
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 73.31770930583674
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 79.06337980200716
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 84.46609369862293
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 84.53924273612881
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 82.1643848942403
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 74.49764316102063
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 832,
+  "rankme": 64.1977042089962
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 6.353215767719876
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 26.840914584718384
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 37.567480880103325
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 28.293708386572003
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 49.75822647212906
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 47.98808144732925
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 52.707308855401756
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 51.71588897741641
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 64.14553784521095
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 65.47797422813024
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 38.144396886468755
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 27.182838009464035
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 22.176122652094516
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 108.27272996690827
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 50.03365170662109
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 37.911803311459614
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 45.2758923062541
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 58.635312000053545
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 51.55110056984173
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 42.821436476754336
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2010-06",
+  "n": 16139,
+  "d": 1280,
+  "rankme": 45.9046788065264
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 7.610221382378647
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 17.237834864977255
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 183.01708707671995
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 176.23867980383002
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 108.48752439243478
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 35.48081565739488
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 49.543206549406364
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 73.63614891532279
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 91.12503371849185
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 110.10808206699197
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 132.55410888332668
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 164.02506740076223
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 768,
+  "rankme": 170.25738546605783
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 14.870019518923474
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 40.98080448824839
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 51.5197824311885
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 42.49440249992371
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 78.0683705951945
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 64.8080385811904
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 74.05729614121644
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 80.62019306898664
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 86.52235989857883
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 87.17094470476148
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 85.49353948374954
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 78.27454747995817
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 832,
+  "rankme": 67.87386202477272
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 6.3177169171913095
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 27.727660453470204
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 38.24381435206593
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 28.66508112855895
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 49.33614215094011
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 47.612358401078964
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 52.49863901339175
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 51.1187017121567
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 63.18642386144679
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 64.0266330352611
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 37.54372042212176
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 26.410193041270002
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 22.60146791118722
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 109.60905261808514
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 51.56955906846265
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 39.36168393138042
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 46.934279559956536
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 60.20911077184796
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 53.176288073958034
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 44.04879036220514
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2011-01",
+  "n": 6834,
+  "d": 1280,
+  "rankme": 47.15717826133352
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 7.752398102045946
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 17.34977158820733
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 181.9040505832356
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 174.76167998609196
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 109.39923863439259
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 35.641465242680866
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 49.780387303514225
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 73.75812263901405
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 90.52242263385466
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 108.74222074738333
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 129.95441852671763
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 161.703128408343
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 768,
+  "rankme": 168.98570144540057
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 14.920078053803065
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 41.213620262814594
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 49.98674389353208
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 41.140385056372054
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 76.55803903664136
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 65.11492441384607
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 74.16525205342616
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 80.25593949047743
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 85.9703274864529
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 86.4287977613678
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 84.47990487601722
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 76.87847652691666
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 832,
+  "rankme": 66.27543335129543
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 6.348562315502982
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 27.46827138224226
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 38.68170881841681
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 29.123001060234465
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 50.72655778308115
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 48.73537239703225
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 53.7018517778054
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 52.5104335667998
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 65.2910374764349
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 66.24955261564156
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 38.86921585215004
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 27.623705406727826
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 22.655683453370273
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 110.67753484782342
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 51.47547196235383
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 39.164905741264036
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 46.86508793402409
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 60.56477505455662
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 53.20290345835878
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 44.0477047178251
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2011-06",
+  "n": 13269,
+  "d": 1280,
+  "rankme": 47.33432541106514
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 7.832638448849017
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 17.66785258896812
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 185.5648267471001
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 179.1653646910935
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 111.03589312228719
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 36.43363816227333
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 50.817529077047254
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 75.15070865828437
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 92.84764593638454
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 111.9748874531975
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 134.0791342793123
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 165.8740749116667
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 768,
+  "rankme": 172.7489653090782
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 15.0970615029886
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 41.81823553063819
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 52.41205350823737
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 43.087887682233415
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 78.8226576980782
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 65.96211605041542
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 75.2929963641047
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 81.84683695695949
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 87.92845134451298
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 88.62628535587676
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 87.07405372970184
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 79.7148777079935
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 832,
+  "rankme": 69.10475292722717
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 6.378017001256608
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 27.718892000970154
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 38.75393687253516
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 29.114420908322682
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 50.530041033726555
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 48.39540389588295
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 53.50986193266148
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 52.16070343989095
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 64.86495724690637
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 65.66257935149419
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 38.4583549338204
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 27.431257966666532
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 22.70151796715673
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 111.70000885742803
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 51.81364912258089
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 39.52289616078308
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 47.36040857181341
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 60.82733443319235
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 53.57012233088976
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 44.346724848356445
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2012-04",
+  "n": 11041,
+  "d": 1280,
+  "rankme": 47.6561386772868
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 7.819537881366066
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 17.48631007367891
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 184.30969273781827
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 177.38468089818846
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 111.12963067241806
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 36.0244888877487
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 50.23667106135388
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 74.46646276680836
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 92.2438888636304
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 111.3872395203894
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 133.23196856921058
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 165.45925372803558
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 768,
+  "rankme": 171.93868894801827
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 15.216573457673446
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 41.93938660363421
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 52.51988187824307
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 43.32935583455366
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 79.67719353715228
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 65.34601841859644
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 74.70812189519056
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 81.26485866129515
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 87.37023638417652
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 88.18557585608747
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 86.64407300656532
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 79.30724407682874
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 832,
+  "rankme": 68.99636322709115
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 6.315964925439717
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 27.773033139202532
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 38.50710170748172
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 28.83554859490155
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 49.25609134017659
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 47.194933903616466
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 52.030309544404794
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 50.73580466602304
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 63.72934242436405
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 64.56899119323522
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 38.18936093521641
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 26.953515373978043
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 22.533097149304506
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 111.42889288832053
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 51.47487325209217
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 39.53176917662633
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 47.30481545693121
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 61.063080862446554
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 53.743223108450636
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 44.378197062429656
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2012-09",
+  "n": 8740,
+  "d": 1280,
+  "rankme": 47.5182703504188
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 7.904321337650171
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 17.80108953611582
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 186.21818631109002
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 180.18317170578175
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 112.82255439278597
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 36.78029814833784
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 51.23146401570459
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 75.58682183316714
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 93.31127325382172
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 112.34004324825472
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 134.6211994001527
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 166.36727589319364
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 768,
+  "rankme": 173.45506088494184
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 15.208054655039604
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 41.67613660554199
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 51.35200564460904
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 42.218828231800224
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 78.37645520745448
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 65.7436496707189
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 75.25193396312338
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 81.47895417583203
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 87.5358911392195
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 88.3040041135368
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 86.53278281511135
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 78.92260699088075
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 832,
+  "rankme": 68.09586162910644
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 6.348067057504843
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 27.813090681212095
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 39.078718136388986
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 29.327032237122765
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 50.15568285131819
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 47.930567715815904
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 52.62722393367438
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 51.53608508004299
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 65.2218524056209
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 66.263459628245
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 39.04067809271354
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 27.796783429734194
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 22.798596045089038
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 113.34230646363885
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 51.97936159240939
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 39.965268070853504
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 47.9327118783809
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 62.09064672192358
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 54.5623436307932
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 45.01493408017921
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2012-10",
+  "n": 11402,
+  "d": 1280,
+  "rankme": 48.250826406214216
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 7.835110877074608
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 17.52679402591192
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 184.01413322200358
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 177.38323727555584
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 110.37971552683834
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 35.99372536620997
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 50.253775210941726
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 74.38692298475739
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 91.44990842529394
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 110.0130597396229
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 131.6737679252291
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 163.48431846454196
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 768,
+  "rankme": 171.04823475146983
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 14.952182507277989
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 41.33789564180832
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 49.44293980031993
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 40.52865020881125
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 75.67133670313804
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 64.50837583079982
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 73.54700496768282
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 79.7746683138212
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 85.59403183080954
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 86.01377485087379
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 84.10443103263331
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 76.40352606611668
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 832,
+  "rankme": 65.74575241449544
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 6.324696627260854
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 27.364941868475817
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 38.7083041630701
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 29.066395956173476
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 50.18843996171888
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 47.91388746249743
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 52.512987073816184
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 51.28120955185989
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 64.64712842669633
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 65.68075872759088
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 38.506785697829194
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 27.41515594907062
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 22.523570779797375
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 110.67152774276961
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 51.22379376314356
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 39.33384599652836
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 47.13580152719965
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 61.07081974261736
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 53.66265855618922
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 44.43218945608674
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2012-11",
+  "n": 9948,
+  "d": 1280,
+  "rankme": 47.66514771850223
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 7.59086106511938
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 17.065639812644797
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 182.1586968489621
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 175.076593412298
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 106.57647768121582
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 35.45737511983599
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 49.478000942059445
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 73.61860061639813
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 91.38019807635878
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 110.69855381532344
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 133.22031719532396
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 164.48617781250744
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 768,
+  "rankme": 170.5955260069207
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 14.881582938338509
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 41.14718393474027
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 51.98805298556501
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 42.690982169171264
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 79.19601393477775
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 64.65022990026047
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 74.00500546663058
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 80.79267463504323
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 86.77478399556504
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 87.4489562877177
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 85.91018782053378
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 78.85346665514213
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 832,
+  "rankme": 68.49185428586821
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 6.2824642958317485
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 27.383271253687315
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 36.86888002295539
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 27.721149315526088
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 48.13546047843398
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 46.42541321762556
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 51.42635299937699
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 50.06059866047886
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 61.76504465938408
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 62.29474060625569
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 36.442341867028176
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 25.798220563013768
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 22.08512025134751
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 108.88100654056552
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 50.25129091596587
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 38.262025786709025
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 45.43525116660769
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 58.10346175568698
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 51.27121161206868
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 42.41041923158124
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2013-01",
+  "n": 4116,
+  "d": 1280,
+  "rankme": 45.330381221085965
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 7.891264548645676
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 17.754878319369475
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 185.20062133377962
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 178.04764370712783
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 110.78586183322707
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 36.73783770256775
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 51.170548482677106
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 75.52002772724987
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 92.53397452183472
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 111.3846867041086
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 133.8504351010591
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 165.97310856523
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 768,
+  "rankme": 173.1684586681938
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 15.075553138118075
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 41.76942791917272
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 50.9260330360346
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 41.83319533987658
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 77.30361372652716
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 65.12641702923494
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 74.1247112307129
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 80.52530798674611
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 86.46334165526775
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 87.07099294347884
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 85.41404620104285
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 77.89268356522342
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 832,
+  "rankme": 67.42667013001363
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 6.33878198180621
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 27.722835935390535
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 39.04250459574338
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 29.336393132557472
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 50.72182468682262
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 48.53529580202088
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 53.32793391614443
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 52.13708203399918
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 65.66504760337635
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 66.7653685569092
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 39.277384641711606
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 28.083480915354038
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 22.834911791764487
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 112.52819657837647
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 52.02953622836649
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 39.85165365917665
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 47.7762694575886
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 61.71186803106025
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 54.01490250130135
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 44.5447858026351
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2013-04",
+  "n": 11572,
+  "d": 1280,
+  "rankme": 47.93574593142598
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 7.687511837108329
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 17.289320680435974
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 182.68745234728658
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 175.6661926268775
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 107.75173482878762
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 35.736705385313286
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 49.826474075024244
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 73.85633124499675
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 91.12921915294403
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 110.03017322051848
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 132.30950983200904
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 164.03868451923393
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 768,
+  "rankme": 170.69289723753158
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 14.575411049511509
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 40.87816388041505
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 49.31452580328115
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 40.47242134408091
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 75.04421321738174
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 64.78027728098114
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 73.57306358544535
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 79.62187619182414
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 85.27379021630519
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 85.60383242940712
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 83.60024205659306
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 76.02235048329274
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 832,
+  "rankme": 65.52815294864563
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 6.332612401374014
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 27.54012801342682
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 37.047633888555666
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 27.903484090101195
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 48.17068051823623
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 46.3265076295921
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 51.23041609250358
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 50.1920848855973
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 62.014808226783195
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 62.81200787931891
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 37.000544081213945
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 26.151231508317558
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 22.2119947942412
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 110.64651247672042
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 50.53680456801082
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 38.372195515852965
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 45.66967090352482
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 58.08497073435213
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 51.26168309247479
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 42.375830881744285
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2013-12",
+  "n": 4925,
+  "d": 1280,
+  "rankme": 45.45930896657895
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 7.553338631964817
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 16.794310032040592
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 180.27152497250694
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 174.2060835176635
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 105.06179219352498
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 34.331530739534884
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 47.98169035568892
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 71.54663654560818
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 88.51144902127696
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 106.84618351006887
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 129.01807001302492
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 160.70242704751035
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 768,
+  "rankme": 167.85883467242863
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 14.227093801436773
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 39.52918172854884
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 48.3398208327257
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 39.74952057735707
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 73.35654707440786
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 62.361404080643645
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 71.23490773592064
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 77.24787500984863
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 82.85427793463946
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 83.27335189007617
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 81.4220416147081
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 74.23075227253618
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 832,
+  "rankme": 64.0280671519342
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 6.289743862202015
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 27.09430646909999
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 36.29582297888862
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 27.40518268404108
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 47.64201228200467
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 46.02042148996854
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 50.75337458827017
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 49.61654664837274
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 60.80748224987819
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 61.73657603731597
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 36.029754599446015
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 25.45345492873791
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 22.016787555238963
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 106.76960226344413
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 49.78075563001051
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 37.654435914582564
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 44.72990722240662
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 56.789230525876185
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 50.12009691565689
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 41.589204492993744
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2014-01",
+  "n": 4746,
+  "d": 1280,
+  "rankme": 44.488506126381004
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 7.820183643914312
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 17.456990545315946
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 183.25736644728627
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 177.1858943743669
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 106.60706854347696
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 35.56007083485098
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 49.373098130786985
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 72.8244381697157
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 89.22486433006998
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 107.53352442932798
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 130.64499565765033
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 162.65338478359587
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 768,
+  "rankme": 170.44737832130625
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 14.551185924651444
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 40.38537993665818
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 49.51558172630134
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 40.710033678991465
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 75.05393397770759
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 63.16888867546503
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 72.25364709459582
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 78.46243137176877
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 84.2935622862252
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 84.79011227413189
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 83.08184372998504
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 75.76026008457492
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 832,
+  "rankme": 65.53446403408513
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 6.330264650467975
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 27.410501468176278
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 37.39223976425751
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 28.22190357689795
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 49.370931262230236
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 47.5066271619296
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 52.428946350071946
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 51.65133466783869
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 63.56246469458263
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 64.64275481503073
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 37.882736296751105
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 26.96788456028464
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 22.511987851806982
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 110.62969179364545
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 50.991461205477904
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 38.549724948866526
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 45.79749956397827
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 58.22147328495231
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 51.16616569293523
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 42.454982023785846
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2017-01",
+  "n": 7620,
+  "d": 1280,
+  "rankme": 45.70834491241649
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 7.938907615878997
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 17.75919045550738
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 185.01162085957384
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 178.8768259077991
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 108.61785883493577
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 36.29977735301796
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 50.3355432030873
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 74.0417083172756
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 90.7418901240698
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 109.37573990809466
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 132.6066662356205
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 164.89631494177618
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 768,
+  "rankme": 172.3657196317897
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 14.79805482535115
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 41.214630338704545
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 49.720032234802225
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 40.757411335939736
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 75.96173337233657
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 64.5804994106819
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 73.44288417626164
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 79.7274606869071
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 85.51638094458045
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 85.95329823258334
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 84.1827162509058
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 76.65963052964506
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 832,
+  "rankme": 66.14619910730738
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 6.334443293025617
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 27.65441269729947
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 37.761584658544926
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 28.452888128756523
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 49.649953214657536
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 47.674699178892695
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 52.646525551719925
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 51.861620035826455
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 64.30712107531534
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 65.36906436798176
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 38.569154887614765
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 27.48986976408377
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 22.653009750961395
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 112.03044378519097
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 51.36496828649535
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 38.960964503277545
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 46.37067197309922
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 59.054714028005776
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 51.71182829081669
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 42.73927805423451
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2017-02",
+  "n": 10288,
+  "d": 1280,
+  "rankme": 46.11448481520967
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 7.822911809461899
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 17.571762676629234
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 184.60845165054047
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 178.10076259053758
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 106.44419115591879
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 35.88069252326729
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 49.747514285540625
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 73.37308228776227
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 90.23232784677391
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 109.00453582539272
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 131.71631009970562
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 163.88859745023322
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 768,
+  "rankme": 171.34688147452417
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 14.93293875212425
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 41.224106561539024
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 49.9145769151393
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 41.301098370347695
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 76.45371857597425
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 64.14478837670694
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 72.88771276426216
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 78.82761629107367
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 84.36869710761178
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 84.77846469995285
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 83.02586964693539
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 75.85015884770338
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 832,
+  "rankme": 65.76997086841142
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 6.395304253154094
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 27.490490126764506
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 37.27731797646241
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 28.180741327222254
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 49.081760968260674
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 47.278108616822394
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 52.25070759526093
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 51.52129565056373
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 63.1291147076033
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 64.03076165895503
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 37.77154425319781
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 26.593145483023633
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 22.54678932337034
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 111.67500983277088
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 51.153356936242794
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 38.82289425917261
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 46.02802598186281
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 58.26612987822004
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 51.05441703760667
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 42.31114516788681
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2017-08",
+  "n": 6325,
+  "d": 1280,
+  "rankme": 45.40254357587326
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 8.02467356044595
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 17.629226028390963
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 183.18337721412323
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 177.95762726446867
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 105.89483713997605
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 35.21385267777623
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 48.56796423215239
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 71.26929575929184
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 86.3032774227858
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 103.63898941246401
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 126.39272716986942
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 159.5976191513229
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 768,
+  "rankme": 168.63686001243903
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 14.449682839477367
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 40.27228250234144
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 47.700493838981124
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 39.045137614410436
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 73.26107180891718
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 62.88760056150527
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 71.66573648696215
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 77.5323786132649
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 82.95467815969671
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 83.19615190085835
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 81.39860779665466
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 74.00211324330394
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 832,
+  "rankme": 63.56856571420426
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 6.409712272669316
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 27.152612714408274
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 37.612776999082676
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 28.500778709938885
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 50.71253620379883
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 48.917171384052246
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 54.001762980969126
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 53.99562673458953
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 66.56656148875359
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 67.68064701840204
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 39.40094373951648
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 28.1334184938419
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 22.723854811600223
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 114.27012332111985
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 51.34445364747429
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 38.78098150637648
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 46.22097315235516
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 59.123813194175284
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 51.22245328841778
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 42.33568349474055
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2018-11",
+  "n": 13673,
+  "d": 1280,
+  "rankme": 45.75324741762804
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 8.075936141225494
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 18.01828618213392
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 188.16507201371704
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 183.0922506293021
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 106.81405111431212
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 36.439237338867905
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 50.023404613992874
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 73.09367395428227
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 89.37168464664819
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 107.80611277127448
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 130.90767327829803
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 164.37472694296414
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 768,
+  "rankme": 173.28305431139307
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 14.628469817375219
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 40.85179929248074
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 48.96950217198873
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 40.24080729416139
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 74.22275129701117
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 64.2839294475799
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 73.17778491412685
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 79.13241373347303
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 84.7565005814374
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 85.07829363501556
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 83.0729148946448
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 75.40401941012415
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 832,
+  "rankme": 64.9896323044464
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 6.399350300930702
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 27.32871332341839
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 37.376557648775496
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 28.27898592531498
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 49.85340088599158
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 48.01887683180334
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 53.214222151058124
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 52.85668647109293
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 65.4778822399314
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 66.55176859842491
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 39.05138098400455
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 28.185818320585287
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 22.697950301994524
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 114.52135193608808
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 51.284372350996414
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 38.77024944933854
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 46.04352944200679
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 58.70400396182649
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 51.217591129075394
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 42.35947079304977
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2019-09",
+  "n": 12231,
+  "d": 1280,
+  "rankme": 45.74157707016119
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 7.745768948475043
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 17.285847542340644
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 181.24090209947758
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 176.2044130190907
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 99.54732859463203
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 34.848459659226805
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 48.03839356740344
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 70.50101459934369
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 86.79174220342861
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 104.34434720675216
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 126.8225030887841
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 158.54868569572344
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 768,
+  "rankme": 167.38999226558838
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 14.420467157762019
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 40.78037924043632
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 50.35289545580992
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 41.56287917996007
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 76.22337754164454
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 65.05528794247971
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 73.94973686149198
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 79.94036363271228
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 85.32035298113547
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 85.6220144752895
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 83.72276802954933
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 76.65462465726708
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 832,
+  "rankme": 66.3405194039912
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 6.409469784464838
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 26.92313494235882
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 35.46358340746109
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 27.23692730440168
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 48.60438054610241
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 47.37881940325748
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 52.73082939271959
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 52.542908421119826
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 61.77803945812885
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 62.74727452008427
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 36.590702210516326
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 25.498535924004003
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 22.115943192600497
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 113.0548061883472
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 49.78709977505383
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 37.19875940367851
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 43.74910972995859
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 54.514204432628674
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 47.873352736350526
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 39.91548307085483
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2020-01",
+  "n": 3990,
+  "d": 1280,
+  "rankme": 42.830534996682346
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 8.118640198469194
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 18.186630417223828
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 188.32317265908497
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 183.68848445265084
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 106.54483272714023
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 36.60335881269486
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 50.286300354137545
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 73.2480268748429
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 89.44105706649795
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 107.72512948504284
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 130.5345500857966
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 163.78107689691137
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 768,
+  "rankme": 172.7675413603391
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 14.875878156483305
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 42.2715744940772
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 51.03335086905375
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 41.89513086284397
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 77.81269153543093
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 66.9107115346882
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 75.94545148422442
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 82.17726179820048
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 87.86709513896274
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 88.28039524193672
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 86.23488558110122
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 78.61432620693301
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 832,
+  "rankme": 67.80157205117396
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 6.405305470710144
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 27.36923159971427
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 37.296914625932644
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 28.35579921092579
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 49.94411476629101
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 48.15666938466258
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 53.47011292156015
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 53.552845435316385
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 65.3732552112961
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 66.36502228496137
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 39.007904518975884
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 27.832276804167954
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 22.67206290156004
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 117.78342762606935
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 51.368835946699875
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 38.84940748686721
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 46.05976911911613
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 58.33159670177945
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 50.82753902901579
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 42.006036337355525
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2020-08",
+  "n": 14678,
+  "d": 1280,
+  "rankme": 45.44837635111062
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 7.978349672508126
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 17.742434010741384
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 183.32315015220738
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 179.66967142167016
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 103.61090547486518
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 35.26747817408435
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 48.25556498571149
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 70.37668130255862
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 85.47713186130042
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 102.79029420139902
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 124.89190339726704
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 157.51747509302075
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 768,
+  "rankme": 167.552922297025
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 14.533099935000754
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 41.39739316724551
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 50.51897109026484
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 41.7208297304723
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 76.1063681022844
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 65.93914086708736
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 75.0450052380993
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 80.93032427187126
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 86.35978631998192
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 86.63157426930447
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 84.51488483996803
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 76.97445080132431
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 832,
+  "rankme": 66.59789912723694
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 6.406534875319295
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 26.97217275630158
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 36.49888683652857
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 27.923240012742255
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 49.69019151556953
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 48.27603182527665
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 53.338051356276246
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 53.6740394825409
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 64.88058798865428
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 65.90398064991797
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 38.51207649507953
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 27.354441396489634
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 22.43890160300218
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 117.17615896757036
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 50.66671678288807
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 38.01493067104021
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 44.9598381956331
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 56.55445461282159
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 49.35868726618667
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 41.02552498212074
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2020-09",
+  "n": 12843,
+  "d": 1280,
+  "rankme": 44.30659943593802
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 7.932773470894997
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 17.780502573235655
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 186.3742193466796
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 182.06714336290568
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 104.60257025547547
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 36.06362864189668
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 49.68109806797813
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 72.43692745420425
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 88.68615304770913
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 106.5178146182476
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 129.4707178231
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 161.93355936335564
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 768,
+  "rankme": 171.08845762927123
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 14.52755129273037
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 41.52162394367648
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 50.54319476092095
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 41.63554950486356
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 76.50421307060357
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 66.57302268780082
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 75.55043844838332
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 81.6900636113406
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 87.15212013132144
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 87.45154979272381
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 85.27117880962162
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 77.71392876679934
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 832,
+  "rankme": 67.00657274504336
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 6.395683013964328
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 27.21017230286438
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 36.82826770698218
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 28.091626984151826
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 49.51049672112031
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 48.04300037084482
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 53.28190561964202
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 53.33286862920998
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 63.80953521882077
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 64.84947700534524
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 38.19611729232913
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 26.801932158931248
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 22.509745875707967
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 116.26427709925045
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 50.83975950503062
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 38.13309075254342
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 45.131687150827325
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 56.81003927084865
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 49.84219445864945
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 41.394189699548186
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2020-12",
+  "n": 9408,
+  "d": 1280,
+  "rankme": 44.70705817766375
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 8.103820079088036
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 18.034417040922023
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 187.18807814259307
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 182.38491028289698
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 107.56625051236311
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 36.138972032145766
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 49.537341538390216
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 72.23299764360044
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 88.54726208181236
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 106.52223726250445
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 128.52401974916862
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 162.47250957271547
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 768,
+  "rankme": 171.69787947321504
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 14.705410533833806
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 41.80931352399562
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 49.15431111622539
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 40.34067131743192
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 74.93916019589132
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 66.53826126949421
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 75.3023110483226
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 81.186834647532
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 86.72213704806799
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 86.84771120824448
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 84.39945303397468
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 76.4831814527229
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 832,
+  "rankme": 65.61007961315991
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 6.431540374264213
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 27.321761068859622
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 36.702446723953464
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 27.922544538998952
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 49.58685713043209
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 47.77415032129824
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 53.022368187522595
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 53.16082588622823
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 65.0943842028196
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 66.1306404566009
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 38.5595809407345
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 27.60174695937039
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 22.653428616160944
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 116.36742425552734
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 51.27158395872358
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 38.66741173750193
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 45.85710122220986
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 57.80470288093407
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 50.30687426029527
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 41.451107887999115
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2021-09",
+  "n": 16851,
+  "d": 1280,
+  "rankme": 44.82115214478571
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 8.066305157838615
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 17.828797246482313
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 185.50022612318767
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 181.13963328053404
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 107.73516073681374
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 36.0854057018665
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 49.73103141933098
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 72.44580023087755
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 88.46858090534465
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 106.31336481838545
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 128.46907981925335
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 161.24811266156715
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 768,
+  "rankme": 170.23337694298544
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 14.797212672087438
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 42.312769632384146
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 51.133098941590646
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 41.96239128715635
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 77.47169613938719
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 67.1873562418077
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 76.02113659506703
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 82.10982191629572
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 87.72056521651928
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 88.16054828932673
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 86.16186150748744
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 78.60709502028249
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 832,
+  "rankme": 67.87469258600461
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 6.435273317809905
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 27.14236874432439
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 36.74266090855099
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 27.867630478719562
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 48.550913204805056
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 46.839977822243505
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 51.82193821983872
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 51.95254464464317
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 63.995476651260226
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 65.13051045238136
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 38.69591737853484
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 27.55686176930468
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 22.46183041933003
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 113.84441950551273
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 50.510740840976226
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 38.2656058959112
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 45.5963395892669
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 57.59524199531014
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 50.3120235790943
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 41.54152308171563
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2021-12",
+  "n": 16112,
+  "d": 1280,
+  "rankme": 44.9082446736118
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 8.145063510673404
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 17.999253690860986
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 182.19985148779946
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 177.05179674972322
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 106.23717157254214
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 35.9839686638735
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 49.225823595875106
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 71.35294982235575
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 86.41100750519922
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 103.89316424500977
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 125.90961571544683
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 158.61024804895695
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 768,
+  "rankme": 167.43557622284354
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 14.994240835812485
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 42.7126117878002
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 51.84272499530489
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 42.66975387081108
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 78.51212856439933
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 67.59501551377295
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 76.28162798437215
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 82.50349937468827
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 88.18864507928326
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 88.60515692794287
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 86.68416829573243
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 79.0880248131134
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 832,
+  "rankme": 68.5600688508972
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 6.454912768356509
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 26.992627177269036
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 35.955690848504595
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 27.313327731598246
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 48.17734274450188
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 46.41893582866201
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 51.49276804278762
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 51.53874182573558
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 63.58588843039903
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 65.00279901593248
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 38.331715305543575
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 27.7613881738401
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 22.308662435198798
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 114.63368948493317
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 50.115716453974386
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 37.61030392899795
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 44.61264861211744
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 56.406911816344405
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 49.216466025476215
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 40.49348602609833
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2022-07",
+  "n": 18894,
+  "d": 1280,
+  "rankme": 43.93711604396582
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 7.930152980639276
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 17.425434215804415
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 179.6614679919455
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 173.94939247825295
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 102.97763996087541
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 35.0855559823462
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 48.53798491059196
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 71.28804209679946
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 87.1894356525921
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 105.10569320358715
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 126.70717325520151
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 158.0277770797098
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 768,
+  "rankme": 166.49114600247617
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 14.812318717097034
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 41.64475708890928
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 49.79073020608965
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 40.95560596859468
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 75.7291657305557
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 65.6186369248757
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 74.44843733806266
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 80.33236676879893
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 85.8443266473017
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 86.06044185977476
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 83.9714997638776
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 76.43028649496108
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 832,
+  "rankme": 65.9965143318438
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 6.43229940049304
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 27.199335706219465
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 36.38870863646607
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 27.7140311874289
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 48.090685755240244
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 46.50142695045237
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 51.43054935919361
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 51.59980262889444
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 63.3104921608487
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 64.57156234748527
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 38.31985112698004
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 26.930409535778637
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 22.53307020910951
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 113.88903972386031
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 50.59473997735152
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 38.15200325813519
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 45.30750073104469
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 57.11353817523162
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 49.958871843824156
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 41.25215308521141
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2023-04",
+  "n": 15808,
+  "d": 1280,
+  "rankme": 44.47139458742603
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l0",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 7.920804484714474
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l1",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 17.501889230427302
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l10",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 181.50424644558848
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l11",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 175.07430779765994
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l12",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 104.02206730107945
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l2",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 35.4103363482259
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l3",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 49.05101994880517
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l4",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 71.94920415339371
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l5",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 88.4195048324492
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l6",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 106.6391548465426
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l7",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 128.55758921184068
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l8",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 160.7053025059561
+ },
+ {
+  "series": "tsfm_chronos2_cmean_l9",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 768,
+  "rankme": 168.91507975374992
+ },
+ {
+  "series": "tsfm_kronos_cmean_l0",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 14.869460549114658
+ },
+ {
+  "series": "tsfm_kronos_cmean_l1",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 41.95936424696111
+ },
+ {
+  "series": "tsfm_kronos_cmean_l10",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 49.729726633298746
+ },
+ {
+  "series": "tsfm_kronos_cmean_l11",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 40.79493996525759
+ },
+ {
+  "series": "tsfm_kronos_cmean_l12",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 76.35065356019818
+ },
+ {
+  "series": "tsfm_kronos_cmean_l2",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 65.79546006586797
+ },
+ {
+  "series": "tsfm_kronos_cmean_l3",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 74.49351661218297
+ },
+ {
+  "series": "tsfm_kronos_cmean_l4",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 80.37703642328253
+ },
+ {
+  "series": "tsfm_kronos_cmean_l5",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 85.92411505759614
+ },
+ {
+  "series": "tsfm_kronos_cmean_l6",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 86.30439290731725
+ },
+ {
+  "series": "tsfm_kronos_cmean_l7",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 84.40977705304137
+ },
+ {
+  "series": "tsfm_kronos_cmean_l8",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 76.85995981009658
+ },
+ {
+  "series": "tsfm_kronos_cmean_l9",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 832,
+  "rankme": 66.17427722108181
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l0",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 6.436471218027294
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l1",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 27.257018613548514
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l10",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 36.762176164832034
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l11",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 28.060498803970997
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l12",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 48.84523071167811
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l13",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 47.476282049781126
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l14",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 52.71441304579155
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l15",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 52.51782559967525
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l16",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 64.3470769319709
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l17",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 65.32612419886793
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l18",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 38.85709105506764
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l19",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 27.21767616295688
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l2",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 22.547326216766887
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l20",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 115.43995798836944
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l3",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 50.728712429358005
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l4",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 38.39305219329133
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l5",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 45.63188317858098
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l6",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 57.55875868859168
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l7",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 50.47919526297946
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l8",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 41.71363787359612
+ },
+ {
+  "series": "tsfm_timesfm3_cmean_l9",
+  "month": "2023-11",
+  "n": 17104,
+  "d": 1280,
+  "rankme": 44.90534967293817
+ }
+]

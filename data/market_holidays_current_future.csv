@@ -1,0 +1,35 @@
+date,exchange,status,start_time,end_time,holiday_name
+2026-01-01,NYSE,closed,,,New Year's Day
+2026-01-19,NYSE,closed,,,Martin Luther King Jr. Day
+2026-02-16,NYSE,closed,,,Washington's Birthday
+2026-04-03,NYSE,closed,,,Good Friday
+2026-05-25,NYSE,closed,,,Memorial Day
+2026-06-19,NYSE,closed,,,Juneteenth National Independence Day
+2026-07-03,NYSE,closed,,,Independence Day (observed)
+2026-09-07,NYSE,closed,,,Labor Day
+2026-11-26,NYSE,closed,,,Thanksgiving Day
+2026-11-27,NYSE,short day,09:30,13:00,Day after Thanksgiving
+2026-12-24,NYSE,short day,09:30,13:00,Christmas Eve
+2026-12-25,NYSE,closed,,,Christmas Day
+2027-01-01,NYSE,closed,,,New Year's Day
+2027-01-18,NYSE,closed,,,Martin Luther King Jr. Day
+2027-02-15,NYSE,closed,,,Washington's Birthday
+2027-03-26,NYSE,closed,,,Good Friday
+2027-05-31,NYSE,closed,,,Memorial Day
+2027-06-18,NYSE,closed,,,Juneteenth National Independence Day (observed)
+2027-07-05,NYSE,closed,,,Independence Day (observed)
+2027-09-06,NYSE,closed,,,Labor Day
+2027-11-25,NYSE,closed,,,Thanksgiving Day
+2027-11-26,NYSE,short day,09:30,13:00,Day after Thanksgiving
+2027-12-24,NYSE,closed,,,Christmas Day (observed)
+2028-01-17,NYSE,closed,,,Martin Luther King Jr. Day
+2028-02-21,NYSE,closed,,,Washington's Birthday
+2028-04-14,NYSE,closed,,,Good Friday
+2028-05-29,NYSE,closed,,,Memorial Day
+2028-06-19,NYSE,closed,,,Juneteenth National Independence Day
+2028-07-03,NYSE,short day,09:30,13:00,Pre-Independence Day
+2028-07-04,NYSE,closed,,,Independence Day
+2028-09-04,NYSE,closed,,,Labor Day
+2028-11-23,NYSE,closed,,,Thanksgiving Day
+2028-11-24,NYSE,short day,09:30,13:00,Day after Thanksgiving
+2028-12-25,NYSE,closed,,,Christmas Day

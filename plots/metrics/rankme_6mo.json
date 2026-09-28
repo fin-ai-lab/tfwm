@@ -1,0 +1,5537 @@
+[
+ {
+  "series": "tfc_6mo",
+  "month": "2010-04",
+  "run": "kwjg7src",
+  "n": 25600,
+  "d": 256,
+  "rankme": 82.32216738296499,
+  "cov_effrank": 43.05283796102907
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2010-04",
+  "run": "80qfjawn",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.698587292813451,
+  "cov_effrank": 6.273257823528602
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2010-04",
+  "run": "gsu2ytat",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.000617861490046,
+  "cov_effrank": 9.580504804586836
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2008-09",
+  "run": "5ou7hq6l",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.96571816405833,
+  "cov_effrank": 7.312649951210048
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2008-08",
+  "run": "bwr4w0ra",
+  "n": 25600,
+  "d": 256,
+  "rankme": 85.47944291375092,
+  "cov_effrank": 46.8192742783689
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2008-09",
+  "run": "0423l1na",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.13291898950482,
+  "cov_effrank": 10.38320107648526
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2010-04",
+  "run": "6m0mcwh2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.248396131238025,
+  "cov_effrank": 5.296606538362204
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2008-09",
+  "run": "29q1mci8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.19198530324165,
+  "cov_effrank": 5.34553796798785
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2008-09",
+  "run": "71zej60v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.95182699125198,
+  "cov_effrank": 4.55711920795758
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2010-04",
+  "run": "7i1467wo",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.1246172112488,
+  "cov_effrank": 3.8707897685144865
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2010-04",
+  "run": "2qwl8clt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.947663891894193,
+  "cov_effrank": 5.169298130488707
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2010-04",
+  "run": "hczm0wk3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.711634738728115,
+  "cov_effrank": 32.15625154058452
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2010-04",
+  "run": "ez4xdu3s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.934227329744493,
+  "cov_effrank": 5.21207334469585
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2008-09",
+  "run": "abkiuqap",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.250109268128748,
+  "cov_effrank": 3.656010016941783
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2010-04",
+  "run": "jkx8yedx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.06380713699225,
+  "cov_effrank": 15.07884431164306
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2008-08",
+  "run": "9coyod50",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.541948748198996,
+  "cov_effrank": 8.033118569454611
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2010-04",
+  "run": "hbh9nm1o",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.38225421119394,
+  "cov_effrank": 2.9370789214463713
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2010-04",
+  "run": "9mji1xrv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.745570980931797,
+  "cov_effrank": 5.517144432412755
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2010-04",
+  "run": "bqmff9y0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.650264324622199,
+  "cov_effrank": 7.4579131877147615
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2008-09",
+  "run": "8v27hg4o",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.036439131916566,
+  "cov_effrank": 5.366472749144363
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2008-08",
+  "run": "b543ji04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.972298566943513,
+  "cov_effrank": 3.9135364478307593
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2008-08",
+  "run": "17gv5fy5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.53498366268404,
+  "cov_effrank": 12.877389008671056
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2008-08",
+  "run": "d9fr2jt4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.820409703713941,
+  "cov_effrank": 5.689272389894617
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2008-08",
+  "run": "85lkvgro",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.77241802356534,
+  "cov_effrank": 5.003193443752053
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2010-04",
+  "run": "mx2lg135",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.160541901826646,
+  "cov_effrank": 4.050884128096612
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2010-04",
+  "run": "n134stn7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.78451681851421,
+  "cov_effrank": 4.652553694044795
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2010-04",
+  "run": "nyb0fjvk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.269780453755796,
+  "cov_effrank": 10.747995387187856
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2017-01",
+  "run": "sziezxck",
+  "n": 25600,
+  "d": 256,
+  "rankme": 82.28926477003019,
+  "cov_effrank": 41.14671684196436
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2017-01",
+  "run": "7jqr1hjo",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.389166292137098,
+  "cov_effrank": 5.69695219859324
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2010-04",
+  "run": "u27c3sz4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.8971141783477155,
+  "cov_effrank": 8.731582846598508
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2017-01",
+  "run": "5scxjdzk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.09457673720637,
+  "cov_effrank": 7.527958638709321
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2017-01",
+  "run": "uxv8di1r",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.553151929689662,
+  "cov_effrank": 10.222525156501277
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2017-01",
+  "run": "6kxlhsgc",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.802879993260788,
+  "cov_effrank": 5.355908765878941
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2017-01",
+  "run": "x3gslt8e",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.36104199635466,
+  "cov_effrank": 12.014765423926589
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2017-01",
+  "run": "5ceglzqu",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.541437648530312,
+  "cov_effrank": 4.678895697512373
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2017-01",
+  "run": "btzs8xe9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.217975807419075,
+  "cov_effrank": 3.8440676813479002
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2017-01",
+  "run": "4rnxa5lh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.462061668443512,
+  "cov_effrank": 5.638652743459747
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2017-01",
+  "run": "z086qjem",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.842436571747621,
+  "cov_effrank": 8.015866603916873
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2020-12",
+  "run": "75q958rg",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.468542742531922,
+  "cov_effrank": 9.70561897810401
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2017-01",
+  "run": "46i0ox4b",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.867976145962333,
+  "cov_effrank": 7.204208168891039
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2017-01",
+  "run": "iilc71a8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.2257984528901,
+  "cov_effrank": 4.077569477502613
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2017-01",
+  "run": "ebb3r0bh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.11073755315552,
+  "cov_effrank": 4.4882260652129204
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2017-01",
+  "run": "itknsbo9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.563082973239767,
+  "cov_effrank": 8.815642219138574
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2020-12",
+  "run": "elnx929v",
+  "n": 25600,
+  "d": 256,
+  "rankme": 89.43221981572704,
+  "cov_effrank": 50.95157350355035
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2020-12",
+  "run": "5rd2g464",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.250551460393045,
+  "cov_effrank": 17.179784918947785
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2017-01",
+  "run": "ezcvyaj8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.488367232876158,
+  "cov_effrank": 2.888785126266504
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2020-12",
+  "run": "e18g5ctt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.304736939355213,
+  "cov_effrank": 7.613275724966434
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2020-12",
+  "run": "6z4rnekw",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.989703161813436,
+  "cov_effrank": 4.727293025843117
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2017-01",
+  "run": "2xtuh03f",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.28524075220174,
+  "cov_effrank": 33.62887740843872
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2020-12",
+  "run": "2qfd6o0s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.52194932944316,
+  "cov_effrank": 6.443554445970292
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2020-12",
+  "run": "fiusk9mp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.364347799015069,
+  "cov_effrank": 4.453433096443413
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2020-12",
+  "run": "h1m07772",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.0052132206360405,
+  "cov_effrank": 4.367292208837074
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2020-12",
+  "run": "lfqzk9uz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.895875923857366,
+  "cov_effrank": 5.139707450583779
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2020-12",
+  "run": "u03mrqzz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.266177939727165,
+  "cov_effrank": 6.636736299277065
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2020-12",
+  "run": "km1sxzpb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.175446807370665,
+  "cov_effrank": 5.535830966600337
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2020-12",
+  "run": "vuwbje1w",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.730666876097578,
+  "cov_effrank": 5.062449813218123
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2020-12",
+  "run": "ze8u2e58",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.129638352602804,
+  "cov_effrank": 3.468570436925444
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2020-12",
+  "run": "rogymoca",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.575980006787976,
+  "cov_effrank": 3.775727953180219
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2022-07",
+  "run": "e5zcxmjr",
+  "n": 25600,
+  "d": 256,
+  "rankme": 92.81708811459791,
+  "cov_effrank": 53.90276127599186
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2022-07",
+  "run": "cay2uswh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.355998993467347,
+  "cov_effrank": 5.042815299525587
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2022-07",
+  "run": "9f1xew41",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.80843467061786,
+  "cov_effrank": 5.2763802652985
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2022-07",
+  "run": "mupj4gc3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.747402809003383,
+  "cov_effrank": 3.8911154569083743
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2022-07",
+  "run": "r06vzau8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.765213297863255,
+  "cov_effrank": 9.322982215228864
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2022-07",
+  "run": "l5tl1zuj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.789214027111036,
+  "cov_effrank": 3.7466113649154646
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2017-08",
+  "run": "randinit_s44_2017-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 54.61926650727234,
+  "cov_effrank": 13.412438890760987
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2022-07",
+  "run": "i0iu5r1v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.511665165542487,
+  "cov_effrank": 4.973127421642218
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2022-07",
+  "run": "fwywk865",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.036830817837899,
+  "cov_effrank": 5.114996039306139
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2022-07",
+  "run": "3aim71o3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.170384552369864,
+  "cov_effrank": 7.101804623804638
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2017-02",
+  "run": "randinit_s43_2017-02",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.41946918419169,
+  "cov_effrank": 14.092318644445008
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2017-08",
+  "run": "randinit_s43_2017-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.79109984933117,
+  "cov_effrank": 13.856053013006361
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2017-02",
+  "run": "randinit_s42_2017-02",
+  "n": 25600,
+  "d": 384,
+  "rankme": 55.79632653685326,
+  "cov_effrank": 13.270439357899365
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2017-02",
+  "run": "randinit_s44_2017-02",
+  "n": 25600,
+  "d": 384,
+  "rankme": 54.20818114967142,
+  "cov_effrank": 13.56243656728922
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2022-07",
+  "run": "klwgb8ka",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.883838176506272,
+  "cov_effrank": 5.708455771583456
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2011-01",
+  "run": "ss5gcc0l",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.77632882592634,
+  "cov_effrank": 3.7038655369940203
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2022-07",
+  "run": "wjwj0pco",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.512556334439788,
+  "cov_effrank": 3.5183109479197143
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2022-07",
+  "run": "7s9zhesi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.60288079827208,
+  "cov_effrank": 6.616522241831019
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2017-08",
+  "run": "randinit_s42_2017-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.16281745127461,
+  "cov_effrank": 13.204036550910265
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2022-07",
+  "run": "omhbzc8a",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.683028354239942,
+  "cov_effrank": 13.312701400224162
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2011-01",
+  "run": "o6li564s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 63.643516265153856,
+  "cov_effrank": 15.785501278859776
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2012-11",
+  "run": "gafl2826",
+  "n": 25600,
+  "d": 384,
+  "rankme": 64.86317748691128,
+  "cov_effrank": 16.22908532631527
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2022-07",
+  "run": "857aa4j0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.63419133366295,
+  "cov_effrank": 10.692554630961792
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2012-11",
+  "run": "86881gkb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.886843699536919,
+  "cov_effrank": 3.652361611203883
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2021-09",
+  "run": "0orkj4ia",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.018115666805372,
+  "cov_effrank": 6.535353948715548
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2013-04",
+  "run": "5rih7bpo",
+  "n": 25600,
+  "d": 256,
+  "rankme": 78.25707834863255,
+  "cov_effrank": 39.33255122352276
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2008-08",
+  "run": "j7eji0nv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.29202028847002,
+  "cov_effrank": 2.974596067299735
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2008-08",
+  "run": "lof91nni",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.673785645526594,
+  "cov_effrank": 4.9130496538760395
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2013-04",
+  "run": "2pz3v9m1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.994055466835507,
+  "cov_effrank": 3.9968555522431592
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2008-08",
+  "run": "m1kmsoaw",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.782237056434473,
+  "cov_effrank": 4.246578858739809
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2008-08",
+  "run": "w8tg643i",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.990866056440316,
+  "cov_effrank": 5.514513593465024
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2013-04",
+  "run": "9fo8r65q",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.075818365023128,
+  "cov_effrank": 5.206787722250036
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2008-08",
+  "run": "ikl2h0nn",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.722659249219143,
+  "cov_effrank": 5.665064306711999
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2013-04",
+  "run": "efzkryh5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.51446529058045,
+  "cov_effrank": 9.371133119202065
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2013-04",
+  "run": "lac4e4wc",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.284492495181805,
+  "cov_effrank": 4.741191687166646
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2013-04",
+  "run": "ecdirb8y",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.50444289777171,
+  "cov_effrank": 4.784697903316636
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2013-04",
+  "run": "d1kd9qt2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.565388365385681,
+  "cov_effrank": 2.9734642182922926
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2008-08",
+  "run": "zdwx6zpv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.478294707770967,
+  "cov_effrank": 4.3053985368730965
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2008-08",
+  "run": "ztw7z0xa",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.371163370369592,
+  "cov_effrank": 6.724727739510748
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2008-08",
+  "run": "o2xoczx2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 19.314337579692406,
+  "cov_effrank": 7.5924348146278815
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2008-08",
+  "run": "p0fkxab7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.1794832248772815,
+  "cov_effrank": 12.485146864138688
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2008-08",
+  "run": "f0zjolwi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.2906951657527,
+  "cov_effrank": 35.795219337770114
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2021-09",
+  "run": "1l06yy9v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.99802351972871,
+  "cov_effrank": 15.426539579083464
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2023-04",
+  "run": "3r1k90e2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.147485668934133,
+  "cov_effrank": 15.08170670487429
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2023-04",
+  "run": "16lnkjhh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.132782162978037,
+  "cov_effrank": 3.8686669657625243
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2023-04",
+  "run": "5ehoyr93",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.841663504319967,
+  "cov_effrank": 7.121109169433621
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2013-04",
+  "run": "ihzx7yi3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.8522949154345,
+  "cov_effrank": 29.71180623912858
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2021-09",
+  "run": "lldl5ckp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.874228362275537,
+  "cov_effrank": 3.911104779024149
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2023-04",
+  "run": "864n96dt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.666814558435856,
+  "cov_effrank": 5.203402440864484
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2023-04",
+  "run": "8akw2ww3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.783956218699377,
+  "cov_effrank": 5.606973158319699
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2023-04",
+  "run": "8o4f8rvc",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.609783315975552,
+  "cov_effrank": 9.762192347048035
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2020-01",
+  "run": "randinit_s44_2020-01",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.232624373676906,
+  "cov_effrank": 14.128390807534684
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2023-04",
+  "run": "bgzjy17k",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.148102085814461,
+  "cov_effrank": 3.9444802127869063
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2023-04",
+  "run": "agkyf71e",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.166427533608859,
+  "cov_effrank": 4.867727784774001
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2020-01",
+  "run": "randinit_s42_2020-01",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.70695259478646,
+  "cov_effrank": 13.92830515522636
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2023-04",
+  "run": "qvili7ly",
+  "n": 25600,
+  "d": 256,
+  "rankme": 90.44348651294894,
+  "cov_effrank": 50.58378675169264
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2023-04",
+  "run": "hcjdg0iu",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.217968020629724,
+  "cov_effrank": 4.332204537139664
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2020-01",
+  "run": "randinit_s43_2020-01",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.43335825358732,
+  "cov_effrank": 14.592933308424147
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2019-09",
+  "run": "randinit_s43_2019-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.11879060935928,
+  "cov_effrank": 14.428041716802618
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2023-04",
+  "run": "whnr2ma5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.84507914280895,
+  "cov_effrank": 5.304118376857091
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2019-09",
+  "run": "randinit_s44_2019-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 55.89978969579803,
+  "cov_effrank": 13.923944684674641
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2023-04",
+  "run": "nah1zb30",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.861368176387993,
+  "cov_effrank": 7.527279356027472
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2019-09",
+  "run": "randinit_s42_2019-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.32796663346973,
+  "cov_effrank": 13.744171366955204
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2023-04",
+  "run": "romugz47",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.151851387747815,
+  "cov_effrank": 6.5170475409370585
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2023-04",
+  "run": "txqfqlp3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.132915548696639,
+  "cov_effrank": 3.757001838583371
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2018-11",
+  "run": "randinit_s43_2018-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.089725863754886,
+  "cov_effrank": 14.897657546658193
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2018-11",
+  "run": "randinit_s44_2018-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 55.8522661737078,
+  "cov_effrank": 14.328909632940691
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2012-10",
+  "run": "x1xxd7ks",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.867186909710854,
+  "cov_effrank": 3.739378282909905
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2018-11",
+  "run": "randinit_s42_2018-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.42225677918648,
+  "cov_effrank": 14.106218332813633
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2012-09",
+  "run": "zh69otdq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 64.2266375260994,
+  "cov_effrank": 16.52577889372584
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2011-06",
+  "run": "evq2osxi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.9833459177528345,
+  "cov_effrank": 3.6312422432795306
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2012-09",
+  "run": "7aeitzzw",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.928036160477141,
+  "cov_effrank": 3.908855584005834
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2012-04",
+  "run": "fy1zas74",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.434164116468356,
+  "cov_effrank": 6.3607281795315895
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2012-04",
+  "run": "c3weuobx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.108888026300777,
+  "cov_effrank": 4.910657910711242
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2012-04",
+  "run": "pe141q3s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.85504490623684,
+  "cov_effrank": 6.7357930830756
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2012-04",
+  "run": "mmvtxrxr",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.9565899201536245,
+  "cov_effrank": 3.6337901828508583
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2008-09",
+  "run": "pxi4cpaw",
+  "n": 25600,
+  "d": 256,
+  "rankme": 88.02219638417505,
+  "cov_effrank": 50.97831116368683
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2012-04",
+  "run": "pe2gpnmj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.63527841644809,
+  "cov_effrank": 14.03743547038909
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2012-10",
+  "run": "jczel508",
+  "n": 25600,
+  "d": 384,
+  "rankme": 63.36087962674302,
+  "cov_effrank": 15.556531733765512
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2008-09",
+  "run": "yybq6o04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.930584423367574,
+  "cov_effrank": 4.6176378986239195
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2008-09",
+  "run": "yrcbkxpj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.739238093719852,
+  "cov_effrank": 4.847873202905719
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2008-09",
+  "run": "ejiz131c",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.517306893076235,
+  "cov_effrank": 4.842297742807855
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2008-09",
+  "run": "j07vw94v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.822874472160366,
+  "cov_effrank": 6.1219312325348225
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2008-09",
+  "run": "qrazhfzu",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.049267868152356,
+  "cov_effrank": 5.134350229327533
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2012-04",
+  "run": "4zmuwx60",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.69400738325415,
+  "cov_effrank": 24.69734716220192
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2008-09",
+  "run": "3vmgup5y",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.181400669937484,
+  "cov_effrank": 10.786389135789443
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2008-09",
+  "run": "38vsn9a7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.133554147977437,
+  "cov_effrank": 2.912622040322111
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2008-09",
+  "run": "l20tmfd6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.741696275571332,
+  "cov_effrank": 6.013471698348285
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2021-09",
+  "run": "0p5nmcao",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.19274931915742,
+  "cov_effrank": 6.236264476232064
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2021-09",
+  "run": "2zegfx2c",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.358214846675702,
+  "cov_effrank": 4.525396128420973
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2021-09",
+  "run": "e7222fbg",
+  "n": 25600,
+  "d": 256,
+  "rankme": 93.08891308130596,
+  "cov_effrank": 57.82876086311933
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2008-09",
+  "run": "je622293",
+  "n": 25600,
+  "d": 384,
+  "rankme": 19.333241254833126,
+  "cov_effrank": 34.04451641319849
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2011-06",
+  "run": "pnm00bxz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 62.41428820603256,
+  "cov_effrank": 14.805252648514397
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2021-09",
+  "run": "18vtz50v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.398387962936626,
+  "cov_effrank": 4.932381208093584
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2021-09",
+  "run": "gh7awyfb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.8460834212730335,
+  "cov_effrank": 3.7746418169266653
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2021-09",
+  "run": "9btjnvtp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.21747854781408,
+  "cov_effrank": 5.7221486733710645
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2021-09",
+  "run": "4hpgunru",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.137794675260855,
+  "cov_effrank": 4.897689953622533
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2021-09",
+  "run": "93hkqfoe",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.551688237884147,
+  "cov_effrank": 3.5607400068735515
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2021-09",
+  "run": "9ezdizgi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.232227054238223,
+  "cov_effrank": 5.77558144440072
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2021-09",
+  "run": "hk95adaq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.302317980687823,
+  "cov_effrank": 13.606781699532114
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2012-10",
+  "run": "randinit_s42_2012-10",
+  "n": 25600,
+  "d": 384,
+  "rankme": 55.68375644609015,
+  "cov_effrank": 13.122339967398789
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2021-09",
+  "run": "pvezdul0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.52081678945907,
+  "cov_effrank": 4.365418378945715
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2012-10",
+  "run": "randinit_s44_2012-10",
+  "n": 25600,
+  "d": 384,
+  "rankme": 54.240770484548605,
+  "cov_effrank": 13.320039165486504
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2021-09",
+  "run": "u935rf5s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.415590520832502,
+  "cov_effrank": 6.436902610423925
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2021-09",
+  "run": "rkrg2icn",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.822205311005536,
+  "cov_effrank": 10.349687554455206
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2012-10",
+  "run": "randinit_s43_2012-10",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.432267204890785,
+  "cov_effrank": 13.756601611518292
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2020-09",
+  "run": "randinit_s42_2020-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.325871474219234,
+  "cov_effrank": 13.914889578500365
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2020-12",
+  "run": "randinit_s42_2020-12",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.55871550465224,
+  "cov_effrank": 14.275244153487758
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2020-09",
+  "run": "randinit_s44_2020-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.02531671977829,
+  "cov_effrank": 14.102768769461447
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2020-12",
+  "run": "randinit_s44_2020-12",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.22985693361713,
+  "cov_effrank": 14.485995246287677
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2020-09",
+  "run": "randinit_s43_2020-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.15082868238495,
+  "cov_effrank": 14.484373655455657
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2020-12",
+  "run": "randinit_s43_2020-12",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.56275010341258,
+  "cov_effrank": 14.98442643378208
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2021-09",
+  "run": "oc74zkro",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.404220749213,
+  "cov_effrank": 5.317286006900235
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2020-08",
+  "run": "randinit_s43_2020-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.817344950140395,
+  "cov_effrank": 14.950613482224329
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2021-09",
+  "run": "olscjymd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.916446443030527,
+  "cov_effrank": 41.98984042829706
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2020-08",
+  "run": "randinit_s44_2020-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.720319961051224,
+  "cov_effrank": 14.505115024801489
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2020-08",
+  "run": "randinit_s42_2020-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.04327669858051,
+  "cov_effrank": 14.296144373051938
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2013-12",
+  "run": "36zkigeo",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.059161597626789,
+  "cov_effrank": 3.77098267826145
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2013-04",
+  "run": "yxfjj9ad",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.33087762503601,
+  "cov_effrank": 12.475638262814888
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2013-04",
+  "run": "srossm2c",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.697988317146488,
+  "cov_effrank": 3.867776337957379
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2013-12",
+  "run": "rqmuv5sb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.870111752971006,
+  "cov_effrank": 13.201887842927286
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2019-09",
+  "run": "7v9ay5r1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.318769403636844,
+  "cov_effrank": 3.770098810383673
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2021-09",
+  "run": "randinit_s43_2021-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.728981025792486,
+  "cov_effrank": 15.205930380083267
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2021-09",
+  "run": "randinit_s44_2021-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.36416229125748,
+  "cov_effrank": 14.70543180096563
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2019-09",
+  "run": "exltzmpm",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.488226864708349,
+  "cov_effrank": 3.841583688477029
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2021-09",
+  "run": "randinit_s42_2021-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.68580346049859,
+  "cov_effrank": 14.551826312600795
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2019-09",
+  "run": "ux7bla86",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.858013658110888,
+  "cov_effrank": 5.869639231493293
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2019-09",
+  "run": "k62e89r7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 61.659421777080766,
+  "cov_effrank": 14.784607905038476
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2019-09",
+  "run": "qtlqy384",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.623547588990365,
+  "cov_effrank": 6.635688618813975
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2010-01",
+  "run": "4rlj35s6",
+  "n": 22630,
+  "d": 384,
+  "rankme": 5.552683772036722,
+  "cov_effrank": 8.72608766843818
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2019-09",
+  "run": "yl0tdli8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 19.97763178411359,
+  "cov_effrank": 31.77625011054608
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2008-10",
+  "run": "vxaab92l",
+  "n": 25600,
+  "d": 256,
+  "rankme": 78.82697166524711,
+  "cov_effrank": 39.21289302467502
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2008-10",
+  "run": "mt6u202j",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.747180996246036,
+  "cov_effrank": 6.022582735160809
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2008-10",
+  "run": "q26t4mrk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.991146854403446,
+  "cov_effrank": 4.570142041070461
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2008-10",
+  "run": "49kddxq2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.952431068858061,
+  "cov_effrank": 9.984184231365393
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2008-10",
+  "run": "ddaazx6w",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.000529815832984,
+  "cov_effrank": 4.99651986371623
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2008-10",
+  "run": "tyf3ash2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.77124556362032,
+  "cov_effrank": 2.9591790782901715
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2019-09",
+  "run": "8p795ls6",
+  "n": 25600,
+  "d": 256,
+  "rankme": 86.42466417502555,
+  "cov_effrank": 45.90849425309682
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2008-10",
+  "run": "uodhzlxh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.752902000718092,
+  "cov_effrank": 5.861746776670713
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2008-10",
+  "run": "hi7uut9u",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.21343758512202,
+  "cov_effrank": 3.638845349025373
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2008-10",
+  "run": "efswusdz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.45349903577947,
+  "cov_effrank": 5.163658925082873
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2008-10",
+  "run": "tn2y50tj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.603766728726716,
+  "cov_effrank": 5.0668135120424385
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2019-09",
+  "run": "1s8itlwd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.558853363226593,
+  "cov_effrank": 5.413443203547696
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2008-10",
+  "run": "6kb8yw5b",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.35961906310172,
+  "cov_effrank": 12.030614503454222
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2019-09",
+  "run": "464h3jfm",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.30023670737247,
+  "cov_effrank": 8.363682147944331
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2008-10",
+  "run": "6zu5a2ix",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.064180703332893,
+  "cov_effrank": 4.347128771698501
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2008-10",
+  "run": "vb83q4uw",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.827483039279766,
+  "cov_effrank": 5.124429164539004
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2008-10",
+  "run": "88vngza4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.798588246180763,
+  "cov_effrank": 4.850054193251692
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2019-09",
+  "run": "5lq64qly",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.219823151538627,
+  "cov_effrank": 2.9257275535429863
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2010-06",
+  "run": "0q9amf4v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.484644807097156,
+  "cov_effrank": 7.657825785961783
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2019-09",
+  "run": "6avb1brf",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.2621758613576,
+  "cov_effrank": 10.084709438218212
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2019-09",
+  "run": "i57e3oxh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.012726415513899,
+  "cov_effrank": 7.329648562685913
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2008-10",
+  "run": "u2417csv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.417635741441874,
+  "cov_effrank": 36.41804384436382
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2019-09",
+  "run": "c2gq75ct",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.59315628104026,
+  "cov_effrank": 4.653479608146398
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2014-01",
+  "run": "sy5e3ugi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.68602991653012,
+  "cov_effrank": 13.023671195890675
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2019-09",
+  "run": "r7tpi0vs",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.435534464638713,
+  "cov_effrank": 5.40315306913191
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2014-01",
+  "run": "wlqueha9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.834673157023474,
+  "cov_effrank": 3.9564577032252304
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2019-09",
+  "run": "th35uj3q",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.2670965258771,
+  "cov_effrank": 3.996336908267504
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2019-09",
+  "run": "trgghmop",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.481951096557525,
+  "cov_effrank": 13.142345479895837
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2019-09",
+  "run": "yam6gwjn",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.601330497334388,
+  "cov_effrank": 5.574562424645438
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2017-01",
+  "run": "uuhdrsxf",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.98746860948374,
+  "cov_effrank": 14.303664634624422
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2017-01",
+  "run": "x71rb3d0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.233994063063634,
+  "cov_effrank": 3.8650051013388698
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2019-09",
+  "run": "x04dd3n0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.462593998155368,
+  "cov_effrank": 5.374907181141029
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2013-12",
+  "run": "a0mrul72",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.141190395719926,
+  "cov_effrank": 2.9174716237845284
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2013-12",
+  "run": "e2pp87ap",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.27683990635594,
+  "cov_effrank": 15.77364349821006
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2013-12",
+  "run": "jf00z31m",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.270841594827421,
+  "cov_effrank": 6.5748081404704655
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2013-12",
+  "run": "jfcl9o25",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.825937991508486,
+  "cov_effrank": 8.1148640236114
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2013-12",
+  "run": "1uirft53",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.69036569572717,
+  "cov_effrank": 9.715377054620523
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2013-12",
+  "run": "jcj209u9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.265876381056334,
+  "cov_effrank": 31.288993672393175
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2021-12",
+  "run": "mzo8qoq1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.325045491359676,
+  "cov_effrank": 6.358945484306691
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2021-12",
+  "run": "ubovnps6",
+  "n": 25600,
+  "d": 256,
+  "rankme": 96.53134718202428,
+  "cov_effrank": 60.36805608234671
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2021-12",
+  "run": "9kq21z40",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.54978661638197,
+  "cov_effrank": 3.8398738406875106
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2009-12",
+  "run": "01w5ehgn",
+  "n": 25600,
+  "d": 256,
+  "rankme": 84.29044509378575,
+  "cov_effrank": 44.266090947453755
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2021-12",
+  "run": "dvpfwc5p",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.615266600014102,
+  "cov_effrank": 4.206300755519607
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2021-12",
+  "run": "gxvdfxgf",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.524732236873124,
+  "cov_effrank": 4.020266189140816
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2021-12",
+  "run": "lse7jisb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.7059464639636674,
+  "cov_effrank": 3.9542963763611816
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2021-12",
+  "run": "s3phb9ex",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.518580192077586,
+  "cov_effrank": 3.4774973292568214
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2021-12",
+  "run": "vvzsq55h",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.349558757934364,
+  "cov_effrank": 9.624504082119946
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2013-12",
+  "run": "qda98mv3",
+  "n": 25600,
+  "d": 256,
+  "rankme": 83.95774615402642,
+  "cov_effrank": 43.83294189396297
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2013-12",
+  "run": "8xot6bfe",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.209211799393652,
+  "cov_effrank": 5.483264576414272
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2021-12",
+  "run": "7xyiogpl",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.788177368648813,
+  "cov_effrank": 13.091437914906288
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2013-12",
+  "run": "3xhuxzns",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.283551958255703,
+  "cov_effrank": 3.671817791466215
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2021-12",
+  "run": "e85niawt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.168311878358416,
+  "cov_effrank": 4.852293836068616
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2013-12",
+  "run": "pxr4r3dr",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.870616640685075,
+  "cov_effrank": 6.234838596396073
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2021-12",
+  "run": "uos49mw0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.640836897206777,
+  "cov_effrank": 8.719700734703153
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2021-12",
+  "run": "4royzchi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.428825510288483,
+  "cov_effrank": 5.582391533194505
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2021-12",
+  "run": "l7kgnceb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.428644769680563,
+  "cov_effrank": 5.538848705717984
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2021-12",
+  "run": "9hrh9yk8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.140458219638212,
+  "cov_effrank": 6.039678030493895
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2013-12",
+  "run": "ljjl4tys",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.943973694023446,
+  "cov_effrank": 3.902904432445242
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2021-12",
+  "run": "efs8m7tw",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.02277445058041,
+  "cov_effrank": 42.62062919839879
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2013-12",
+  "run": "qf8i0q1d",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.37614797950751,
+  "cov_effrank": 5.111607266296983
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2013-12",
+  "run": "selv5l6s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.060706666295447,
+  "cov_effrank": 8.425301784253593
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2013-12",
+  "run": "ry7hh8tk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.60256503246403,
+  "cov_effrank": 5.587544106972361
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2013-12",
+  "run": "ztgkpa18",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.066511250177644,
+  "cov_effrank": 8.474431847963372
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2013-12",
+  "run": "vtaiyi3q",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.627675883619176,
+  "cov_effrank": 4.638023591546921
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2014-01",
+  "run": "0ljb24d2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.268508618059316,
+  "cov_effrank": 5.082635411402774
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2014-01",
+  "run": "6wzf9plq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.9395002728036,
+  "cov_effrank": 4.0895847993095815
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2014-01",
+  "run": "qz347gy4",
+  "n": 25600,
+  "d": 256,
+  "rankme": 83.85165496419712,
+  "cov_effrank": 43.094554616400735
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2014-01",
+  "run": "li8xl3ti",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.885734448117285,
+  "cov_effrank": 2.914506516032698
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2014-01",
+  "run": "4ykt31ht",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.608301308190127,
+  "cov_effrank": 4.602585546492268
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2014-01",
+  "run": "9kmez07d",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.345157021623477,
+  "cov_effrank": 9.841025590111693
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2014-01",
+  "run": "c8jt7t6z",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.774889814022036,
+  "cov_effrank": 14.772365461103528
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2014-01",
+  "run": "g9rodyc9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.12296136168411,
+  "cov_effrank": 6.586943091947645
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2014-01",
+  "run": "t5srp50t",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.149004256153308,
+  "cov_effrank": 5.163331498151403
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2014-01",
+  "run": "qjbma6u2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.411482327792285,
+  "cov_effrank": 10.24631373769278
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2014-01",
+  "run": "oftzj0o7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.78594855574398,
+  "cov_effrank": 6.230635024118695
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2014-01",
+  "run": "sfh7lwp9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.737281049174477,
+  "cov_effrank": 8.6241400405901
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2014-01",
+  "run": "q1co3lyl",
+  "n": 25600,
+  "d": 384,
+  "rankme": 19.05226957000442,
+  "cov_effrank": 32.38604898750381
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2014-01",
+  "run": "z0vnf5fv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.039546589324537,
+  "cov_effrank": 4.666961003165973
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2014-01",
+  "run": "xxtm56r1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.53174746037985,
+  "cov_effrank": 9.581177934195452
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2014-01",
+  "run": "vkq3m653",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.81458399872631,
+  "cov_effrank": 3.869734454477193
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2017-02",
+  "run": "59gfjgbj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.147381214419836,
+  "cov_effrank": 3.8091225166788485
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2017-02",
+  "run": "15gb4fw4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.916534341241272,
+  "cov_effrank": 2.8084273975130207
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2017-02",
+  "run": "7piulluj",
+  "n": 25600,
+  "d": 256,
+  "rankme": 80.67398878152495,
+  "cov_effrank": 40.09859327399801
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2017-02",
+  "run": "71tnao0p",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.39249151186531,
+  "cov_effrank": 7.390941016750391
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2017-02",
+  "run": "5xp8zfoi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.091681643716572,
+  "cov_effrank": 8.473771142400306
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2017-02",
+  "run": "6ac8d4f4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.43693441695329,
+  "cov_effrank": 5.072440198453692
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2017-02",
+  "run": "687u2r3x",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.621113889581975,
+  "cov_effrank": 4.620375708905861
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2017-02",
+  "run": "573nq3og",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.339938177440438,
+  "cov_effrank": 33.84716565405079
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2017-02",
+  "run": "7v4ex256",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.119887704448738,
+  "cov_effrank": 5.47194718090072
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2017-02",
+  "run": "fndrgq69",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.3023592825627155,
+  "cov_effrank": 11.991659764184737
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2017-02",
+  "run": "ks3qn092",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.216669766262406,
+  "cov_effrank": 8.727670795119055
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2017-02",
+  "run": "t823kgfg",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.328252438298247,
+  "cov_effrank": 4.140482823498919
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2017-02",
+  "run": "r7j0t4dz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.7575539933737,
+  "cov_effrank": 5.455607369898921
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2017-02",
+  "run": "pyxc9m6s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.212338041159754,
+  "cov_effrank": 10.50090885360957
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2017-02",
+  "run": "gaodrj2b",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.712788385893505,
+  "cov_effrank": 5.583434193842894
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2017-02",
+  "run": "ydaatvtg",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.860389897559981,
+  "cov_effrank": 5.233086240939475
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2012-04",
+  "run": "randinit_s42_2012-04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 55.29708749649004,
+  "cov_effrank": 12.89990766603207
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2012-04",
+  "run": "randinit_s44_2012-04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 53.81707616158056,
+  "cov_effrank": 13.151885484458228
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2012-04",
+  "run": "randinit_s43_2012-04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.82337230061411,
+  "cov_effrank": 13.546084467647807
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2012-09",
+  "run": "randinit_s43_2012-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.29193115759305,
+  "cov_effrank": 13.065298177430583
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2012-11",
+  "run": "randinit_s42_2012-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.00962726328142,
+  "cov_effrank": 13.40152973728032
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2012-09",
+  "run": "randinit_s44_2012-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 53.363238410297704,
+  "cov_effrank": 12.682781891957397
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2012-09",
+  "run": "randinit_s42_2012-09",
+  "n": 25600,
+  "d": 384,
+  "rankme": 54.79443611206296,
+  "cov_effrank": 12.498518923055318
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2012-11",
+  "run": "randinit_s43_2012-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.54711530546687,
+  "cov_effrank": 14.002641208634046
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2017-08",
+  "run": "5rv159q8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.051915944450934,
+  "cov_effrank": 5.665656058552941
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2020-09",
+  "run": "dwh110j7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.52039409718041,
+  "cov_effrank": 3.9418039254779096
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2020-09",
+  "run": "l6a16krt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 65.7300044062642,
+  "cov_effrank": 17.151898387409005
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2012-11",
+  "run": "randinit_s44_2012-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 54.4198041414421,
+  "cov_effrank": 13.557230023274919
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2017-08",
+  "run": "logxmwbt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.298510856196993,
+  "cov_effrank": 10.137125577340825
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2021-12",
+  "run": "4couam4i",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.963785897178368,
+  "cov_effrank": 3.7971945734713537
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2020-09",
+  "run": "5tme7mo7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.470953909729692,
+  "cov_effrank": 5.126802640468041
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2020-09",
+  "run": "wz0dn3nu",
+  "n": 25600,
+  "d": 384,
+  "rankme": 19.539367148386894,
+  "cov_effrank": 38.21653893805334
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2017-08",
+  "run": "z94khlk8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.983017593482103,
+  "cov_effrank": 8.451917176665077
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2017-08",
+  "run": "gbo6pxjg",
+  "n": 25600,
+  "d": 256,
+  "rankme": 81.70324283407585,
+  "cov_effrank": 41.8031870502961
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2021-12",
+  "run": "fbn8u0ee",
+  "n": 25600,
+  "d": 384,
+  "rankme": 61.54141988283337,
+  "cov_effrank": 15.092920640272771
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2017-08",
+  "run": "joft0jlx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.572327999087518,
+  "cov_effrank": 4.637964082833128
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2017-08",
+  "run": "sc0en95t",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.564432044125936,
+  "cov_effrank": 7.564437883989714
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2017-08",
+  "run": "f2wx79uj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.443550637550116,
+  "cov_effrank": 3.9095861447413376
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2017-08",
+  "run": "ebzhhncw",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.844300486031985,
+  "cov_effrank": 4.037575615812031
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2017-08",
+  "run": "stw4mt5c",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.439104342857682,
+  "cov_effrank": 5.662004889724013
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2017-08",
+  "run": "to4do7yd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.022764542288236,
+  "cov_effrank": 5.662620153918017
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2021-12",
+  "run": "eomfjjx8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.006920987589035,
+  "cov_effrank": 6.366189189228755
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2017-08",
+  "run": "j3u9io3e",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.708004670777944,
+  "cov_effrank": 5.243870758135815
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2017-08",
+  "run": "0p0dc6fi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.020603966505073,
+  "cov_effrank": 7.22273539906329
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2017-08",
+  "run": "a3w3kznh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.588379010005701,
+  "cov_effrank": 2.8567887833366807
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2017-08",
+  "run": "sgox7qtr",
+  "n": 25600,
+  "d": 384,
+  "rankme": 20.589476373742215,
+  "cov_effrank": 28.172855107455984
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2012-11",
+  "run": "0gx7y09e",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.769685470006094,
+  "cov_effrank": 7.329943269581048
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2008-08",
+  "run": "randinit_s43_2008-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.67468686336702,
+  "cov_effrank": 14.609335779087669
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2012-11",
+  "run": "1rhtvfz6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.098051569142303,
+  "cov_effrank": 5.6912462790445755
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2017-08",
+  "run": "wz25ymub",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.116236947440738,
+  "cov_effrank": 5.780110312892601
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2012-11",
+  "run": "2smk4xrp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.20428793589531,
+  "cov_effrank": 5.121127983807358
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2012-11",
+  "run": "4yq4s6wv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.239836487357054,
+  "cov_effrank": 5.993967462768613
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2012-11",
+  "run": "8br0lyfn",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.109421780024768,
+  "cov_effrank": 4.433578021804602
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2008-08",
+  "run": "randinit_s44_2008-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.34462575583697,
+  "cov_effrank": 14.12525164331987
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2008-08",
+  "run": "randinit_s42_2008-08",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.90292423100182,
+  "cov_effrank": 13.895282710489576
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2012-11",
+  "run": "9w4ud6bk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.958751233677088,
+  "cov_effrank": 10.786349794798271
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2013-01",
+  "run": "0afs0tj9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.976135309608907,
+  "cov_effrank": 3.922814432300285
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2012-11",
+  "run": "xj84yem7",
+  "n": 25600,
+  "d": 256,
+  "rankme": 80.05876689303315,
+  "cov_effrank": 43.22393473869187
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2013-01",
+  "run": "1pjlxcjq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.091633280961403,
+  "cov_effrank": 6.6675160869087655
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2013-01",
+  "run": "191ymu2p",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.746582670486701,
+  "cov_effrank": 4.646820536618994
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2012-11",
+  "run": "etaj9eq8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.177697598337328,
+  "cov_effrank": 11.606308559057977
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2012-11",
+  "run": "b6sfqi48",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.803279791839607,
+  "cov_effrank": 4.850336186872602
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2012-11",
+  "run": "ogr6q32t",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.718213707650747,
+  "cov_effrank": 4.709365752375906
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2012-11",
+  "run": "zepqygoq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.073914173019654,
+  "cov_effrank": 2.907558215931012
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2012-11",
+  "run": "uu1bvrmj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.689800355452796,
+  "cov_effrank": 5.7581234805922
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2013-01",
+  "run": "as7ipadf",
+  "n": 25600,
+  "d": 256,
+  "rankme": 76.61357055364742,
+  "cov_effrank": 37.901515742612915
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2013-01",
+  "run": "czd51gwf",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.062098191787218,
+  "cov_effrank": 5.25073599406355
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2017-08",
+  "run": "wwk29rxx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.842709740253076,
+  "cov_effrank": 17.265209770189323
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2013-01",
+  "run": "l9ymc4n1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.805601365569046,
+  "cov_effrank": 8.2291874353076
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2013-01",
+  "run": "fj8mj9h5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 3.3237796031314732,
+  "cov_effrank": 1.8749530497376674
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2013-01",
+  "run": "kzeel6ll",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.34514101540677,
+  "cov_effrank": 5.083953729106267
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2013-01",
+  "run": "c8hvj48d",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.52386155762869,
+  "cov_effrank": 4.004123679701522
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2012-11",
+  "run": "mpgqu6rb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.974967326474516,
+  "cov_effrank": 33.967761609552035
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2013-01",
+  "run": "krhheif6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.232182749038129,
+  "cov_effrank": 9.80485466863183
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2012-11",
+  "run": "t6glamrv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.011320048878487,
+  "cov_effrank": 3.790389950047882
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2012-11",
+  "run": "c90z40pz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.46007462926762,
+  "cov_effrank": 6.289403768643136
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2013-01",
+  "run": "j44drx2y",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.374711973501894,
+  "cov_effrank": 9.720931093243053
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2013-01",
+  "run": "q006c2bh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.527487559171315,
+  "cov_effrank": 8.525427985063718
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2013-01",
+  "run": "omvnkih8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.11841244552401,
+  "cov_effrank": 36.424066817615596
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2012-11",
+  "run": "ej0fr9i5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.1515085444387525,
+  "cov_effrank": 6.142317926133743
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2013-01",
+  "run": "cybprcd3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.021790435753305,
+  "cov_effrank": 2.9296895064926067
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2020-01",
+  "run": "bierlrg6",
+  "n": 25600,
+  "d": 256,
+  "rankme": 80.8180081686234,
+  "cov_effrank": 38.76771785512807
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2013-01",
+  "run": "rsw7gi20",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.4856232909049245,
+  "cov_effrank": 10.513876838126071
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2020-01",
+  "run": "1kobt2ry",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.779487168494974,
+  "cov_effrank": 5.486512903224369
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2013-01",
+  "run": "uvqv8gbt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.05048529842625,
+  "cov_effrank": 3.9771595695799395
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2020-01",
+  "run": "cx60e6zd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.148555235857913,
+  "cov_effrank": 5.683605991097613
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2020-01",
+  "run": "8isrm25x",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.440446854409152,
+  "cov_effrank": 5.97688914972625
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2020-01",
+  "run": "dc0ut2l5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.733710238636847,
+  "cov_effrank": 9.890627509601567
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2020-01",
+  "run": "gelf400n",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.09665375340255,
+  "cov_effrank": 3.3069994352422327
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2020-01",
+  "run": "kg3jc572",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.012028033036275,
+  "cov_effrank": 7.853588247837676
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2020-01",
+  "run": "urtv8w1j",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.07454696971377,
+  "cov_effrank": 3.696093280718772
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2020-01",
+  "run": "wfkdgqhf",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.676799845549298,
+  "cov_effrank": 7.135359377638856
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2020-01",
+  "run": "rpwuu4uy",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.118853437565569,
+  "cov_effrank": 7.815165901356286
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2020-01",
+  "run": "ub8hw688",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.0361585283969985,
+  "cov_effrank": 16.779004952616084
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2020-01",
+  "run": "nvsv2a96",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.283780208489528,
+  "cov_effrank": 3.4126029651616614
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2020-01",
+  "run": "sst9rf8x",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.427737037903691,
+  "cov_effrank": 4.642912600876733
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2020-01",
+  "run": "mn9gd6ip",
+  "n": 25600,
+  "d": 384,
+  "rankme": 20.21626295229653,
+  "cov_effrank": 37.34106149834068
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2023-04",
+  "run": "sekvbljs",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.605748827140424,
+  "cov_effrank": 24.347071952277883
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2020-01",
+  "run": "ywm4a9vk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.926006719106049,
+  "cov_effrank": 5.783462110229925
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2017-01",
+  "run": "randinit_s43_2017-01",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.25929029704858,
+  "cov_effrank": 13.962272517073618
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2017-01",
+  "run": "randinit_s42_2017-01",
+  "n": 25600,
+  "d": 384,
+  "rankme": 55.61280779028555,
+  "cov_effrank": 13.197961477844094
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2017-01",
+  "run": "randinit_s44_2017-01",
+  "n": 25600,
+  "d": 384,
+  "rankme": 54.00218340407509,
+  "cov_effrank": 13.439995965089008
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2009-12",
+  "run": "csduhydm",
+  "n": 25600,
+  "d": 384,
+  "rankme": 68.72432764646025,
+  "cov_effrank": 16.486299118087146
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2009-12",
+  "run": "fshnluu2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.005884661833028,
+  "cov_effrank": 3.8065565453137853
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2008-09",
+  "run": "8t04ybc7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.115787126375483,
+  "cov_effrank": 3.9197921975768995
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2023-04",
+  "run": "31kzrt21",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.8028402335449005,
+  "cov_effrank": 3.9293198194794234
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2008-10",
+  "run": "l7kmoqog",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.641374126690135,
+  "cov_effrank": 7.7459165164238994
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2008-10",
+  "run": "nvgmnfb5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.299124526246885,
+  "cov_effrank": 14.316876001939638
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2008-09",
+  "run": "xm9kfhln",
+  "n": 25600,
+  "d": 384,
+  "rankme": 62.542273531871245,
+  "cov_effrank": 15.582324222088058
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2009-12",
+  "run": "4p1vcatg",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.64846569850175,
+  "cov_effrank": 5.144951308305441
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2009-12",
+  "run": "eqynz863",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.120250189885353,
+  "cov_effrank": 6.954513655040225
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2009-12",
+  "run": "fswissl8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.89800289316156,
+  "cov_effrank": 2.9419095829912254
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2009-12",
+  "run": "4cpxs3mz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.90598800463169,
+  "cov_effrank": 33.68651892374542
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2009-12",
+  "run": "fpyfshz3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.962551087283904,
+  "cov_effrank": 6.291144120708075
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2009-12",
+  "run": "cv0m5qwt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.902805620030671,
+  "cov_effrank": 6.245829267079333
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2009-12",
+  "run": "pa7hlzt6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.309978108395291,
+  "cov_effrank": 13.276031443678784
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2008-10",
+  "run": "tbdtcncu",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.167931946895066,
+  "cov_effrank": 3.9385886513796784
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2009-12",
+  "run": "fdxsibfq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.663820149255526,
+  "cov_effrank": 4.051327895531216
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2009-12",
+  "run": "s9mkev7l",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.050722120114699,
+  "cov_effrank": 4.7703169689350435
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2009-12",
+  "run": "5cmsar1t",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.787681625964536,
+  "cov_effrank": 5.048964048839415
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2009-12",
+  "run": "rhgtvew2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.94656382774482,
+  "cov_effrank": 7.264044261784112
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2009-12",
+  "run": "u5ew08g5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.59477712961504,
+  "cov_effrank": 5.2543543347831125
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2012-09",
+  "run": "54ndtl9v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.837987591648496,
+  "cov_effrank": 6.267804293084935
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2009-12",
+  "run": "uojbsgzl",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.885044616646189,
+  "cov_effrank": 4.4587490983678215
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2012-09",
+  "run": "5q458o46",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.269296674704247,
+  "cov_effrank": 4.393493099421692
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2009-12",
+  "run": "wlme7n9g",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.402462748395669,
+  "cov_effrank": 11.456104369551273
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2009-12",
+  "run": "skvlmu29",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.600845206734046,
+  "cov_effrank": 4.978724235615191
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2012-09",
+  "run": "66d5424g",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.1149389686520355,
+  "cov_effrank": 11.927429781814272
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2012-09",
+  "run": "8ai23mvp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.995374997094624,
+  "cov_effrank": 2.8942247451115635
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2012-09",
+  "run": "78z7n8ct",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.034715452275773,
+  "cov_effrank": 5.713344860815266
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2023-04",
+  "run": "nz5qoqw4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 68.2582440703721,
+  "cov_effrank": 17.952429407424077
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2012-09",
+  "run": "9gefkrjd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.69064783734591,
+  "cov_effrank": 4.783004397544511
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2012-09",
+  "run": "lxq88je7",
+  "n": 25600,
+  "d": 256,
+  "rankme": 78.78042976757907,
+  "cov_effrank": 41.01875891159515
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2012-09",
+  "run": "gymielo3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.201341304774587,
+  "cov_effrank": 5.291451704586843
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2012-09",
+  "run": "ada4xtqv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.954804316181404,
+  "cov_effrank": 5.101928310259414
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2012-09",
+  "run": "ra6gsr1p",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.7841130293760585,
+  "cov_effrank": 7.561375066817338
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2012-09",
+  "run": "s3wrtje7",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.31924995108808,
+  "cov_effrank": 4.634449365600642
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2012-09",
+  "run": "v76tupa3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.826813865532703,
+  "cov_effrank": 3.849236167812844
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2012-09",
+  "run": "msvg1nld",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.247471413967416,
+  "cov_effrank": 3.8805779134952134
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2012-09",
+  "run": "sx9au0an",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.210332873440753,
+  "cov_effrank": 7.618404990302893
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2012-09",
+  "run": "wcwcej89",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.245147536365572,
+  "cov_effrank": 9.849199615238598
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2012-09",
+  "run": "n984u399",
+  "n": 25600,
+  "d": 384,
+  "rankme": 20.13144042968573,
+  "cov_effrank": 38.63907233003657
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2023-04",
+  "run": "ddp5n7bq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.141323254913656,
+  "cov_effrank": 7.140267792021606
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2013-04",
+  "run": "xql41qrf",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.573494356655125,
+  "cov_effrank": 4.734339302053338
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2013-04",
+  "run": "uj77cdmh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.417935543860828,
+  "cov_effrank": 5.062348620800992
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2013-04",
+  "run": "vey9vnp3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.805725666873817,
+  "cov_effrank": 13.538235541276055
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2013-04",
+  "run": "v3j8m2ft",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.074059043393152,
+  "cov_effrank": 5.572982688171911
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2013-04",
+  "run": "ti245nea",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.975902854117353,
+  "cov_effrank": 8.206103374572166
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2013-04",
+  "run": "ojspzeow",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.965922027533046,
+  "cov_effrank": 5.9831042638396115
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2013-04",
+  "run": "wb6s8eto",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.641282150840262,
+  "cov_effrank": 6.043125600977868
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2020-09",
+  "run": "8k1sysa8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.70729140129162,
+  "cov_effrank": 3.6288074558928725
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2020-09",
+  "run": "0163b6uv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.72174592115388,
+  "cov_effrank": 5.514663514568605
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2020-09",
+  "run": "k1lg6n13",
+  "n": 25600,
+  "d": 256,
+  "rankme": 91.41194377316836,
+  "cov_effrank": 54.966956926740814
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2020-09",
+  "run": "cqcj4817",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.848027789120213,
+  "cov_effrank": 4.14865928874143
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2020-09",
+  "run": "6vofvxxq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.400550809508439,
+  "cov_effrank": 14.509837248448843
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2020-09",
+  "run": "mxdoop9m",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.800685897006318,
+  "cov_effrank": 6.226248930843063
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2020-09",
+  "run": "dgmsseij",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.613660146607932,
+  "cov_effrank": 5.040983934674585
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2020-09",
+  "run": "j49bk9u9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 2.6602153394342882,
+  "cov_effrank": 4.932104176250326
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2020-09",
+  "run": "d3qupmpu",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.467884579664888,
+  "cov_effrank": 10.535506627406006
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2020-09",
+  "run": "tmlwm434",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.110833846465773,
+  "cov_effrank": 3.9700625389056774
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2020-09",
+  "run": "o9s488id",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.962437002216257,
+  "cov_effrank": 6.912139481266923
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2020-09",
+  "run": "swxw9co9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.672025835391029,
+  "cov_effrank": 5.551244828904879
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2020-09",
+  "run": "m28d47k1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.443169506572342,
+  "cov_effrank": 5.393874053710051
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2013-04",
+  "run": "okk6gjma",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.7084142105428475,
+  "cov_effrank": 9.813300903109377
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2020-09",
+  "run": "x1czjma6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.88583892599424,
+  "cov_effrank": 4.764009793138362
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2023-11",
+  "run": "14sqhhwz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.198171262502425,
+  "cov_effrank": 3.940523258382818
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2023-11",
+  "run": "1x8rqhw8",
+  "n": 25600,
+  "d": 256,
+  "rankme": 93.79356305991082,
+  "cov_effrank": 55.88317089849314
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2023-11",
+  "run": "1jtvk0i6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.900096870582317,
+  "cov_effrank": 5.276684130843853
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2023-11",
+  "run": "imipimmv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.471171753222213,
+  "cov_effrank": 5.900768937875717
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2023-11",
+  "run": "ha5h3qs1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.82525865353049,
+  "cov_effrank": 5.4100806039757785
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2023-11",
+  "run": "dj5tx19p",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.025623459099984,
+  "cov_effrank": 3.8072944343699047
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2023-11",
+  "run": "8c689ife",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.76615095447548,
+  "cov_effrank": 5.809126867160203
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2023-11",
+  "run": "b8maagkr",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.523548609197238,
+  "cov_effrank": 4.0752944913261375
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2023-11",
+  "run": "rjr4kph2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.62350042218455,
+  "cov_effrank": 4.039184087925137
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2023-11",
+  "run": "kr0qir4a",
+  "n": 25600,
+  "d": 384,
+  "rankme": 23.785274510556526,
+  "cov_effrank": 8.64977593778346
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2020-01",
+  "run": "e2iwux28",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.305788027055903,
+  "cov_effrank": 3.6156288921623196
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2020-01",
+  "run": "3kpbyxt3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.890294746485896,
+  "cov_effrank": 5.484032117982181
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2020-01",
+  "run": "kny7c845",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.73127355970174,
+  "cov_effrank": 13.665345004096869
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2023-11",
+  "run": "t630hh5s",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.6797339650797545,
+  "cov_effrank": 14.25585402199987
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2023-11",
+  "run": "usxu4zdb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.112275969246523,
+  "cov_effrank": 5.757673044153135
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2023-11",
+  "run": "s007mdc0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.352486420775994,
+  "cov_effrank": 9.24297772069832
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2017-02",
+  "run": "imdl9ov4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.555537001892226,
+  "cov_effrank": 14.802237843139798
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2008-08",
+  "run": "960d2oeq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.268865092057749,
+  "cov_effrank": 3.932193212657437
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2017-02",
+  "run": "wxwynz4c",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.1062111312433265,
+  "cov_effrank": 3.809389027187279
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2023-11",
+  "run": "xiuz1qja",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.990602473648153,
+  "cov_effrank": 4.810588821275179
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2022-07",
+  "run": "0e94kbdd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.078434934661972,
+  "cov_effrank": 4.1918396109163005
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2008-08",
+  "run": "tdjt63tx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 66.97678722196743,
+  "cov_effrank": 16.463879942753984
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2023-11",
+  "run": "tg2plpob",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.107887740781866,
+  "cov_effrank": 44.35736007172697
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2010-06",
+  "run": "4u8166ku",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.07683774710016,
+  "cov_effrank": 5.8094302808842135
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2010-06",
+  "run": "fuettms9",
+  "n": 25600,
+  "d": 256,
+  "rankme": 81.08467195542971,
+  "cov_effrank": 41.19752373675958
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2022-07",
+  "run": "04ntfqno",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.1360094538642205,
+  "cov_effrank": 7.521050843518946
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2010-06",
+  "run": "6hzlqxz4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.169457586336515,
+  "cov_effrank": 4.712233169150222
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2010-06",
+  "run": "4l23opcv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.516437064674488,
+  "cov_effrank": 3.780384296538785
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2011-01",
+  "run": "0the43wu",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.616386944199194,
+  "cov_effrank": 3.8217250269120244
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2010-06",
+  "run": "cn15fuor",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.232028952072379,
+  "cov_effrank": 4.0338428717848105
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2022-07",
+  "run": "6x8niego",
+  "n": 25600,
+  "d": 384,
+  "rankme": 66.27996665596756,
+  "cov_effrank": 16.566964760903826
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2011-01",
+  "run": "0qml1hes",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.664640734175913,
+  "cov_effrank": 5.341845921987246
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2011-01",
+  "run": "2bsrtsxv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.6953042163888465,
+  "cov_effrank": 7.876301109301164
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2011-01",
+  "run": "0y6l05vc",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.545855846784924,
+  "cov_effrank": 6.49666052902996
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2010-06",
+  "run": "37rx3wqs",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.804049376501089,
+  "cov_effrank": 2.9304012735674845
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2010-06",
+  "run": "lnrb67zp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.842094568850269,
+  "cov_effrank": 11.697867498327925
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2010-06",
+  "run": "nr17t23z",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.962227332481936,
+  "cov_effrank": 5.615612211716201
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2010-06",
+  "run": "pucppxtg",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.391961823062058,
+  "cov_effrank": 5.355223187758291
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2011-01",
+  "run": "44jdg4ds",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.678353246410344,
+  "cov_effrank": 4.901676233055853
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2010-06",
+  "run": "xwgu1pmp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.27681015544871,
+  "cov_effrank": 5.67198904838849
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2010-06",
+  "run": "xw1fqu8x",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.364437374243257,
+  "cov_effrank": 9.809301749575663
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2010-06",
+  "run": "rs1c9yx6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.542943731416293,
+  "cov_effrank": 8.726334479840034
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2011-01",
+  "run": "bwxizfsx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.846882837098965,
+  "cov_effrank": 8.586032639127454
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2010-06",
+  "run": "fbp69i4h",
+  "n": 25600,
+  "d": 384,
+  "rankme": 18.290338893855047,
+  "cov_effrank": 29.859218350242795
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2011-01",
+  "run": "clqvvv0e",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.608351627329594,
+  "cov_effrank": 12.747130775489127
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2011-01",
+  "run": "adk73lly",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.315707616132629,
+  "cov_effrank": 2.9267993534207526
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2010-06",
+  "run": "xxdgxtz3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.772904263887624,
+  "cov_effrank": 15.464747315926731
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2010-06",
+  "run": "zikci9nr",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.00175633356351,
+  "cov_effrank": 5.329079243203451
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2022-07",
+  "run": "wd82cqy2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.437291171445327,
+  "cov_effrank": 36.3694259249253
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2011-01",
+  "run": "t6how20f",
+  "n": 25600,
+  "d": 256,
+  "rankme": 84.98141662796299,
+  "cov_effrank": 46.4653253432603
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2011-01",
+  "run": "b1ea0gsj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.798204123576058,
+  "cov_effrank": 4.697029942793166
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2011-01",
+  "run": "jh3nohg6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.028675784882239,
+  "cov_effrank": 5.1962394164456525
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2011-01",
+  "run": "c038k56y",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.829701453796305,
+  "cov_effrank": 11.583857965088878
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2011-01",
+  "run": "dsgy9ob6",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.872480320329764,
+  "cov_effrank": 6.047695939704011
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2011-01",
+  "run": "pmlp3d8x",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.08965079675674,
+  "cov_effrank": 31.78346732148447
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2011-01",
+  "run": "gzq24lfb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.583918200080904,
+  "cov_effrank": 5.587661050333659
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2011-01",
+  "run": "x9mls0k8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.487665161748002,
+  "cov_effrank": 9.4200329371553
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2010-01",
+  "run": "gx3rcyg5",
+  "n": 22630,
+  "d": 384,
+  "rankme": 15.796031606846608,
+  "cov_effrank": 5.704568729748583
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2023-11",
+  "run": "randinit_s42_2023-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.05615475512106,
+  "cov_effrank": 13.91246214045584
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2010-01",
+  "run": "ej45ybyo",
+  "n": 22630,
+  "d": 384,
+  "rankme": 14.011326091378736,
+  "cov_effrank": 3.023014220689869
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2020-12",
+  "run": "lojs9oht",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.363139084103295,
+  "cov_effrank": 5.653358371094632
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2023-11",
+  "run": "randinit_s44_2023-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.69512231326292,
+  "cov_effrank": 14.086158169138864
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2010-01",
+  "run": "8sp27nub",
+  "n": 22630,
+  "d": 256,
+  "rankme": 83.06644998049578,
+  "cov_effrank": 45.21860943657116
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2010-01",
+  "run": "jxao4erq",
+  "n": 22630,
+  "d": 384,
+  "rankme": 13.409566833955457,
+  "cov_effrank": 4.790392948176859
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2010-01",
+  "run": "sby7ucag",
+  "n": 22630,
+  "d": 384,
+  "rankme": 64.5680831633114,
+  "cov_effrank": 16.852496245390423
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2010-01",
+  "run": "hydqg2lc",
+  "n": 22630,
+  "d": 384,
+  "rankme": 10.24268311185342,
+  "cov_effrank": 3.4783882864272524
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2010-01",
+  "run": "8wp3rzb4",
+  "n": 22630,
+  "d": 384,
+  "rankme": 4.765253058353214,
+  "cov_effrank": 8.117642364643622
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2023-11",
+  "run": "u3mnc8bz",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.897444805468084,
+  "cov_effrank": 3.9037270197758
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2010-01",
+  "run": "dkzn9zi7",
+  "n": 22630,
+  "d": 384,
+  "rankme": 8.909533493431175,
+  "cov_effrank": 3.8682691076990365
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2020-12",
+  "run": "3s87m1oy",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.392597075398896,
+  "cov_effrank": 39.894509363016795
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2010-01",
+  "run": "a7x1jrv5",
+  "n": 22630,
+  "d": 384,
+  "rankme": 17.66519414958222,
+  "cov_effrank": 32.30235655579691
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2010-01",
+  "run": "6nwcqicb",
+  "n": 22630,
+  "d": 384,
+  "rankme": 7.675963489268455,
+  "cov_effrank": 8.54056226169691
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2020-12",
+  "run": "mtzq95sp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 65.79844965776267,
+  "cov_effrank": 16.898388379599396
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2020-12",
+  "run": "agco9don",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.6960573507602925,
+  "cov_effrank": 3.8905902422285146
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2010-01",
+  "run": "j6h72c67",
+  "n": 22630,
+  "d": 384,
+  "rankme": 6.672538089220836,
+  "cov_effrank": 3.880382145340191
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2023-11",
+  "run": "randinit_s43_2023-11",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.95536627643953,
+  "cov_effrank": 14.68577033680656
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2010-01",
+  "run": "nd9jdu6n",
+  "n": 22630,
+  "d": 384,
+  "rankme": 5.16929774330702,
+  "cov_effrank": 7.579696570482121
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2010-01",
+  "run": "jk73ghxg",
+  "n": 22630,
+  "d": 384,
+  "rankme": 15.45647807369296,
+  "cov_effrank": 5.144128121841231
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2010-01",
+  "run": "oqxiw6ws",
+  "n": 22630,
+  "d": 384,
+  "rankme": 7.1942505430263655,
+  "cov_effrank": 12.29650693581652
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2010-01",
+  "run": "tz26n1qm",
+  "n": 22630,
+  "d": 384,
+  "rankme": 9.994799857082073,
+  "cov_effrank": 4.508996512873611
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2010-01",
+  "run": "vn2npl7p",
+  "n": 22630,
+  "d": 384,
+  "rankme": 12.093809378889468,
+  "cov_effrank": 11.839981362606675
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2010-01",
+  "run": "v80ngyhy",
+  "n": 22630,
+  "d": 384,
+  "rankme": 16.649522927552944,
+  "cov_effrank": 6.070465577673784
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2023-11",
+  "run": "fvxewxeh",
+  "n": 25600,
+  "d": 384,
+  "rankme": 67.41607469772872,
+  "cov_effrank": 18.07427282662071
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2011-06",
+  "run": "1qhcqxy0",
+  "n": 25600,
+  "d": 256,
+  "rankme": 85.09073728682954,
+  "cov_effrank": 45.35378437671886
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2023-11",
+  "run": "j9361bju",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.322806132436826,
+  "cov_effrank": 6.318876152649425
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2011-06",
+  "run": "26epz8s4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.621680147894015,
+  "cov_effrank": 2.8875617016026207
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2011-06",
+  "run": "3hu1qy2n",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.480859059182247,
+  "cov_effrank": 3.81638759298971
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2011-06",
+  "run": "39wlt8p1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.23281919392378,
+  "cov_effrank": 5.710168297716421
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2012-10",
+  "run": "50m6lqyx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.271498386910585,
+  "cov_effrank": 2.9684476853885164
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2011-06",
+  "run": "dedsrr4q",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.401197405529292,
+  "cov_effrank": 11.22085803202348
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2011-06",
+  "run": "dw1ichqi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.031208915783415,
+  "cov_effrank": 9.978963965821382
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2012-10",
+  "run": "6wovdxnm",
+  "n": 25600,
+  "d": 384,
+  "rankme": 8.362487681691972,
+  "cov_effrank": 4.195038498021146
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2011-06",
+  "run": "eqbxjoik",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.46982114602972,
+  "cov_effrank": 34.374351906137605
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2011-06",
+  "run": "y35p7pfv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.530323436253406,
+  "cov_effrank": 7.645624843988177
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2012-10",
+  "run": "fsgeiadk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.244122231531473,
+  "cov_effrank": 7.406053785322177
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2011-06",
+  "run": "hkysc407",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.781541314841919,
+  "cov_effrank": 4.105344893417106
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2011-06",
+  "run": "bzrevtbd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.876879976905917,
+  "cov_effrank": 4.676064770449809
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2012-10",
+  "run": "nx879mcq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.149545189123806,
+  "cov_effrank": 8.433341299954574
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2012-10",
+  "run": "40pkd21n",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.197921438974204,
+  "cov_effrank": 5.451013700973088
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2011-06",
+  "run": "lai5ory4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.311049294730577,
+  "cov_effrank": 5.980492124734686
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2011-06",
+  "run": "ufmm4908",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.5086153549078585,
+  "cov_effrank": 7.730141927026028
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2012-10",
+  "run": "hikcjngg",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.268210264716592,
+  "cov_effrank": 5.586873419384771
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2011-06",
+  "run": "yv94w8f8",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.619598814482322,
+  "cov_effrank": 13.710357974456212
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2012-10",
+  "run": "6cl40kmd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 19.002614950969033,
+  "cov_effrank": 37.71257864093926
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2011-06",
+  "run": "rl01s430",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.172111365290823,
+  "cov_effrank": 4.7053698755846325
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2012-10",
+  "run": "mncc13go",
+  "n": 25600,
+  "d": 384,
+  "rankme": 10.247096411436468,
+  "cov_effrank": 4.263554897592957
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2012-10",
+  "run": "qnp63cx0",
+  "n": 25600,
+  "d": 256,
+  "rankme": 81.83715264909233,
+  "cov_effrank": 42.298875950547796
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2012-10",
+  "run": "m993tyi9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.998071536756683,
+  "cov_effrank": 4.60090328167469
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2012-10",
+  "run": "f9mo0kic",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.841252286179695,
+  "cov_effrank": 7.641274885735463
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2011-06",
+  "run": "jzoaiq5m",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.641290918326212,
+  "cov_effrank": 7.004543300521286
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2011-06",
+  "run": "tkhthu1f",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.27771705425624,
+  "cov_effrank": 4.385003170192433
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2012-10",
+  "run": "mrdwvbw0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.465375848640635,
+  "cov_effrank": 12.43181005695092
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2012-10",
+  "run": "rh2bnf9z",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.981071440323115,
+  "cov_effrank": 5.114493413875961
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2012-10",
+  "run": "uol2006q",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.242556858905948,
+  "cov_effrank": 10.670982226474052
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2012-10",
+  "run": "wap12a77",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.342389745387065,
+  "cov_effrank": 3.8565713480158186
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2018-11",
+  "run": "8hfwsqmk",
+  "n": 25600,
+  "d": 256,
+  "rankme": 81.02620851476364,
+  "cov_effrank": 40.823184821203085
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2012-10",
+  "run": "x1e6l0t2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.232107941988888,
+  "cov_effrank": 4.620398944949325
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2018-11",
+  "run": "8akgd6s2",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.812296587938421,
+  "cov_effrank": 5.188721372386905
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2018-11",
+  "run": "9p2h16g0",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.847889682956429,
+  "cov_effrank": 14.751067788976886
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2018-11",
+  "run": "bd9sujrs",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.401587415040064,
+  "cov_effrank": 5.394510422751699
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2018-11",
+  "run": "qmp8i8pm",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.411442272223619,
+  "cov_effrank": 8.382084392753058
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2020-08",
+  "run": "csgc6jve",
+  "n": 25600,
+  "d": 256,
+  "rankme": 92.07853671732761,
+  "cov_effrank": 51.70090739557711
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2018-11",
+  "run": "k3qp6cfq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.308814465430231,
+  "cov_effrank": 4.658809970285671
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2018-11",
+  "run": "nyfbjd62",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.510745321276016,
+  "cov_effrank": 5.022109688481606
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2018-11",
+  "run": "axpvy5ky",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.057522536407806,
+  "cov_effrank": 6.323976618082584
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2018-11",
+  "run": "sy7gtjph",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.689226479425582,
+  "cov_effrank": 10.951972904255372
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2018-11",
+  "run": "spwmqpyi",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.390661630850449,
+  "cov_effrank": 2.8483186069733195
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2018-11",
+  "run": "itfhlc7h",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.056594945838455,
+  "cov_effrank": 3.8433360140970403
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2018-11",
+  "run": "bd7narz1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.101803186550878,
+  "cov_effrank": 5.1205574324659295
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2020-08",
+  "run": "2z2hxjmj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.467560311732658,
+  "cov_effrank": 4.821545172275977
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2020-08",
+  "run": "5u0m8abq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.913061634515403,
+  "cov_effrank": 5.793579699706333
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2020-08",
+  "run": "8mg4dlmv",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.558567158937468,
+  "cov_effrank": 5.067943540478051
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2018-11",
+  "run": "j28j44zf",
+  "n": 25600,
+  "d": 384,
+  "rankme": 17.240722730040133,
+  "cov_effrank": 31.961197576161737
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2020-08",
+  "run": "5hntk2h3",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.061229783141276,
+  "cov_effrank": 6.679464330190872
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2020-08",
+  "run": "8entzy7g",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.694966149674395,
+  "cov_effrank": 5.740232256654226
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2020-08",
+  "run": "8g0k6g5d",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.018615455978733,
+  "cov_effrank": 3.6672838363389952
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2020-08",
+  "run": "p3n542wk",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.137996436884835,
+  "cov_effrank": 4.242702290071023
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2020-08",
+  "run": "fd4wn561",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.11433545738727,
+  "cov_effrank": 4.218588267470097
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2020-08",
+  "run": "ur209x6w",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.374805481601253,
+  "cov_effrank": 3.5874692738513256
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2020-08",
+  "run": "p9n19iw5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.893892941612657,
+  "cov_effrank": 10.966754657271338
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2020-08",
+  "run": "sh92ivsc",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.792611439272627,
+  "cov_effrank": 4.3970392911251786
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2020-08",
+  "run": "x9cgiwzy",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.877523886781588,
+  "cov_effrank": 6.552898712423248
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2020-08",
+  "run": "yxr9hgtp",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.64692155359873,
+  "cov_effrank": 17.493398836115222
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2010-04",
+  "run": "rvpa1h20",
+  "n": 25600,
+  "d": 384,
+  "rankme": 66.70401754297055,
+  "cov_effrank": 15.275556244497347
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2021-12",
+  "run": "randinit_s43_2021-12",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.30150986024087,
+  "cov_effrank": 14.691158485940447
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2021-12",
+  "run": "randinit_s42_2021-12",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.41809175997944,
+  "cov_effrank": 14.073144301184056
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2021-12",
+  "run": "randinit_s44_2021-12",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.07669419567696,
+  "cov_effrank": 14.216494917693732
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2013-01",
+  "run": "bv3umyto",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.07634754484143,
+  "cov_effrank": 13.021460486398576
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2013-01",
+  "run": "6tzgoeti",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.619753923392838,
+  "cov_effrank": 3.7488289518572473
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2022-07",
+  "run": "randinit_s43_2022-07",
+  "n": 25600,
+  "d": 384,
+  "rankme": 60.300685372873126,
+  "cov_effrank": 14.839651215593184
+ },
+ {
+  "series": "randinit_s43",
+  "month": "2023-04",
+  "run": "randinit_s43_2023-04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 59.70503373677237,
+  "cov_effrank": 14.639185220043048
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2023-04",
+  "run": "randinit_s44_2023-04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 56.50018558384942,
+  "cov_effrank": 14.073568322010923
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2022-07",
+  "run": "randinit_s42_2022-07",
+  "n": 25600,
+  "d": 384,
+  "rankme": 58.54818637924155,
+  "cov_effrank": 14.086726931695889
+ },
+ {
+  "series": "randinit_s42",
+  "month": "2023-04",
+  "run": "randinit_s42_2023-04",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.81148413386722,
+  "cov_effrank": 13.920755271308318
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2010-04",
+  "run": "dzcmfqe9",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.009401607489423,
+  "cov_effrank": 4.039379163343687
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2010-06",
+  "run": "2wx5io78",
+  "n": 25600,
+  "d": 384,
+  "rankme": 65.13811360274525,
+  "cov_effrank": 15.066943844796466
+ },
+ {
+  "series": "pair_rrc_6mo",
+  "month": "2012-04",
+  "run": "322wu2l4",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.743499932525216,
+  "cov_effrank": 3.808872676586762
+ },
+ {
+  "series": "sup_vol_w8",
+  "month": "2012-04",
+  "run": "1ubv4c5v",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.4295089288779135,
+  "cov_effrank": 8.409791530769532
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2020-08",
+  "run": "cjq4upxt",
+  "n": 25600,
+  "d": 384,
+  "rankme": 62.12934290912442,
+  "cov_effrank": 15.397792044248446
+ },
+ {
+  "series": "pair_k2ind_6mo",
+  "month": "2012-04",
+  "run": "cgjh5t2j",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.930380095765845,
+  "cov_effrank": 5.983067830724911
+ },
+ {
+  "series": "tfc_6mo",
+  "month": "2012-04",
+  "run": "nlb77l70",
+  "n": 25600,
+  "d": 256,
+  "rankme": 81.07585023361291,
+  "cov_effrank": 43.29067745864472
+ },
+ {
+  "series": "byol_6mo",
+  "month": "2012-04",
+  "run": "6jb60177",
+  "n": 25600,
+  "d": 384,
+  "rankme": 11.452333648321963,
+  "cov_effrank": 4.945438055221932
+ },
+ {
+  "series": "randinit_s44",
+  "month": "2022-07",
+  "run": "randinit_s44_2022-07",
+  "n": 25600,
+  "d": 384,
+  "rankme": 57.16260520518985,
+  "cov_effrank": 14.318711328675535
+ },
+ {
+  "series": "pair_noise_6mo",
+  "month": "2012-04",
+  "run": "9dwwgomd",
+  "n": 25600,
+  "d": 384,
+  "rankme": 13.128237760751562,
+  "cov_effrank": 4.7856645170946575
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2010-06",
+  "run": "vphxt9e5",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.842219240941496,
+  "cov_effrank": 3.685622759997506
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2020-08",
+  "run": "kfgpdcfg",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.693391171840173,
+  "cov_effrank": 3.9356206049362306
+ },
+ {
+  "series": "sup_return_w8",
+  "month": "2012-04",
+  "run": "k8f62mtx",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.959353034256648,
+  "cov_effrank": 12.009126993388888
+ },
+ {
+  "series": "sup_multi_w8",
+  "month": "2012-04",
+  "run": "d4sblg8g",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.907715613398322,
+  "cov_effrank": 7.759397819748507
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2017-08",
+  "run": "2b7rjvdq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 6.901028327882019,
+  "cov_effrank": 4.43558878962255
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2020-08",
+  "run": "p0biei64",
+  "n": 25600,
+  "d": 384,
+  "rankme": 16.68905342216406,
+  "cov_effrank": 5.698137009615347
+ },
+ {
+  "series": "cost_6mo",
+  "month": "2020-08",
+  "run": "odguvrdr",
+  "n": 25600,
+  "d": 384,
+  "rankme": 21.424852626016754,
+  "cov_effrank": 41.27313500542643
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2017-08",
+  "run": "431ggfu1",
+  "n": 25600,
+  "d": 384,
+  "rankme": 64.51115307199751,
+  "cov_effrank": 14.353835443959449
+ },
+ {
+  "series": "pair_k2_6mo",
+  "month": "2012-04",
+  "run": "rfakibxc",
+  "n": 25600,
+  "d": 384,
+  "rankme": 15.880165717095037,
+  "cov_effrank": 5.542321811038905
+ },
+ {
+  "series": "dino_6mo",
+  "month": "2012-04",
+  "run": "rlibxvku",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.70315403312887,
+  "cov_effrank": 12.258844861373008
+ },
+ {
+  "series": "pair_warp_6mo",
+  "month": "2012-04",
+  "run": "rcsglxee",
+  "n": 25600,
+  "d": 384,
+  "rankme": 14.470446867260787,
+  "cov_effrank": 2.8930622020009773
+ },
+ {
+  "series": "sup_spread_w8",
+  "month": "2012-04",
+  "run": "y1ffo80g",
+  "n": 25600,
+  "d": 384,
+  "rankme": 5.504338678349728,
+  "cov_effrank": 7.091191238476159
+ },
+ {
+  "series": "timemae_6mo",
+  "month": "2018-11",
+  "run": "2vv5k8wn",
+  "n": 25600,
+  "d": 384,
+  "rankme": 61.361887112179545,
+  "cov_effrank": 14.972085253363659
+ },
+ {
+  "series": "mae_6mo",
+  "month": "2018-11",
+  "run": "5jtn01dj",
+  "n": 25600,
+  "d": 384,
+  "rankme": 9.082888903739754,
+  "cov_effrank": 6.079255365737413
+ },
+ {
+  "series": "cpc_6mo",
+  "month": "2018-11",
+  "run": "ash5k8gb",
+  "n": 25600,
+  "d": 384,
+  "rankme": 12.73052405836848,
+  "cov_effrank": 4.60250330152205
+ },
+ {
+  "series": "ijepa_6mo",
+  "month": "2018-11",
+  "run": "gqllb36x",
+  "n": 25600,
+  "d": 384,
+  "rankme": 4.9699685674976175,
+  "cov_effrank": 7.587739810454917
+ },
+ {
+  "series": "ts2vec_6mo",
+  "month": "2018-11",
+  "run": "n0uiy3rq",
+  "n": 25600,
+  "d": 384,
+  "rankme": 7.5310572930196225,
+  "cov_effrank": 3.8055249700972777
+ }
+]

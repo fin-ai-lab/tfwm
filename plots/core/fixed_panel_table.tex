@@ -1,0 +1,45 @@
+% requires \usepackage[normalem]{ulem} for \sout
+\begin{table}[tp]
+\centering
+\includegraphics[width=1\linewidth]{figures/fixed_panel_metric_diagram_clean.pdf}
+\includegraphics[width=1\linewidth]{figures/factor_diagram_clean.pdf}
+\vspace{0.5em}
+{\footnotesize
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lcccccc}
+\toprule
+ & T1 & T2 & T3 & T4 & F1 & F2 \\
+\midrule
+\addlinespace \multicolumn{7}{l}{\emph{Supervised}} \\
+Return & $2.28{\scriptstyle\times}$/$44.3{\scriptstyle\%}$ & $1.77{\scriptstyle\times}$/$42.8{\scriptstyle\%}$ & \sout{$1.25{\scriptstyle\times}$}/\sout{$45.5{\scriptstyle\%}$} & $1.19{\scriptstyle\times}$/\sout{$46.9{\scriptstyle\%}$} & $0.635$ & $0.201$ \\
+Vol & $2.16{\scriptstyle\times}$/$44.8{\scriptstyle\%}$ & $1.71{\scriptstyle\times}$/$43.1{\scriptstyle\%}$ & $1.91{\scriptstyle\times}$/$33.8{\scriptstyle\%}$ & $1.27{\scriptstyle\times}$/$45.6{\scriptstyle\%}$ & $0.584$ & $0.206$ \\
+Spread & \sout{$1.69{\scriptstyle\times}$}/\sout{$46.1{\scriptstyle\%}$} & \sout{$1.45{\scriptstyle\times}$}/\sout{$45.5{\scriptstyle\%}$} & $2.39{\scriptstyle\times}$/$26.2{\scriptstyle\%}$ & \sout{$1.17{\scriptstyle\times}$}/\sout{$46.9{\scriptstyle\%}$} & \sout{$0.459$} & $0.162$ \\
+Multihead & $2.24{\scriptstyle\times}$/$44.3{\scriptstyle\%}$ & $1.70{\scriptstyle\times}$/$43.6{\scriptstyle\%}$ & $2.34{\scriptstyle\times}$/$28.7{\scriptstyle\%}$ & $\mathbf{1.39{\scriptstyle\times}}$/$\mathbf{43.6{\scriptstyle\%}}$ & $0.585$ & $\mathbf{0.243}$ \\
+\addlinespace \multicolumn{7}{l}{\emph{LeJEPA}~\citep{balestriero2025lejepaprovablescalableselfsupervised}} \\
+\scriptsize{Same Stock, Diff. View} & \sout{$1.70{\scriptstyle\times}$}/$44.7{\scriptstyle\%}$ & \sout{$1.32{\scriptstyle\times}$}/\sout{$45.9{\scriptstyle\%}$} & $\mathbf{5.35{\scriptstyle\times}}$/$\mathbf{2.6{\scriptstyle\%}}$ & $1.24{\scriptstyle\times}$/$45.2{\scriptstyle\%}$ & \sout{$0.393$} & $0.200$ \\
+Time Warping & $2.00{\scriptstyle\times}$/$\mathbf{39.5{\scriptstyle\%}}$ & $2.01{\scriptstyle\times}$/$\mathbf{37.7{\scriptstyle\%}}$ & \sout{$1.46{\scriptstyle\times}$}/\sout{$41.9{\scriptstyle\%}$} & \sout{$1.08{\scriptstyle\times}$}/\sout{$47.2{\scriptstyle\%}$} & $0.522$ & $0.219$ \\
+Gaussian Noising & $2.32{\scriptstyle\times}$/$41.0{\scriptstyle\%}$ & $2.03{\scriptstyle\times}$/$39.2{\scriptstyle\%}$ & \sout{$1.58{\scriptstyle\times}$}/\sout{$38.7{\scriptstyle\%}$} & \sout{$1.13{\scriptstyle\times}$}/\sout{$47.3{\scriptstyle\%}$} & \sout{$0.380$} & $0.161$ \\
+Cross Stock & $2.47{\scriptstyle\times}$/$40.5{\scriptstyle\%}$ & $2.08{\scriptstyle\times}$/$38.4{\scriptstyle\%}$ & \sout{$1.55{\scriptstyle\times}$}/\sout{$39.4{\scriptstyle\%}$} & \sout{$1.13{\scriptstyle\times}$}/\sout{$47.6{\scriptstyle\%}$} & \sout{$0.414$} & $0.166$ \\
+C-S, Same Industry & $\mathbf{2.58{\scriptstyle\times}}$/$39.7{\scriptstyle\%}$ & $\mathbf{2.22{\scriptstyle\times}}$/$\mathbf{37.6{\scriptstyle\%}}$ & \sout{$1.51{\scriptstyle\times}$}/\sout{$40.0{\scriptstyle\%}$} & \sout{$1.13{\scriptstyle\times}$}/\sout{$47.3{\scriptstyle\%}$} & \sout{$0.432$} & $0.172$ \\
+\addlinespace \multicolumn{7}{l}{\emph{SSL}} \\
+DINO~\citep{caron_etal_dino} & $2.26{\scriptstyle\times}$/$\mathbf{39.6{\scriptstyle\%}}$ & $2.02{\scriptstyle\times}$/$37.9{\scriptstyle\%}$ & \sout{$1.47{\scriptstyle\times}$}/\sout{$40.8{\scriptstyle\%}$} & $1.23{\scriptstyle\times}$/$46.2{\scriptstyle\%}$ & $0.545$ & $0.189$ \\
+BYOL~\citep{grill2020bootstraplatentnewapproach} & $2.24{\scriptstyle\times}$/$41.0{\scriptstyle\%}$ & $1.94{\scriptstyle\times}$/$39.1{\scriptstyle\%}$ & \sout{$1.72{\scriptstyle\times}$}/$36.3{\scriptstyle\%}$ & $1.20{\scriptstyle\times}$/$46.2{\scriptstyle\%}$ & \sout{$0.444$} & $0.198$ \\
+CPC~\citep{oord2019representationlearningcontrastivepredictive} & $2.08{\scriptstyle\times}$/\sout{$46.1{\scriptstyle\%}$} & $1.57{\scriptstyle\times}$/\sout{$45.1{\scriptstyle\%}$} & \sout{$1.54{\scriptstyle\times}$}/\sout{$40.3{\scriptstyle\%}$} & \sout{$1.16{\scriptstyle\times}$}/\sout{$47.9{\scriptstyle\%}$} & \sout{$0.476$} & $0.165$ \\
+I-JEPA~\citep{assran2023selfsupervisedlearningimagesjointembedding} & $2.23{\scriptstyle\times}$/$40.4{\scriptstyle\%}$ & $1.87{\scriptstyle\times}$/$39.6{\scriptstyle\%}$ & \sout{$1.05{\scriptstyle\times}$}/\sout{$49.0{\scriptstyle\%}$} & $1.24{\scriptstyle\times}$/$45.1{\scriptstyle\%}$ & $0.609$ & $0.201$ \\
+MAE~\citep{he_etal_2022} & $2.43{\scriptstyle\times}$/$40.1{\scriptstyle\%}$ & $2.10{\scriptstyle\times}$/$38.5{\scriptstyle\%}$ & \sout{$1.23{\scriptstyle\times}$}/\sout{$45.5{\scriptstyle\%}$} & $1.22{\scriptstyle\times}$/\sout{$46.7{\scriptstyle\%}$} & $0.546$ & $0.177$ \\
+TS2Vec~\citep{yue2022ts2vec} & $1.90{\scriptstyle\times}$/$43.3{\scriptstyle\%}$ & \sout{$1.47{\scriptstyle\times}$}/$44.3{\scriptstyle\%}$ & $\mathbf{3.96{\scriptstyle\times}}$/$\mathbf{11.1{\scriptstyle\%}}$ & $1.38{\scriptstyle\times}$/$\mathbf{43.0{\scriptstyle\%}}$ & \sout{$0.465$} & $\mathbf{0.245}$ \\
+CoST~\citep{woo2022costcontrastivelearningdisentangled} & $2.12{\scriptstyle\times}$/$40.6{\scriptstyle\%}$ & $2.00{\scriptstyle\times}$/$38.2{\scriptstyle\%}$ & \sout{$1.03{\scriptstyle\times}$}/\sout{$49.6{\scriptstyle\%}$} & \sout{$1.17{\scriptstyle\times}$}/\sout{$47.4{\scriptstyle\%}$} & $\mathbf{0.713}$ & $0.180$ \\
+TF-C~\citep{zhang2022selfsupervisedcontrastivepretrainingtime} & $2.17{\scriptstyle\times}$/\sout{$45.6{\scriptstyle\%}$} & $1.56{\scriptstyle\times}$/\sout{$45.0{\scriptstyle\%}$} & $\mathbf{4.13{\scriptstyle\times}}$/$\mathbf{10.7{\scriptstyle\%}}$ & $\mathbf{1.40{\scriptstyle\times}}$/$44.6{\scriptstyle\%}$ & $0.538$ & $0.222$ \\
+TimeMAE~\citep{Cheng_2026} & $\mathbf{3.31{\scriptstyle\times}}$/$\mathbf{38.6{\scriptstyle\%}}$ & $\mathbf{2.64{\scriptstyle\times}}$/$\mathbf{36.0{\scriptstyle\%}}$ & \sout{$1.30{\scriptstyle\times}$}/\sout{$44.1{\scriptstyle\%}$} & $1.31{\scriptstyle\times}$/$44.9{\scriptstyle\%}$ & $0.648$ & $0.206$ \\
+\addlinespace \multicolumn{7}{l}{\emph{Frozen TSFMs} (last layer, channels averaged); see Figures~\ref{fig:tsfm_latent_multiple} and~\ref{fig:tsfm_latent_pctile} for the layer-wise sweep.} \\
+Chronos-2 & $2.26{\scriptstyle\times}$/$42.5{\scriptstyle\%}$ & $1.87{\scriptstyle\times}$/$39.9{\scriptstyle\%}$ & $2.54{\scriptstyle\times}$/$25.1{\scriptstyle\%}$ & \sout{$1.09{\scriptstyle\times}$}/\sout{$48.1{\scriptstyle\%}$} & $\mathbf{0.677}$ & $\mathbf{0.222}$ \\
+Kronos & $\mathbf{2.90{\scriptstyle\times}}$/$41.1{\scriptstyle\%}$ & $\mathbf{2.26{\scriptstyle\times}}$/$38.7{\scriptstyle\%}$ & \sout{$1.43{\scriptstyle\times}$}/\sout{$42.2{\scriptstyle\%}$} & $\mathbf{1.42{\scriptstyle\times}}$/$\mathbf{44.1{\scriptstyle\%}}$ & $0.622$ & $0.184$ \\
+TimesFM 3.0 & $1.96{\scriptstyle\times}$/$44.2{\scriptstyle\%}$ & $1.55{\scriptstyle\times}$/$43.4{\scriptstyle\%}$ & $2.41{\scriptstyle\times}$/$28.3{\scriptstyle\%}$ & $1.24{\scriptstyle\times}$/$45.3{\scriptstyle\%}$ & $\mathbf{0.719}$ & $0.195$ \\
+\addlinespace \multicolumn{7}{l}{\emph{Untrained floor}} \\
+Random ViT & $1.81{\scriptstyle\times}$/$45.6{\scriptstyle\%}$ & $1.49{\scriptstyle\times}$/$44.4{\scriptstyle\%}$ & $1.80{\scriptstyle\times}$/$36.3{\scriptstyle\%}$ & $1.17{\scriptstyle\times}$/$46.4{\scriptstyle\%}$ & $0.498$ & $0.152$ \\
+\bottomrule
+\end{tabular}
+}
+\caption{Evaluating the organization of learned market state. \textbf{Top:} We embed observations from six firms across three randomly selected industries within the same evaluation month and test whether proximity in representation space reflects shared day, firm, and industry structure, scored as T1--T4. \textbf{Bottom:} We estimate statistical factors from realized returns and measure both how well individual factor loadings can be decoded from the embeddings (F1) and how much of the factor subspace is captured by their principal directions (F2). \textbf{Table:} T1--T4 give the top-1 rate as a multiple of chance and the mean percentile rank of the target (lower is better), while F1 and F2 give a single score for which higher is better; \textbf{bold} marks the top three methods in a column, frozen TSFMs included, and \sout{struck} values are no better than the untrained Random ViT.}
+\label{tab:latent_results}
+\end{table}

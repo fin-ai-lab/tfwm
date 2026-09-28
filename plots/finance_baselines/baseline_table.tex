@@ -1,0 +1,34 @@
+\begin{table}[t]
+\caption{Forecasting rank IC at the 15-minute horizon for classical baselines and frozen time-series foundation models, beside the supervised arms of Table~\ref{tab:probe_fit}, averaged over 31 eval months. Every arm is fit on the same six-month pool at 36 anchors/day and scored on the held-out month at 8, so the comparison is of model class rather than of fit-set size. The baselines are read off the \emph{normalised view tensor the encoder receives}, not the raw order book: on the book a spread level alone reaches rank IC ${\approx}0.9$, and that gap is the normalisation rather than the model. Supervised cells give the ridge probe with that arm's own head IC in parentheses. \textbf{Bold} marks the best two per target \emph{on each side} -- the two strongest supervised arms and the two strongest baselines -- so the gap between the marked pairs is the comparison; the supervised pair is the column's own specialist and the multihead in every case. NOTHING IS STRUCK HERE: the floor is the last row and the reader can read across it, where Table~\ref{tab:probe_fit} strikes because it is asking whether a pretraining method learned anything at all. \emph{Ridge ARDL} is one ridge-penalised equation per target -- the nine channels at fixed lags together with the target's own lags -- and not a vector autoregression. The foundation models are read at their last layer and last token, their per-channel states averaged, through the same ridge; unlike the encoder they do not see the eleven info-token channels. The classical models carry no parameters the encoder lacks and mostly do not clear the untrained floor: on volatility HAR-RV, Ridge ARDL and GARCH all sit below a frozen random network read through the same ridge.}
+\label{tab:finance_baselines}
+\centering
+\begin{tabular}{lccc}
+\toprule
+ & Return & Volatility & Spread \\
+\midrule
+\addlinespace \multicolumn{4}{l}{\emph{Supervised}} \\
+Return & $\mathbf{0.0277}$\,($0.0274$) & $0.0702$ & $0.1294$ \\
+Vol & $0.0201$ & $\mathbf{0.0891}$\,($0.0899$) & $0.1469$ \\
+Spread & $0.0179$ & $0.0770$ & $\mathbf{0.2493}$\,($0.2495$) \\
+Multihead & $\mathbf{0.0317}$\,($0.0352$) & $\mathbf{0.0951}$\,($0.1003$) & $\mathbf{0.2432}$\,($0.2247$) \\
+\addlinespace \multicolumn{4}{l}{\emph{Classical forecasting models}} \\
+Mean reversion & -- & $0.0278$ & $0.1019$ \\
+AR(p) & $0.0128$ & $0.0446$ & $0.1672$ \\
+ARMA(p,q) & $0.0134$ & $0.0459$ & $0.1724$ \\
+HAR-RV & -- & $0.0648$ & -- \\
+GARCH(1,1) & -- & $0.0475$ & -- \\
+Ridge ARDL & $0.0177$ & $0.0630$ & $\mathbf{0.1841}$ \\
+\addlinespace \multicolumn{4}{l}{\emph{Learners on the raw view}} \\
+Ridge (8-token tail) & $0.0168$ & $0.0673$ & $0.1492$ \\
+Ridge (24-token tail) & $0.0192$ & $0.0713$ & $0.1645$ \\
+Ridge (64-token tail) & $0.0176$ & $0.0715$ & $\mathbf{0.1805}$ \\
+GBM (24-token tail) & $0.0097$ & $0.0640$ & $0.1020$ \\
+\addlinespace \multicolumn{4}{l}{\emph{Frozen time-series foundation models}} \\
+Chronos-2 & $\mathbf{0.0237}$ & $\mathbf{0.0939}$ & $0.1278$ \\
+Kronos & $0.0175$ & $0.0626$ & $0.0553$ \\
+TimesFM 3.0 & $\mathbf{0.0239}$ & $\mathbf{0.0960}$ & $0.1350$ \\
+\addlinespace \multicolumn{4}{l}{\emph{Untrained floor}} \\
+Random ViT & $0.0175$ & $0.0700$ & $0.1677$ \\
+\bottomrule
+\end{tabular}
+\end{table}

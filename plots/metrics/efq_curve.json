@@ -1,0 +1,74 @@
+{
+  "sup_return_w8": {
+    "Exit After 15 Minutes": {
+      "threshold": "adaptive",
+      "tau": 1.0,
+      "frictionless_sharpe": 3.0375086800798154,
+      "breakeven": 0.29139456257152085,
+      "names_frictionless": 511.8748043818466,
+      "sharpe_at_1": -0.210325209227991,
+      "sharpe_at_075": -0.14106525080275964,
+      "days_traded_at_075": 0.3146417445482866,
+      "days_traded_at_1": 0.14953271028037382
+    },
+    "Exit in the Closing Auction": {
+      "threshold": "adaptive",
+      "tau": 1.0,
+      "frictionless_sharpe": 2.8770934798847585,
+      "breakeven": 1.3922753304329523,
+      "names_frictionless": 419.00467289719626,
+      "sharpe_at_1": 0.9346266441200131,
+      "sharpe_at_075": 0.6516913234685952,
+      "days_traded_at_075": 0.8925233644859814,
+      "days_traded_at_1": 0.7320872274143302
+    }
+  },
+  "sup_multi_w8": {
+    "Exit After 15 Minutes": {
+      "threshold": "adaptive",
+      "tau": 1.0,
+      "frictionless_sharpe": 3.6426801447988235,
+      "breakeven": 0.4839780032592396,
+      "names_frictionless": 511.8748043818466,
+      "sharpe_at_1": 0.006341648967176148,
+      "sharpe_at_075": -0.2652700655980425,
+      "days_traded_at_075": 0.23208722741433022,
+      "days_traded_at_1": 0.1308411214953271
+    },
+    "Exit in the Closing Auction": {
+      "threshold": "adaptive",
+      "tau": 1.0,
+      "frictionless_sharpe": 2.5720498436181995,
+      "breakeven": 1.1917993749310414,
+      "names_frictionless": 419.00467289719626,
+      "sharpe_at_1": 0.6727672249149638,
+      "sharpe_at_075": 1.191243742983356,
+      "days_traded_at_075": 0.881619937694704,
+      "days_traded_at_1": 0.6542056074766355
+    }
+  },
+  "pair_warp_6mo": {
+    "Exit After 15 Minutes": {
+      "threshold": "adaptive",
+      "tau": 1.0,
+      "frictionless_sharpe": 2.4320799083036717,
+      "breakeven": 0.3770279598054948,
+      "names_frictionless": 511.8748043818466,
+      "sharpe_at_1": 0.29140254648494834,
+      "sharpe_at_075": -0.14573130242137086,
+      "days_traded_at_075": 0.1853582554517134,
+      "days_traded_at_1": 0.0778816199376947
+    },
+    "Exit in the Closing Auction": {
+      "threshold": "adaptive",
+      "tau": 1.0,
+      "frictionless_sharpe": 1.9349332102069305,
+      "breakeven": 0.217700064608186,
+      "names_frictionless": 419.00467289719626,
+      "sharpe_at_1": -0.9885944420010292,
+      "sharpe_at_075": -0.4124535592414891,
+      "days_traded_at_075": 0.40654205607476634,
+      "days_traded_at_1": 0.22429906542056074
+    }
+  }
+}
