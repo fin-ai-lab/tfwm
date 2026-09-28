@@ -36,17 +36,17 @@ def main():
     a = R.parse_args(__doc__)
     m, work = R.Month(a.eval_month), Path(a.work)
     R.check_login()
-    data = work / "market1t"
-    mosaic = R.download(data, R.DENSE, m.all)
-    targets = R.build_targets(R.download(data, R.SPARSE, m.all),
-                              work / "xs_anchor_stats_fwdvwap60", m.all)
+    # Default data location, shared with a plain `uv run train.py`.
+    mosaic = R.M.ensure("dense", m.all)
+    targets = R.M.ensure_targets(m.all)
     rel = R.released(work, SLUG, m.eval)
 
     ckpts = {"released": rel}
     if not a.skip_train:
+        # Method and dates only: the default machine (market1t) supplies the
+        # data and the target tables, exactly as for any user's run.
         ours = R.train(work, SLUG, [
             "mode=lejepa", "mode.lamb=0.001", "dataset.augmentations.0.name=time_warp",
-            f"machine.mosaic_dir={mosaic}", f"dataset.xs_anchor_stats_dir={targets}",
             *m.overrides()], a.smoke)
         diff = R.config_diff(ours / "train_meta.json", rel / "train_meta.json")
         print("\nconfig vs released:", *(diff or ["identical"]), sep="\n  ")

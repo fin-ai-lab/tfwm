@@ -256,6 +256,12 @@ def train(cfg: Config) -> None:
 
     live_eval = bool(OmegaConf.select(cfg, "training.live_eval", default=True))
 
+    # machine=market1t (the public default): fetch what this run reads and
+    # point it at the target tables, before anything below looks for data.
+    if OmegaConf.select(cfg, "machine.download", default=False):
+        from ..market1t import ensure_for_run
+        ensure_for_run(cfg)
+
     # Gate the TRAIN discovery on the backend, for the same reason the probe
     # discovery is gated below: dataset.backend=days builds the train dataset
     # from the day store (DayStoreCellDataset), and train_streams is read only

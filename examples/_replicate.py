@@ -19,15 +19,14 @@ import os
 import shutil
 import subprocess
 import sys
-import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-ORG = "fin-ai-lab"
-DENSE = ("Market-1T-1Hz-2019H2-2020-dense", "1Hz_mosaic_mnth")
-SPARSE = ("Market-1T-1Hz-2019H2-2020-sparse", "1Hz_mosaic_mnth_sparse")
-DAYSTORE = ("Market-1T-1Hz-2019H2-2020-daystore", "1Hz_daystore")
-HOLIDAYS = ROOT / "data" / "market_holidays.csv"
+sys.path.insert(0, str(ROOT))
+from market_jepa import market1t as M  # noqa: E402
+
+ORG = M.ORG
+HOLIDAYS = M.HOLIDAY_CSV
 TASKS = ("return_900", "volatility_change_900", "spread_change_900")
 
 
@@ -90,97 +89,19 @@ class Month:
 
 # ── data ─────────────────────────────────────────────────────────────────────
 
-def hub(fn, *args, **kw):
-    """Call a Hub API function, waiting out HTTP 429 and retrying.
-
-    THE HUB ALLOWS 1000 API REQUESTS PER 5 MINUTES PER ACCOUNT, logged in or
-    not, and every file downloaded costs at least one. One evaluation month is
-    ~2500 files across the three layouts, so a 429 is expected, not
-    exceptional -- and once the window is spent, every call fails, listings
-    and whoami included, until it rolls over.
-    """
-    for attempt in range(1, 13):
-        try:
-            return fn(*args, **kw)
-        except Exception as e:  # HfHubHTTPError and requests' HTTPError alike
-            resp = getattr(e, "response", None)
-            if getattr(resp, "status_code", None) != 429 or attempt == 12:
-                raise
-            wait = int(resp.headers.get("Retry-After", 0) or 0) or 300
-            print(f"rate-limited by the Hub (attempt {attempt}); "
-                  f"resuming in {wait} s", flush=True)
-            time.sleep(wait)
-
-
 def check_login() -> None:
     from huggingface_hub import get_token, whoami
     if get_token() is None:
         print("WARNING: not logged in to Hugging Face; run `hf auth login` or "
               "set HF_TOKEN.", file=sys.stderr)
         return
-    print(f"Hugging Face: logged in as {hub(whoami)['name']}")
-
-
-def download(data: Path, repo: tuple[str, str], months: list[str]) -> Path:
-    """Download months of one Market-1T layout, then PROVE nothing is missing.
-
-    A rate-limited snapshot_download can return without error with files
-    missing, so the listing is checked against the disk afterwards.
-    """
-    from huggingface_hub import list_repo_files, snapshot_download
-    name, sub = repo
-    prefixes = [f"{sub}/{m.replace('-', '/')}/" for m in months]
-    want = [f for f in hub(list_repo_files, f"{ORG}/{name}", repo_type="dataset")
-            if f.startswith(tuple(prefixes))]
-    if not want:
-        raise SystemExit(f"{name} has no files for {months}")
-    missing = [f for f in want if not (data / f).exists()]
-    # snapshot_download skips files already on disk, so each round fetches
-    # only what is left -- including after a round that returned cleanly with
-    # files missing, which a spent rate-limit window can also cause.
-    for rnd in range(6):
-        if not missing:
-            break
-        if rnd:
-            print(f"{len(missing)} files still missing; retrying in 300 s", flush=True)
-            time.sleep(300)
-        print(f"downloading {len(missing)} of {len(want)} files from {name}", flush=True)
-        hub(snapshot_download, f"{ORG}/{name}", repo_type="dataset", local_dir=data,
-            allow_patterns=[p + "*" for p in prefixes], max_workers=4)
-        missing = [f for f in want if not (data / f).exists()]
-    if missing:
-        raise SystemExit(f"{name}: {len(missing)} files still missing, "
-                         f"e.g. {missing[0]}. Rerun to resume.")
-    return data / sub
-
-
-def decompress_daystore(root: Path, months: list[str]) -> Path:
-    """The Hub day store ships features.npy.zst only, and the reader memmaps
-    features.npy. Reading through hf:// decompresses on the way in; a LOCAL
-    copy must be decompressed here or training dies in the dataloader."""
-    from stable_finance.dataset.daystore import decompress_day
-    days = [d for m in months for d in sorted((root / m.replace("-", "/")).iterdir())
-            if (d / "meta.json").is_file()]
-    print(f"decompressing {len(days)} day-store days (skips any already done)", flush=True)
-    for d in days:
-        decompress_day(d, remove_zst=False)
-    return root
-
-
-def build_targets(sparse: Path, out: Path, months: list[str]) -> Path:
-    """The per-month cross-sectional target tables (paper: xs_anchor_stats_fwdvwap60)."""
-    todo = [m for m in months if not (out / f"{m}.npz").exists()]
-    if todo:
-        run(["uv", "run", "sf-build-targets", "--mosaic-dir", sparse,
-             "--out-dir", out, "--start", todo[0], "--end", todo[-1],
-             "--holiday-csv", HOLIDAYS, "--workers", str(max(1, os.cpu_count() // 4))])
-    return out
+    print(f"Hugging Face: logged in as {M.hub(whoami)['name']}")
 
 
 def released(work: Path, slug: str, month: str) -> Path:
     """One month of a released encoder, in a private copy (scoring writes into it)."""
     from huggingface_hub import snapshot_download
-    src = Path(hub(snapshot_download, f"{ORG}/tfwm-{slug}", allow_patterns=[f"{month}/*"]))
+    src = Path(M.hub(snapshot_download, f"{ORG}/tfwm-{slug}", allow_patterns=[f"{month}/*"]))
     dst = work / "released" / slug / month
     if not dst.exists():
         shutil.copytree(src / month, dst)

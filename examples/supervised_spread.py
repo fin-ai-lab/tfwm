@@ -33,11 +33,9 @@ def main():
     a = R.parse_args(__doc__)
     m, work = R.Month(a.eval_month), Path(a.work)
     R.check_login()
-    data = work / "market1t"
-    mosaic = R.download(data, R.DENSE, m.all)
-    daystore = R.decompress_daystore(R.download(data, R.DAYSTORE, m.all), m.all)
-    targets = R.build_targets(R.download(data, R.SPARSE, m.all),
-                              work / "xs_anchor_stats_fwdvwap60", m.all)
+    # Default data location, shared with a plain `uv run train.py`.
+    mosaic = R.M.ensure("dense", m.all)
+    targets = R.M.ensure_targets(m.all)
     rel = R.released(work, SLUG, m.eval)
 
     r_ic = R.score_head(rel, m, mosaic, targets, TASK)
@@ -45,10 +43,11 @@ def main():
         print(f"released {TASK}: {r_ic[0]:.4f} (se {r_ic[1]:.4f}), paper "
               f"{PAPER.get(m.eval, {}).get(TASK, float('nan')):.4f}")
         return
+    # Method and dates only: the default machine (market1t) downloads the day
+    # store and supplies the target tables, exactly as for any user's run.
     ours = R.train(work, SLUG, [
         "mode=supervised", f"mode.task={TASK}", "dataset.backend=days",
-        f"machine.mosaic_dir={mosaic}", f"machine.daystore_dir={daystore}",
-        f"dataset.xs_anchor_stats_dir={targets}", *m.overrides()], a.smoke)
+        *m.overrides()], a.smoke)
     diff = R.config_diff(ours / "train_meta.json", rel / "train_meta.json")
     print("\nconfig vs released:", *(diff or ["identical"]), sep="\n  ")
     o_ic = R.score_head(ours, m, mosaic, targets, TASK)

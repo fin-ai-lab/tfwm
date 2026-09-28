@@ -30,6 +30,14 @@ class MachineConfig:
     # trading day with the whole cross-section and its targets built in.
     # Read by dataset.backend=days; None where it has not been staged.
     daystore_dir: str | None = None
+    # Fetch missing months from the Hub before training reads them
+    # (market_jepa.market1t.ensure_for_run). Only the public-release machine
+    # sets it; every lab machine stages its data itself.
+    download: bool = False
+    # The target tables a run uses when dataset.xs_anchor_stats_dir is unset.
+    # None everywhere but the public-release machine, where it is what makes
+    # the default run the reported recipe rather than an untabled one.
+    xs_anchor_stats_dir: str | None = None
 
 
 def machine_from_env(base: type[MachineConfig]) -> MachineConfig:
@@ -56,6 +64,28 @@ def machine_from_env(base: type[MachineConfig]) -> MachineConfig:
         if val:
             setattr(cfg, attr, val)
     return cfg
+
+
+_MARKET1T = _REPO_ROOT / "market1t"
+
+
+@dataclass
+class Market1TMachineConfig(MachineConfig):
+    """The released Market-1T data, DOWNLOADED to <repo>/market1t/ on first use.
+
+    The default. Before a run reads anything, market_jepa.market1t fetches the
+    months it needs, verifies every file arrived, decompresses the day store,
+    and builds the target tables the released encoders trained with, then
+    trains from local disk. machine=hub streams from the Hub instead.
+    """
+
+    mosaic_dir: str = str(_MARKET1T / "1Hz_mosaic_mnth")
+    risk_factor_dir: str = ""
+    metadata_path: str = ""
+    holiday_csv: str = HOLIDAY_CSV
+    daystore_dir: str | None = str(_MARKET1T / "1Hz_daystore")
+    download: bool = True
+    xs_anchor_stats_dir: str | None = str(_MARKET1T / "xs_anchor_stats_fwdvwap60")
 
 
 HUB_DENSE = "hf://datasets/fin-ai-lab/Market-1T-1Hz-2019H2-2020-dense"
@@ -189,6 +219,7 @@ class PythiaMachineConfig(MachineConfig):
 # ConfigStore registration in `train.py` and the CLI lookup in
 # the offline evals under `scripts/eval/` consume this mapping directly.
 MACHINE_CONFIGS: dict[str, type[MachineConfig]] = {
+    "market1t": Market1TMachineConfig,
     "hub": HubMachineConfig,
     "racoon": RacoonMachineConfig,
     "bll01": BLL01MachineConfig,
@@ -2131,7 +2162,7 @@ class Config:
             "_self_",
             {"backbone": "transformer"},
             {"mode": "lejepa"},
-            {"machine": "hub"},
+            {"machine": "market1t"},
         ]
     )
     backbone: Any = MISSING

@@ -53,7 +53,7 @@ checkpoint and the released one with the paper's scorer on the same machine,
 and checks the two agree:
 
 ```bash
-hf auth login                                  # the examples wait out Hub rate limits
+hf auth login                                  # downloads wait out Hub rate limits
 uv run examples/supervised_spread.py           # supervised spread change
 uv run examples/lejepa_time_warp.py            # LeJEPA, time-warp pairing
 uv run examples/lejepa_time_warp.py --smoke    # 50 steps: checks the pipeline in minutes
@@ -69,40 +69,39 @@ noise.
 ## Train an encoder
 
 Every default in `market_jepa/schemas.py` is the reported recipe, so a run
-names only its method, its dates, and the cross-sectional target tables. The
-tables standardize each target against its cross-section and set where views
-may end, so a run without them trains a different model. Build them from the
-sparse layout first (see *Score an encoder* for the download):
+names only its method and its dates. The default machine config,
+`machine=market1t`, downloads the months a run needs into `market1t/` before
+training starts. It verifies that every file arrived, decompresses the day
+store, and builds the cross-sectional target tables the released encoders
+trained with. Months already on disk are not downloaded again. Log in first
+(`hf auth login`). The Hub allows 1,000 API requests per 5 minutes per
+account, and one evaluation month is about 2,500 files, so the first download
+pauses for rate limits and resumes on its own.
+
+To reproduce the 2020-01 evaluation month (trained on 2019-07 to 2019-12):
 
 ```bash
-uv run sf-build-targets --mosaic-dir market1t/1Hz_mosaic_mnth_sparse \
-    --out-dir xs_anchor_stats_fwdvwap60 --start 2019-07 --end 2020-01 \
-    --holiday-csv data/market_holidays.csv
-```
-
-The default machine config, `machine=hub`, reads the training data straight
-from the Hub. It downloads only the months a run needs, into `$HF_HOME`. To
-reproduce the 2020-01 evaluation month (trained on 2019-07 to 2019-12):
-
-```bash
-COMMON="dataset.xs_anchor_stats_dir=$PWD/xs_anchor_stats_fwdvwap60 \
-        dataset.train_date_start=2019-07-01 dataset.train_date_end=2019-12-31 \
-        dataset.eval_train_date_start=2019-07-01 dataset.eval_train_date_end=2019-12-31 \
-        dataset.eval_date_start=2020-01-01 dataset.eval_date_end=2020-01-31"
+DATES="dataset.train_date_start=2019-07-01 dataset.train_date_end=2019-12-31 \
+       dataset.eval_train_date_start=2019-07-01 dataset.eval_train_date_end=2019-12-31 \
+       dataset.eval_date_start=2020-01-01 dataset.eval_date_end=2020-01-31"
 
 # LeJEPA, time-warp pairing
-uv run train.py mode=lejepa mode.lamb=0.001 dataset.augmentations.0.name=time_warp $COMMON
+uv run train.py mode=lejepa mode.lamb=0.001 dataset.augmentations.0.name=time_warp $DATES
 
 # A self-supervised baseline: the mode is the whole arm
-uv run train.py mode=ts2vec $COMMON
+uv run train.py mode=ts2vec $DATES
 
 # Supervised specialist; supervised arms train from the day store
-uv run train.py mode=supervised mode.task=spread_change_900 dataset.backend=days $COMMON
+uv run train.py mode=supervised mode.task=spread_change_900 dataset.backend=days $DATES
 
 # Supervised multihead
 uv run train.py mode=multi_supervised \
-    mode.tasks=[return_900,volatility_change_900,spread_change_900] dataset.backend=days $COMMON
+    mode.tasks=[return_900,volatility_change_900,spread_change_900] dataset.backend=days $DATES
 ```
+
+`machine=hub` streams from the Hub instead of downloading. It then needs
+`dataset.xs_anchor_stats_dir` pointed at target tables, which it does not
+build.
 
 Each arm's exact overrides are in `scripts/sweeps/`. The LeJEPA pairings and
 the SSL baselines are in `ssl_lejepa_all.sh`, the specialists in
@@ -120,36 +119,20 @@ window. The paper's tables average over 31 evaluation months from 2008 to
 
 The probe fits a ridge per target on the encoder's six training months
 (36 anchors a day) and scores cross-sectional rank IC on the evaluation month
-(8 anchors a day). Scoring reads local copies of the data. Log in first
-(`hf auth login`, or set `HF_TOKEN`). Even logged in, the Hub allows 1,000 API
-requests per 5 minutes per account, and each file costs at least one. A
-seven-month download is about 2,500 files across the three layouts, so expect
-HTTP 429 partway through. Wait five minutes and rerun: files already on disk
-are skipped. Check that the download is complete, since a rate-limited
-`snapshot_download` can return without error with files missing. The examples
-do both for you.
-
-```python
-from huggingface_hub import snapshot_download
-
-months = ["2019/07", "2019/08", "2019/09", "2019/10", "2019/11", "2019/12", "2020/01"]
-for repo, sub in [("Market-1T-1Hz-2019H2-2020-dense", "1Hz_mosaic_mnth"),
-                  ("Market-1T-1Hz-2019H2-2020-sparse", "1Hz_mosaic_mnth_sparse")]:
-    snapshot_download(f"fin-ai-lab/{repo}", repo_type="dataset", local_dir="market1t",
-                      allow_patterns=[f"{sub}/{m}/*" for m in months])
-snapshot_download("fin-ai-lab/tfwm-lejepa-time-warp", allow_patterns=["2020-01/*"],
-                  local_dir="encoders/lejepa-time-warp")
-```
-
-Build the cross-sectional target tables, embed, and fit:
+(8 anchors a day). Fetch the data and target tables for those seven months
+(the same download training does), and one released encoder:
 
 ```bash
-uv run sf-build-targets --mosaic-dir market1t/1Hz_mosaic_mnth_sparse \
-    --out-dir targets --start 2019-07 --end 2020-01 --holiday-csv data/market_holidays.csv
+uv run python -m market_jepa.market1t 2019-07 2020-01 --layouts dense
+uv run python -c "from huggingface_hub import snapshot_download as s; \
+    s('fin-ai-lab/tfwm-lejepa-time-warp', allow_patterns=['2020-01/*'], local_dir='encoders/warp')"
+```
 
-CKPT=encoders/lejepa-time-warp/2020-01
-ARGS="--ckpt $CKPT --pool last --mosaic-dir market1t/1Hz_mosaic_mnth \
-      --xs-anchor-stats-dir targets --out-dir cache/warp"
+Embed and fit:
+
+```bash
+ARGS="--ckpt encoders/warp/2020-01 --pool last --mosaic-dir market1t/1Hz_mosaic_mnth \
+      --xs-anchor-stats-dir market1t/xs_anchor_stats_fwdvwap60 --out-dir cache/warp"
 for m in 2019-07 2019-08 2019-09 2019-10 2019-11 2019-12; do
     uv run scripts/eval/probe_fit_size.py embed $ARGS --month $m --anchors-per-day 36
 done
@@ -157,6 +140,9 @@ uv run scripts/eval/probe_fit_size.py embed $ARGS --month 2020-01 --anchors-per-
 uv run scripts/eval/probe_fit_size.py reduce --out-dir cache \
     --eval-month-glob 2020-01 --alphas 10 --json results.json
 ```
+
+Each `embed` is single-process. The examples split the work across processes
+with `embed-many`, which is much faster.
 
 `--pool last` is the forecasting readout the paper reports, and the latent
 analyses use `--pool mean`. The largest-n row of `results.json` is the number
@@ -175,14 +161,15 @@ in the paper's table.
 | `scripts/pythia/`, `scripts/generic/` | Our SLURM launchers, kept for reference; paths are site-specific |
 | `plots/core/` | The paper's main tables and figure |
 | `plots/` | Every other figure, next to the script that draws it |
-| `data/` | Market holiday calendars and the Fama-French 49 industry map |
+| `data/` | Market holiday calendars and the monthly ticker-to-FF49 map |
 
 ## Data notice
 
-`data/industry_map.parquet` and `data/char_table_2023-01.parquet` assign
-tickers to Fama-French 49 industries. The assignments were derived from SIC
-codes in Compustat, and the Compustat records themselves are not included.
-The market data is released on the Hub under the terms on its dataset cards.
+`data/industry_map.parquet` gives each ticker's Fama-French 49 industry for
+every month from 2007-01 to 2024-12 (columns `month`, `ticker`, `ff49`). The
+assignments were derived from SIC codes in Compustat; neither the SIC codes nor
+any other Compustat field is included. The market data is released on the Hub
+under the terms on its dataset cards.
 
 ## Citation
 

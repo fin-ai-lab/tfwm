@@ -1,16 +1,17 @@
 """Hydra entry point for market-jepa training.
 
 Usage:
-    # LeJEPA + transformer on the released Market-1T data, read from the Hub
+    # LeJEPA + transformer on the released Market-1T data. The months the run
+    # needs are downloaded to <repo>/market1t/ first (with the target tables).
     uv run train.py
 
     # Supervised mode on the day store
     uv run train.py mode=supervised dataset.backend=days
 
-    # Local copy of the data instead of the Hub
-    uv run train.py machine.mosaic_dir=/path/to/1Hz_mosaic_mnth
+    # Stream from the Hub instead of downloading
+    uv run train.py machine=hub
 
-`machine=hub` is the default (set on Config.defaults in market_jepa/schemas.py).
+`machine=market1t` is the default (set on Config.defaults in market_jepa/schemas.py).
 The lab's own machines (bll01, pythia, ...) are selected the same way; their
 cluster launchers live in scripts/pythia/ and scripts/generic/.
 """

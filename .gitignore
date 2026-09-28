@@ -307,3 +307,6 @@ market-jepa-review-data.zip
 # exactly how an unfinished one ends up merged.
 scripts/eval/place_probe_embeddings.py
 scripts/pythia/pb_rescue.sh
+
+# Market-1T data downloaded by machine=market1t (market_jepa/market1t.py)
+/market1t/
