@@ -31,7 +31,7 @@ def main():
     R.check_login()
     data = work / "market1t"
     mosaic = R.download(data, R.DENSE, m.all)
-    daystore = R.download(data, R.DAYSTORE, m.all)
+    daystore = R.decompress_daystore(R.download(data, R.DAYSTORE, m.all), m.all)
     targets = R.build_targets(R.download(data, R.SPARSE, m.all),
                               work / "xs_anchor_stats_fwdvwap60", m.all)
     rel = R.released(work, SLUG, m.eval)

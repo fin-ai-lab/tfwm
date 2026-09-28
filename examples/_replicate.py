@@ -154,6 +154,19 @@ def download(data: Path, repo: tuple[str, str], months: list[str]) -> Path:
     return data / sub
 
 
+def decompress_daystore(root: Path, months: list[str]) -> Path:
+    """The Hub day store ships features.npy.zst only, and the reader memmaps
+    features.npy. Reading through hf:// decompresses on the way in; a LOCAL
+    copy must be decompressed here or training dies in the dataloader."""
+    from stable_finance.dataset.daystore import decompress_day
+    days = [d for m in months for d in sorted((root / m.replace("-", "/")).iterdir())
+            if (d / "meta.json").is_file()]
+    print(f"decompressing {len(days)} day-store days (skips any already done)", flush=True)
+    for d in days:
+        decompress_day(d, remove_zst=False)
+    return root
+
+
 def build_targets(sparse: Path, out: Path, months: list[str]) -> Path:
     """The per-month cross-sectional target tables (paper: xs_anchor_stats_fwdvwap60)."""
     todo = [m for m in months if not (out / f"{m}.npz").exists()]
