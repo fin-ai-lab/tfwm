@@ -89,9 +89,8 @@ viewer: false
 
 # Market-1T — 1 Hz, July 2019 → December 2020 ({layout})
 
-> ⚠️ **Pre-release.** This dataset and its accompanying code are a work in
-> progress and not yet final. Contents, schema and splits may change without
-> notice. The code (`stable_finance`, `market_jepa`) is not public yet.
+> **Code:** [fin-ai-lab/tfwm](https://github.com/fin-ai-lab/tfwm) downloads this data, trains the TFWM
+> encoders on it, and reproduces the paper's tables.
 
 **230,025 ticker-days** of 1 Hz US equity market data over **376 trading days**
 (2019-07-01 → 2020-12-31). The window deliberately straddles the February–March
@@ -115,13 +114,20 @@ The encoders' 11 extra view-information channels are computed at load time and a
 _TAIL = """
 ## With the project code
 
-`stable_finance` accepts a Hub path anywhere it takes a local root, and it downloads
-only the months a run asks for:
+[fin-ai-lab/tfwm](https://github.com/fin-ai-lab/tfwm) downloads what a run needs by default: `uv run
+train.py` fetches the months in its training and evaluation spans into
+`market1t/`, verifies every file, decompresses the day store, and builds the
+cross-sectional target tables. To fetch a range by hand:
 
 ```bash
-uv run train.py ... machine.mosaic_dir=hf://datasets/{dense}/1Hz_mosaic_mnth
-uv run train.py ... dataset.backend=days machine.daystore_dir=hf://datasets/{daystore}/1Hz_daystore
+uv run python -m market_jepa.market1t 2019-07 2020-01
 ```
+
+Log in first (`hf auth login`). The Hub allows 1,000 API requests per 5 minutes
+per account, and one month is several hundred files per layout, so a large
+download pauses for rate limits; the code waits and resumes. To stream from
+the Hub instead of downloading, use `machine=hub` (or pass any
+`hf://datasets/{dense}/1Hz_mosaic_mnth` root).
 
 ## Related
 
@@ -266,6 +272,18 @@ def _retry(fn, *a, **k):
     raise RuntimeError("still rate limited after an hour")
 
 
+def push_cards(out: Path, names: list[str]) -> None:
+    """Upload each repo's README.md alone -- no walk of the shards."""
+    from huggingface_hub import HfApi
+
+    api = HfApi()
+    for name in names:
+        _retry(api.upload_file, path_or_fileobj=str(out / name / "README.md"),
+               path_in_repo="README.md", repo_id=REPOS[name], repo_type="dataset",
+               commit_message="Update dataset card")
+        print("card pushed", REPOS[name], flush=True)
+
+
 def upload(out: Path, names: list[str]) -> None:
     from huggingface_hub import HfApi
 
@@ -297,7 +315,7 @@ def verify(out: Path, names: list[str]) -> None:
 
 def main() -> None:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("command", choices=["stage", "cards", "upload", "verify"])
+    p.add_argument("command", choices=["stage", "cards", "push-cards", "upload", "verify"])
     p.add_argument("repos", nargs="*", help=f"any of {', '.join(REPOS)} (default: all)")
     p.add_argument("--out", type=Path, default=STAGE)
     args = p.parse_args()
@@ -308,6 +326,8 @@ def main() -> None:
         stage(args.out)
     elif args.command == "cards":
         cards(args.out)
+    elif args.command == "push-cards":
+        push_cards(args.out, names)
     elif args.command == "upload":
         upload(args.out, names)
     else:

@@ -65,8 +65,8 @@ METHODS = [
      _LEJ + "Views come from two different stocks at the same time of the same day.", _CFG, 6e-5, 256),
     ("pair_k2ind_6mo", "lejepa-cross-stock-industry", "LeJEPA C-S, Same Industry", "LeJEPA",
      _LEJ + "Views come from two different stocks in the same Fama-French 49 industry, at the "
-     "same time of the same day. The industry map is derived from licensed data and is not "
-     "released.", _CFG, 6e-5, 256),
+     "same time of the same day. The monthly ticker-to-industry map ships with the code "
+     "(`data/industry_map.parquet`).", _CFG, 6e-5, 256),
     ("dino_6mo", "dino", "DINO", "SSL",
      "DINO self-distillation (Caron et al., 2021). The positive pair is two time warps of a "
      "single window, the same view as LeJEPA Time Warping.",
@@ -136,7 +136,6 @@ def model_card(method, repo_dir: Path) -> str:
     kind = ("day-major: one trading day per record, every ticker plus precomputed targets, so each "
             "training cell is a same-day cross-section" if sup else
             "one ticker-day per record on the filled 1 Hz grid, shuffled within each month")
-    override = "dataset.backend=days machine.daystore_dir" if sup else "machine.mosaic_dir"
     weights = "backbone.pt" if sup else "model.pt"
     readout_note = ("not applicable: supervised checkpoints have no `config.json`" if sup
                     else "`mean` for every self-supervised encoder")
@@ -161,9 +160,9 @@ datasets:
 
 # TFWM encoder — {label}
 
-> ⚠️ **Pre-release.** These weights and the code that loads them are a work in
-> progress. Contents and layout may change without notice. The training code
-> (`market_jepa`, `stable_finance`) is not public yet.
+> **Code:** [fin-ai-lab/tfwm](https://github.com/fin-ai-lab/tfwm) trains, loads and scores these encoders.
+> Its `examples/` retrain two of them from scratch and check the result against
+> these weights.
 
 **{fam}.** {desc}
 
@@ -188,7 +187,7 @@ config, the training span and the view-normalisation settings).{head_note}
 |---|---|
 | Backbone | Transformer, 12 layers, width 384, 6 heads, MLP 1536, patch 8, sinusoidal positions (~22M parameters) |
 | Input | 1 Hz regular-session US equity data: 9 market channels (`bid_price, vwap_all, high, low, ask_price, bid_size, ask_size, volume, n`) + 11 view-information channels computed at load time (per-view normalisation statistics and window geometry) = 20 channels |
-| Training data | [`{repo_data}` → `{sub}/`](https://huggingface.co/datasets/{repo_data}/tree/main/{sub}) ({kind}). Train from it with `{override}=hf://datasets/{repo_data}/{sub}` |
+| Training data | [`{repo_data}` → `{sub}/`](https://huggingface.co/datasets/{repo_data}/tree/main/{sub}) ({kind}). `uv run train.py{" dataset.backend=days" if sup else ""}` in [the code](https://github.com/fin-ai-lab/tfwm) downloads the months a run needs |
 | Schedule | 12 passes over the 6-month span, base LR {blr:g}, weight decay 0.05, {"effective " if sup else ""}batch {batch} |
 | Pooling in `config`/training | `{"last" if sup else "mean"}` |
 
@@ -216,7 +215,7 @@ path = snapshot_download("{ORG}/tfwm-{slug}", allow_patterns=["{months[-1]}/*"])
 ckpt = f"{{path}}/{months[-1]}"
 ```
 
-With the project code (release forthcoming):
+With the [project code](https://github.com/fin-ai-lab/tfwm):
 
 ```python
 from market_jepa.eval.checkpoints import load_encoder
@@ -272,6 +271,19 @@ def upload(out: Path) -> None:
         print("uploaded", repo, flush=True)
 
 
+def push_cards(out: Path) -> None:
+    """Upload each repo's README.md alone -- no walk of the weights."""
+    from huggingface_hub import HfApi
+
+    api = HfApi()
+    for method in METHODS:
+        repo, card = f"{ORG}/tfwm-{method[1]}", out / f"tfwm-{method[1]}" / "README.md"
+        if card.is_file():
+            _retry(api.upload_file, path_or_fileobj=str(card), path_in_repo="README.md",
+                   repo_id=repo, repo_type="model", commit_message="Update model card")
+            print("card pushed", repo, flush=True)
+
+
 def verify(out: Path) -> None:
     from huggingface_hub import HfApi
 
@@ -292,7 +304,7 @@ def verify(out: Path) -> None:
 
 def main() -> None:
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("command", choices=["stage", "cards", "upload", "verify"])
+    p.add_argument("command", choices=["stage", "cards", "push-cards", "upload", "verify"])
     p.add_argument("--months", nargs="+", help="eval months (YYYY-MM) to stage")
     p.add_argument("--out", type=Path, default=STAGE)
     args = p.parse_args()
@@ -301,7 +313,8 @@ def main() -> None:
             p.error("stage needs --months")
         stage(args.months, args.out)
     else:
-        {"cards": cards, "upload": upload, "verify": verify}[args.command](args.out)
+        {"cards": cards, "push-cards": push_cards, "upload": upload,
+         "verify": verify}[args.command](args.out)
 
 
 if __name__ == "__main__":
