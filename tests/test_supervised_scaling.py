@@ -19,7 +19,6 @@ import pytest
 ROOT = Path(__file__).resolve().parents[1]
 SWEEP = ROOT / "scripts/sweeps/supervised_scaling.sh"
 LR_SWEEP = ROOT / "scripts/sweeps/supervised_scaling_lr.sh"
-MANIFEST = ROOT / "scripts/sweeps/ssl_finetune/ssl_base_manifest.tsv"
 COLLECTOR = ROOT / "scripts/eval/collect_supervised_scaling.py"
 
 
@@ -67,20 +66,6 @@ def test_small_never_needs_a_measured_lr():
 
 
 # ── the ladder ─────────────────────────────────────────────────────────────
-
-def _shortest_month_steps() -> int:
-    """12 passes over the smallest six-month pool, in 256-cell steps.
-
-    From the finetune manifest's n_rows_pool (a36 rows) at the measured
-    35.83 rows per ticker-day -- the same arithmetic the finetune sweep
-    places its fractions with."""
-    from market_jepa.schemas import SupervisedModeConfig
-    o = SupervisedModeConfig().training_overrides
-    pools = [int(l.split("\t")[3]) for l in MANIFEST.read_text().splitlines()
-             if l and not l.startswith("#")]
-    assert pools
-    return int(o.num_epochs * (min(pools) / 35.83) / o.effective_batch_size)
-
 
 def _anneal_steps(scale: str) -> list[int]:
     r = _bash(f'source {SWEEP}; scaling_anneal_steps {scale}', {})
