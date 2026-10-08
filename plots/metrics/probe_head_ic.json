@@ -1,0 +1,1730 @@
+[
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-09",
+  "target": "return_900",
+  "ic": 0.03690770811983502,
+  "model": "probe_head",
+  "run_id": "5ou7hq6l",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-09",
+  "target": "volatility_change_900",
+  "ic": 0.1403764493553377,
+  "model": "probe_head",
+  "run_id": "5ou7hq6l",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-09",
+  "target": "spread_change_900",
+  "ic": 0.27474064351261435,
+  "model": "probe_head",
+  "run_id": "5ou7hq6l",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-10",
+  "target": "return_900",
+  "ic": 0.051922984465434474,
+  "model": "probe_head",
+  "run_id": "l7kmoqog",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-10",
+  "target": "volatility_change_900",
+  "ic": 0.12224566769447637,
+  "model": "probe_head",
+  "run_id": "l7kmoqog",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-10",
+  "target": "spread_change_900",
+  "ic": 0.2508261993337874,
+  "model": "probe_head",
+  "run_id": "l7kmoqog",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-08",
+  "target": "return_900",
+  "ic": 0.04854867635500078,
+  "model": "probe_head",
+  "run_id": "ztw7z0xa",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-08",
+  "target": "volatility_change_900",
+  "ic": 0.1255993335715696,
+  "model": "probe_head",
+  "run_id": "ztw7z0xa",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2008-08",
+  "target": "spread_change_900",
+  "ic": 0.25467981311330573,
+  "model": "probe_head",
+  "run_id": "ztw7z0xa",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-01",
+  "target": "return_900",
+  "ic": 0.07112238624573372,
+  "model": "probe_head",
+  "run_id": "6nwcqicb",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-01",
+  "target": "volatility_change_900",
+  "ic": 0.11186069970867625,
+  "model": "probe_head",
+  "run_id": "6nwcqicb",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-01",
+  "target": "spread_change_900",
+  "ic": 0.1469797953331552,
+  "model": "probe_head",
+  "run_id": "6nwcqicb",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2009-12",
+  "target": "return_900",
+  "ic": 0.0586911950198832,
+  "model": "probe_head",
+  "run_id": "rhgtvew2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2009-12",
+  "target": "volatility_change_900",
+  "ic": 0.1266685650513496,
+  "model": "probe_head",
+  "run_id": "rhgtvew2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2009-12",
+  "target": "spread_change_900",
+  "ic": 0.194875282223227,
+  "model": "probe_head",
+  "run_id": "rhgtvew2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-06",
+  "target": "return_900",
+  "ic": 0.06213174840942014,
+  "model": "probe_head",
+  "run_id": "0q9amf4v",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-06",
+  "target": "volatility_change_900",
+  "ic": 0.10371649163524574,
+  "model": "probe_head",
+  "run_id": "0q9amf4v",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-06",
+  "target": "spread_change_900",
+  "ic": 0.19824200466106925,
+  "model": "probe_head",
+  "run_id": "0q9amf4v",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-04",
+  "target": "return_900",
+  "ic": 0.058320815736585964,
+  "model": "probe_head",
+  "run_id": "80qfjawn",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-04",
+  "target": "volatility_change_900",
+  "ic": 0.12180747524418817,
+  "model": "probe_head",
+  "run_id": "80qfjawn",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2010-04",
+  "target": "spread_change_900",
+  "ic": 0.19201087654663346,
+  "model": "probe_head",
+  "run_id": "80qfjawn",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2011-01",
+  "target": "return_900",
+  "ic": 0.050610563061795,
+  "model": "probe_head",
+  "run_id": "2bsrtsxv",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2011-01",
+  "target": "volatility_change_900",
+  "ic": 0.12000579852569875,
+  "model": "probe_head",
+  "run_id": "2bsrtsxv",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2011-01",
+  "target": "spread_change_900",
+  "ic": 0.16261756545805725,
+  "model": "probe_head",
+  "run_id": "2bsrtsxv",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2011-06",
+  "target": "return_900",
+  "ic": 0.036345433134951526,
+  "model": "probe_head",
+  "run_id": "y35p7pfv",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2011-06",
+  "target": "volatility_change_900",
+  "ic": 0.09752121922499327,
+  "model": "probe_head",
+  "run_id": "y35p7pfv",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2011-06",
+  "target": "spread_change_900",
+  "ic": 0.17930648778782607,
+  "model": "probe_head",
+  "run_id": "y35p7pfv",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-04",
+  "target": "return_900",
+  "ic": 0.0456633494289892,
+  "model": "probe_head",
+  "run_id": "d4sblg8g",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-04",
+  "target": "volatility_change_900",
+  "ic": 0.11769596747636583,
+  "model": "probe_head",
+  "run_id": "d4sblg8g",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-04",
+  "target": "spread_change_900",
+  "ic": 0.1876431418698554,
+  "model": "probe_head",
+  "run_id": "d4sblg8g",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-10",
+  "target": "return_900",
+  "ic": 0.05090813692463193,
+  "model": "probe_head",
+  "run_id": "fsgeiadk",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-10",
+  "target": "volatility_change_900",
+  "ic": 0.10334287964495706,
+  "model": "probe_head",
+  "run_id": "fsgeiadk",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-10",
+  "target": "spread_change_900",
+  "ic": 0.22632712370111369,
+  "model": "probe_head",
+  "run_id": "fsgeiadk",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-09",
+  "target": "return_900",
+  "ic": 0.04659309752136937,
+  "model": "probe_head",
+  "run_id": "ra6gsr1p",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-09",
+  "target": "volatility_change_900",
+  "ic": 0.10285667116593909,
+  "model": "probe_head",
+  "run_id": "ra6gsr1p",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-09",
+  "target": "spread_change_900",
+  "ic": 0.2290184650523527,
+  "model": "probe_head",
+  "run_id": "ra6gsr1p",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-11",
+  "target": "return_900",
+  "ic": 0.04853110762821591,
+  "model": "probe_head",
+  "run_id": "ej0fr9i5",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-11",
+  "target": "volatility_change_900",
+  "ic": 0.10639289600843808,
+  "model": "probe_head",
+  "run_id": "ej0fr9i5",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2012-11",
+  "target": "spread_change_900",
+  "ic": 0.22639798114065302,
+  "model": "probe_head",
+  "run_id": "ej0fr9i5",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-01",
+  "target": "return_900",
+  "ic": 0.04660627428183713,
+  "model": "probe_head",
+  "run_id": "l9ymc4n1",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-01",
+  "target": "volatility_change_900",
+  "ic": 0.10444525525278266,
+  "model": "probe_head",
+  "run_id": "l9ymc4n1",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-01",
+  "target": "spread_change_900",
+  "ic": 0.1682455927611341,
+  "model": "probe_head",
+  "run_id": "l9ymc4n1",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-04",
+  "target": "return_900",
+  "ic": 0.03771783737297245,
+  "model": "probe_head",
+  "run_id": "ojspzeow",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-04",
+  "target": "volatility_change_900",
+  "ic": 0.09553466855227599,
+  "model": "probe_head",
+  "run_id": "ojspzeow",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-04",
+  "target": "spread_change_900",
+  "ic": 0.22155914288564088,
+  "model": "probe_head",
+  "run_id": "ojspzeow",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-12",
+  "target": "return_900",
+  "ic": 0.03496260920416649,
+  "model": "probe_head",
+  "run_id": "jfcl9o25",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-12",
+  "target": "volatility_change_900",
+  "ic": 0.09264763008644808,
+  "model": "probe_head",
+  "run_id": "jfcl9o25",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2013-12",
+  "target": "spread_change_900",
+  "ic": 0.18426338246630425,
+  "model": "probe_head",
+  "run_id": "jfcl9o25",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2014-01",
+  "target": "return_900",
+  "ic": 0.035223493510452286,
+  "model": "probe_head",
+  "run_id": "sfh7lwp9",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2014-01",
+  "target": "volatility_change_900",
+  "ic": 0.09570806429102528,
+  "model": "probe_head",
+  "run_id": "sfh7lwp9",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2014-01",
+  "target": "spread_change_900",
+  "ic": 0.16924354537060043,
+  "model": "probe_head",
+  "run_id": "sfh7lwp9",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-02",
+  "target": "return_900",
+  "ic": 0.020182482175092747,
+  "model": "probe_head",
+  "run_id": "71tnao0p",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-02",
+  "target": "volatility_change_900",
+  "ic": 0.0830427048573395,
+  "model": "probe_head",
+  "run_id": "71tnao0p",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-02",
+  "target": "spread_change_900",
+  "ic": 0.2695475812047425,
+  "model": "probe_head",
+  "run_id": "71tnao0p",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-01",
+  "target": "return_900",
+  "ic": 0.017266027677676956,
+  "model": "probe_head",
+  "run_id": "z086qjem",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-01",
+  "target": "volatility_change_900",
+  "ic": 0.09286417110021628,
+  "model": "probe_head",
+  "run_id": "z086qjem",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-01",
+  "target": "spread_change_900",
+  "ic": 0.2721899327472294,
+  "model": "probe_head",
+  "run_id": "z086qjem",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-08",
+  "target": "return_900",
+  "ic": 0.012840594312564839,
+  "model": "probe_head",
+  "run_id": "0p0dc6fi",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-08",
+  "target": "volatility_change_900",
+  "ic": 0.06864056753979478,
+  "model": "probe_head",
+  "run_id": "0p0dc6fi",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2017-08",
+  "target": "spread_change_900",
+  "ic": 0.21827665946526736,
+  "model": "probe_head",
+  "run_id": "0p0dc6fi",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2018-11",
+  "target": "return_900",
+  "ic": 0.01436659015424438,
+  "model": "probe_head",
+  "run_id": "axpvy5ky",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2018-11",
+  "target": "volatility_change_900",
+  "ic": 0.0824750494981674,
+  "model": "probe_head",
+  "run_id": "axpvy5ky",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2018-11",
+  "target": "spread_change_900",
+  "ic": 0.3005800013267502,
+  "model": "probe_head",
+  "run_id": "axpvy5ky",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2019-09",
+  "target": "return_900",
+  "ic": 0.004067468923977089,
+  "model": "probe_head",
+  "run_id": "i57e3oxh",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2019-09",
+  "target": "volatility_change_900",
+  "ic": 0.08234646956237562,
+  "model": "probe_head",
+  "run_id": "i57e3oxh",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2019-09",
+  "target": "spread_change_900",
+  "ic": 0.31533932360148564,
+  "model": "probe_head",
+  "run_id": "i57e3oxh",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-01",
+  "target": "return_900",
+  "ic": 0.010375012524500817,
+  "model": "probe_head",
+  "run_id": "wfkdgqhf",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-01",
+  "target": "volatility_change_900",
+  "ic": 0.08904782232259222,
+  "model": "probe_head",
+  "run_id": "wfkdgqhf",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-01",
+  "target": "spread_change_900",
+  "ic": 0.195488409278026,
+  "model": "probe_head",
+  "run_id": "wfkdgqhf",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-08",
+  "target": "return_900",
+  "ic": 0.01900739077925107,
+  "model": "probe_head",
+  "run_id": "5hntk2h3",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-08",
+  "target": "volatility_change_900",
+  "ic": 0.08540974307598584,
+  "model": "probe_head",
+  "run_id": "5hntk2h3",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-08",
+  "target": "spread_change_900",
+  "ic": 0.29858916850625095,
+  "model": "probe_head",
+  "run_id": "5hntk2h3",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-09",
+  "target": "return_900",
+  "ic": 0.01670275242784797,
+  "model": "probe_head",
+  "run_id": "o9s488id",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-09",
+  "target": "volatility_change_900",
+  "ic": 0.07896760109498303,
+  "model": "probe_head",
+  "run_id": "o9s488id",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-09",
+  "target": "spread_change_900",
+  "ic": 0.25383371299943397,
+  "model": "probe_head",
+  "run_id": "o9s488id",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-12",
+  "target": "return_900",
+  "ic": -0.003652710975358656,
+  "model": "probe_head",
+  "run_id": "u03mrqzz",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-12",
+  "target": "volatility_change_900",
+  "ic": 0.07927833174740778,
+  "model": "probe_head",
+  "run_id": "u03mrqzz",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2020-12",
+  "target": "spread_change_900",
+  "ic": 0.27867005119263727,
+  "model": "probe_head",
+  "run_id": "u03mrqzz",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2021-09",
+  "target": "return_900",
+  "ic": 0.004258360182585734,
+  "model": "probe_head",
+  "run_id": "0orkj4ia",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2021-09",
+  "target": "volatility_change_900",
+  "ic": 0.07679366953448702,
+  "model": "probe_head",
+  "run_id": "0orkj4ia",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2021-09",
+  "target": "spread_change_900",
+  "ic": 0.291660256629776,
+  "model": "probe_head",
+  "run_id": "0orkj4ia",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2021-12",
+  "target": "return_900",
+  "ic": 0.033356055522560206,
+  "model": "probe_head",
+  "run_id": "eomfjjx8",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2021-12",
+  "target": "volatility_change_900",
+  "ic": 0.06732044666738293,
+  "model": "probe_head",
+  "run_id": "eomfjjx8",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2021-12",
+  "target": "spread_change_900",
+  "ic": 0.3124715858488492,
+  "model": "probe_head",
+  "run_id": "eomfjjx8",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2022-07",
+  "target": "return_900",
+  "ic": -0.006227998618766881,
+  "model": "probe_head",
+  "run_id": "04ntfqno",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2022-07",
+  "target": "volatility_change_900",
+  "ic": 0.06846032641391323,
+  "model": "probe_head",
+  "run_id": "04ntfqno",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2022-07",
+  "target": "spread_change_900",
+  "ic": 0.33424274008819915,
+  "model": "probe_head",
+  "run_id": "04ntfqno",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-01",
+  "target": "return_900",
+  "ic": 0.018639816900100806,
+  "model": "probe_head",
+  "run_id": "dypz7gg2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-01",
+  "target": "volatility_change_900",
+  "ic": 0.063677610678887,
+  "model": "probe_head",
+  "run_id": "dypz7gg2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-01",
+  "target": "spread_change_900",
+  "ic": 0.31681204743627633,
+  "model": "probe_head",
+  "run_id": "dypz7gg2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-04",
+  "target": "return_900",
+  "ic": 0.013442990993221448,
+  "model": "probe_head",
+  "run_id": "ddp5n7bq",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-04",
+  "target": "volatility_change_900",
+  "ic": 0.06647959377672452,
+  "model": "probe_head",
+  "run_id": "ddp5n7bq",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-04",
+  "target": "spread_change_900",
+  "ic": 0.3387122408371085,
+  "model": "probe_head",
+  "run_id": "ddp5n7bq",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-11",
+  "target": "return_900",
+  "ic": 0.02029457834732368,
+  "model": "probe_head",
+  "run_id": "j9361bju",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-11",
+  "target": "volatility_change_900",
+  "ic": 0.07456265346289584,
+  "model": "probe_head",
+  "run_id": "j9361bju",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_multi_w8",
+  "eval_month": "2023-11",
+  "target": "spread_change_900",
+  "ic": 0.3479798674971846,
+  "model": "probe_head",
+  "run_id": "j9361bju",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2008-08",
+  "target": "return_900",
+  "ic": 0.04114066486299145,
+  "model": "probe_head",
+  "run_id": "p0fkxab7",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2008-09",
+  "target": "return_900",
+  "ic": 0.029203571312066922,
+  "model": "probe_head",
+  "run_id": "3vmgup5y",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2008-10",
+  "target": "return_900",
+  "ic": 0.042751567430824894,
+  "model": "probe_head",
+  "run_id": "49kddxq2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2009-12",
+  "target": "return_900",
+  "ic": 0.04343243880203132,
+  "model": "probe_head",
+  "run_id": "pa7hlzt6",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2010-01",
+  "target": "return_900",
+  "ic": 0.0686797451503298,
+  "model": "probe_head",
+  "run_id": "oqxiw6ws",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2010-04",
+  "target": "return_900",
+  "ic": 0.0587823578964782,
+  "model": "probe_head",
+  "run_id": "jkx8yedx",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2010-06",
+  "target": "return_900",
+  "ic": 0.0505302442806757,
+  "model": "probe_head",
+  "run_id": "xxdgxtz3",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2011-01",
+  "target": "return_900",
+  "ic": 0.04620614568602374,
+  "model": "probe_head",
+  "run_id": "clqvvv0e",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2011-06",
+  "target": "return_900",
+  "ic": 0.022381537645366455,
+  "model": "probe_head",
+  "run_id": "yv94w8f8",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2012-04",
+  "target": "return_900",
+  "ic": 0.04257855655823046,
+  "model": "probe_head",
+  "run_id": "k8f62mtx",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2012-09",
+  "target": "return_900",
+  "ic": 0.03778767911077625,
+  "model": "probe_head",
+  "run_id": "66d5424g",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2012-10",
+  "target": "return_900",
+  "ic": 0.04698315060954205,
+  "model": "probe_head",
+  "run_id": "mrdwvbw0",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2012-11",
+  "target": "return_900",
+  "ic": 0.04272648033187406,
+  "model": "probe_head",
+  "run_id": "etaj9eq8",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2013-01",
+  "target": "return_900",
+  "ic": 0.030243514805251698,
+  "model": "probe_head",
+  "run_id": "rsw7gi20",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2013-04",
+  "target": "return_900",
+  "ic": 0.032102272095304314,
+  "model": "probe_head",
+  "run_id": "vey9vnp3",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2013-12",
+  "target": "return_900",
+  "ic": 0.0375672457782579,
+  "model": "probe_head",
+  "run_id": "e2pp87ap",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2014-01",
+  "target": "return_900",
+  "ic": 0.029821415675751743,
+  "model": "probe_head",
+  "run_id": "c8jt7t6z",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2017-01",
+  "target": "return_900",
+  "ic": 0.016936639431322457,
+  "model": "probe_head",
+  "run_id": "x3gslt8e",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2017-02",
+  "target": "return_900",
+  "ic": 0.022482890088353025,
+  "model": "probe_head",
+  "run_id": "fndrgq69",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2017-08",
+  "target": "return_900",
+  "ic": 0.023040248951652863,
+  "model": "probe_head",
+  "run_id": "wwk29rxx",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2018-11",
+  "target": "return_900",
+  "ic": 0.007415929289191314,
+  "model": "probe_head",
+  "run_id": "9p2h16g0",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2019-09",
+  "target": "return_900",
+  "ic": 0.002686274639911618,
+  "model": "probe_head",
+  "run_id": "trgghmop",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2020-01",
+  "target": "return_900",
+  "ic": 0.011169176392045873,
+  "model": "probe_head",
+  "run_id": "ub8hw688",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2020-08",
+  "target": "return_900",
+  "ic": 0.007694472229596491,
+  "model": "probe_head",
+  "run_id": "yxr9hgtp",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2020-09",
+  "target": "return_900",
+  "ic": 0.006584121777534827,
+  "model": "probe_head",
+  "run_id": "6vofvxxq",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2020-12",
+  "target": "return_900",
+  "ic": -0.004136139013213245,
+  "model": "probe_head",
+  "run_id": "5rd2g464",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2021-09",
+  "target": "return_900",
+  "ic": -9.254366001692444e-05,
+  "model": "probe_head",
+  "run_id": "hk95adaq",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2021-12",
+  "target": "return_900",
+  "ic": 0.021630797400901673,
+  "model": "probe_head",
+  "run_id": "7xyiogpl",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2022-07",
+  "target": "return_900",
+  "ic": 0.001636982470541796,
+  "model": "probe_head",
+  "run_id": "omhbzc8a",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2023-01",
+  "target": "return_900",
+  "ic": 0.01184344157550483,
+  "model": "probe_head",
+  "run_id": "swanogth",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2023-04",
+  "target": "return_900",
+  "ic": 0.01517445802809692,
+  "model": "probe_head",
+  "run_id": "3r1k90e2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_return_w8",
+  "eval_month": "2023-11",
+  "target": "return_900",
+  "ic": 0.013034726002880035,
+  "model": "probe_head",
+  "run_id": "t630hh5s",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2008-08",
+  "target": "spread_change_900",
+  "ic": 0.26870261301901377,
+  "model": "probe_head",
+  "run_id": "ikl2h0nn",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2008-09",
+  "target": "spread_change_900",
+  "ic": 0.280172933252101,
+  "model": "probe_head",
+  "run_id": "yybq6o04",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2008-10",
+  "target": "spread_change_900",
+  "ic": 0.2562917327908299,
+  "model": "probe_head",
+  "run_id": "tn2y50tj",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2009-12",
+  "target": "spread_change_900",
+  "ic": 0.2053447636388887,
+  "model": "probe_head",
+  "run_id": "cv0m5qwt",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2010-01",
+  "target": "spread_change_900",
+  "ic": 0.1623818157678585,
+  "model": "probe_head",
+  "run_id": "nd9jdu6n",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2010-04",
+  "target": "spread_change_900",
+  "ic": 0.20596681311585255,
+  "model": "probe_head",
+  "run_id": "bqmff9y0",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2010-06",
+  "target": "spread_change_900",
+  "ic": 0.20836258226680887,
+  "model": "probe_head",
+  "run_id": "cn15fuor",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2011-01",
+  "target": "spread_change_900",
+  "ic": 0.16681689445564823,
+  "model": "probe_head",
+  "run_id": "dsgy9ob6",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2011-06",
+  "target": "spread_change_900",
+  "ic": 0.1876203487432608,
+  "model": "probe_head",
+  "run_id": "jzoaiq5m",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2012-04",
+  "target": "spread_change_900",
+  "ic": 0.19751749323672102,
+  "model": "probe_head",
+  "run_id": "y1ffo80g",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2012-09",
+  "target": "spread_change_900",
+  "ic": 0.2405475431748552,
+  "model": "probe_head",
+  "run_id": "gymielo3",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2012-10",
+  "target": "spread_change_900",
+  "ic": 0.23800752991022942,
+  "model": "probe_head",
+  "run_id": "hikcjngg",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2012-11",
+  "target": "spread_change_900",
+  "ic": 0.23139728576474858,
+  "model": "probe_head",
+  "run_id": "4yq4s6wv",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2013-01",
+  "target": "spread_change_900",
+  "ic": 0.17153656964090835,
+  "model": "probe_head",
+  "run_id": "1pjlxcjq",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2013-04",
+  "target": "spread_change_900",
+  "ic": 0.22924729163042948,
+  "model": "probe_head",
+  "run_id": "wb6s8eto",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2013-12",
+  "target": "spread_change_900",
+  "ic": 0.19556211923066605,
+  "model": "probe_head",
+  "run_id": "jf00z31m",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2014-01",
+  "target": "spread_change_900",
+  "ic": 0.19059427308950433,
+  "model": "probe_head",
+  "run_id": "g9rodyc9",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2017-01",
+  "target": "spread_change_900",
+  "ic": 0.2703978163096393,
+  "model": "probe_head",
+  "run_id": "6kxlhsgc",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2017-02",
+  "target": "spread_change_900",
+  "ic": 0.26994326118157413,
+  "model": "probe_head",
+  "run_id": "ydaatvtg",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2017-08",
+  "target": "spread_change_900",
+  "ic": 0.22324604833393671,
+  "model": "probe_head",
+  "run_id": "5rv159q8",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2018-11",
+  "target": "spread_change_900",
+  "ic": 0.3187616726763343,
+  "model": "probe_head",
+  "run_id": "nyfbjd62",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2019-09",
+  "target": "spread_change_900",
+  "ic": 0.32028699163055174,
+  "model": "probe_head",
+  "run_id": "r7tpi0vs",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2020-01",
+  "target": "spread_change_900",
+  "ic": 0.20380457603731933,
+  "model": "probe_head",
+  "run_id": "8isrm25x",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2020-08",
+  "target": "spread_change_900",
+  "ic": 0.2996736156991654,
+  "model": "probe_head",
+  "run_id": "sh92ivsc",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2020-09",
+  "target": "spread_change_900",
+  "ic": 0.2573201614407125,
+  "model": "probe_head",
+  "run_id": "dgmsseij",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2020-12",
+  "target": "spread_change_900",
+  "ic": 0.2905671212455791,
+  "model": "probe_head",
+  "run_id": "fiusk9mp",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2021-09",
+  "target": "spread_change_900",
+  "ic": 0.2975952866644614,
+  "model": "probe_head",
+  "run_id": "2zegfx2c",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2021-12",
+  "target": "spread_change_900",
+  "ic": 0.31520184252352224,
+  "model": "probe_head",
+  "run_id": "gxvdfxgf",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2022-07",
+  "target": "spread_change_900",
+  "ic": 0.3393490639297743,
+  "model": "probe_head",
+  "run_id": "cay2uswh",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2023-01",
+  "target": "spread_change_900",
+  "ic": 0.3283452344288988,
+  "model": "probe_head",
+  "run_id": "ctfphvh2",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2023-04",
+  "target": "spread_change_900",
+  "ic": 0.34165118855831805,
+  "model": "probe_head",
+  "run_id": "864n96dt",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_spread_w8",
+  "eval_month": "2023-11",
+  "target": "spread_change_900",
+  "ic": 0.34938040860062575,
+  "model": "probe_head",
+  "run_id": "1jtvk0i6",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2008-08",
+  "target": "volatility_change_900",
+  "ic": 0.12495031436308561,
+  "model": "probe_head",
+  "run_id": "9coyod50",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2008-09",
+  "target": "volatility_change_900",
+  "ic": 0.1329432493747145,
+  "model": "probe_head",
+  "run_id": "j07vw94v",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2008-10",
+  "target": "volatility_change_900",
+  "ic": 0.11864232920128787,
+  "model": "probe_head",
+  "run_id": "uodhzlxh",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2009-12",
+  "target": "volatility_change_900",
+  "ic": 0.12060737081616113,
+  "model": "probe_head",
+  "run_id": "eqynz863",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2010-01",
+  "target": "volatility_change_900",
+  "ic": 0.10609236459917884,
+  "model": "probe_head",
+  "run_id": "4rlj35s6",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2010-04",
+  "target": "volatility_change_900",
+  "ic": 0.11470674800513558,
+  "model": "probe_head",
+  "run_id": "u27c3sz4",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2010-06",
+  "target": "volatility_change_900",
+  "ic": 0.09289032392846056,
+  "model": "probe_head",
+  "run_id": "rs1c9yx6",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2011-01",
+  "target": "volatility_change_900",
+  "ic": 0.11005475642770146,
+  "model": "probe_head",
+  "run_id": "x9mls0k8",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2011-06",
+  "target": "volatility_change_900",
+  "ic": 0.08797818674262466,
+  "model": "probe_head",
+  "run_id": "ufmm4908",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2012-04",
+  "target": "volatility_change_900",
+  "ic": 0.10902454965200406,
+  "model": "probe_head",
+  "run_id": "1ubv4c5v",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2012-09",
+  "target": "volatility_change_900",
+  "ic": 0.0994182555016107,
+  "model": "probe_head",
+  "run_id": "sx9au0an",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2012-10",
+  "target": "volatility_change_900",
+  "ic": 0.0986068676918218,
+  "model": "probe_head",
+  "run_id": "nx879mcq",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2012-11",
+  "target": "volatility_change_900",
+  "ic": 0.1002661982585564,
+  "model": "probe_head",
+  "run_id": "c90z40pz",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2013-01",
+  "target": "volatility_change_900",
+  "ic": 0.10265144966766279,
+  "model": "probe_head",
+  "run_id": "q006c2bh",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2013-04",
+  "target": "volatility_change_900",
+  "ic": 0.09131019843019006,
+  "model": "probe_head",
+  "run_id": "ti245nea",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2013-12",
+  "target": "volatility_change_900",
+  "ic": 0.07987534260980748,
+  "model": "probe_head",
+  "run_id": "ztgkpa18",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2014-01",
+  "target": "volatility_change_900",
+  "ic": 0.08551925559953107,
+  "model": "probe_head",
+  "run_id": "xxtm56r1",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2017-01",
+  "target": "volatility_change_900",
+  "ic": 0.07581127394264614,
+  "model": "probe_head",
+  "run_id": "itknsbo9",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2017-02",
+  "target": "volatility_change_900",
+  "ic": 0.07468858779273428,
+  "model": "probe_head",
+  "run_id": "ks3qn092",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2017-08",
+  "target": "volatility_change_900",
+  "ic": 0.05775707858950334,
+  "model": "probe_head",
+  "run_id": "sc0en95t",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2018-11",
+  "target": "volatility_change_900",
+  "ic": 0.07538373363806553,
+  "model": "probe_head",
+  "run_id": "qmp8i8pm",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2019-09",
+  "target": "volatility_change_900",
+  "ic": 0.07884672288355941,
+  "model": "probe_head",
+  "run_id": "464h3jfm",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2020-01",
+  "target": "volatility_change_900",
+  "ic": 0.09810614040688295,
+  "model": "probe_head",
+  "run_id": "kg3jc572",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2020-08",
+  "target": "volatility_change_900",
+  "ic": 0.08140440561833749,
+  "model": "probe_head",
+  "run_id": "x9cgiwzy",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2020-09",
+  "target": "volatility_change_900",
+  "ic": 0.08352837127494303,
+  "model": "probe_head",
+  "run_id": "mxdoop9m",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2020-12",
+  "target": "volatility_change_900",
+  "ic": 0.07631367122225383,
+  "model": "probe_head",
+  "run_id": "e18g5ctt",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2021-09",
+  "target": "volatility_change_900",
+  "ic": 0.07389327995275136,
+  "model": "probe_head",
+  "run_id": "u935rf5s",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2021-12",
+  "target": "volatility_change_900",
+  "ic": 0.061344303261671645,
+  "model": "probe_head",
+  "run_id": "mzo8qoq1",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2022-07",
+  "target": "volatility_change_900",
+  "ic": 0.05490715970607361,
+  "model": "probe_head",
+  "run_id": "3aim71o3",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2023-01",
+  "target": "volatility_change_900",
+  "ic": 0.06509746803296981,
+  "model": "probe_head",
+  "run_id": "50by6cfn",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2023-04",
+  "target": "volatility_change_900",
+  "ic": 0.05839061323296059,
+  "model": "probe_head",
+  "run_id": "5ehoyr93",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ },
+ {
+  "series_key": "sup_vol_w8",
+  "eval_month": "2023-11",
+  "target": "volatility_change_900",
+  "ic": 0.06039755589969912,
+  "model": "probe_head",
+  "run_id": "ha5h3qs1",
+  "xs_anchor_stats": "xs_anchor_stats_fwdvwap60"
+ }
+]

@@ -1,0 +1,3 @@
+[submodule "stable-finance"]
+	path = stable-finance
+	url = https://github.com/galilai-group/stable-finance.git

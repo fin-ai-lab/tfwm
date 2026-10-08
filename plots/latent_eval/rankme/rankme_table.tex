@@ -1,0 +1,39 @@
+\begin{table}[t]
+\caption{RankMe~\citep{garrido2023rankmeassessingdownstreamperformance} of each frozen embedding on the latent suite's full-day panels of Table~\ref{tab:latent_results}, read at the same mean pooling, mean $\pm$ SE over the eval months, beside the embedding width that bounds it. RankMe counts how many directions the embedding spends its variance on; it is not a score -- the supervised models, the strongest forecasters, have the lowest -- and a width far from 384 puts a row off the rest of the column's scale. The frozen TSFMs are read at their last layer with the nine per-channel states averaged, the prediction evals' readout; Figure~\ref{fig:tsfm_rankme} sweeps every layer.}
+\label{tab:rankme_latent}
+\centering
+\footnotesize
+\begin{tabular}{lcc}
+\toprule
+ & Width & RankMe \\
+\midrule
+\addlinespace \multicolumn{3}{l}{\emph{Supervised}} \\
+Return & $384$ & $2.8 \pm 0.1$ \\
+Vol & $384$ & $3.0 \pm 0.1$ \\
+Spread & $384$ & $3.5 \pm 0.2$ \\
+Multihead & $384$ & $3.9 \pm 0.1$ \\
+\addlinespace \multicolumn{3}{l}{\emph{LeJEPA}~\citep{balestriero2025lejepaprovablescalableselfsupervised}} \\
+\scriptsize{Same Stock, Diff. View} & $384$ & $11.1 \pm 0.1$ \\
+Time Warping & $384$ & $14.3 \pm 0.2$ \\
+Gaussian Noising & $384$ & $12.4 \pm 0.1$ \\
+Cross Stock & $384$ & $14.8 \pm 0.1$ \\
+C-S, Same Industry & $384$ & $15.3 \pm 0.1$ \\
+\addlinespace \multicolumn{3}{l}{\emph{SSL}} \\
+DINO~\citep{caron_etal_dino} & $384$ & $11.2 \pm 0.1$ \\
+BYOL~\citep{grill2020bootstraplatentnewapproach} & $384$ & $10.9 \pm 0.2$ \\
+CPC~\citep{oord2019representationlearningcontrastivepredictive} & $384$ & $13.0 \pm 0.4$ \\
+I-JEPA~\citep{assran2023selfsupervisedlearningimagesjointembedding} & $384$ & $5.5 \pm 0.1$ \\
+MAE~\citep{he_etal_2022} & $384$ & $10.9 \pm 0.8$ \\
+TS2Vec~\citep{yue2022ts2vec} & $384$ & $6.9 \pm 0.1$ \\
+CoST~\citep{woo2022costcontrastivelearningdisentangled} & $384$ & $17.3 \pm 0.3$ \\
+TF-C~\citep{zhang2022selfsupervisedcontrastivepretrainingtime} & $256$ & $81.5 \pm 1.1$ \\
+TimeMAE~\citep{Cheng_2026} & $384$ & $61.9 \pm 0.6$ \\
+\addlinespace \multicolumn{3}{l}{\emph{Frozen TSFMs (last layer, channels averaged)}} \\
+Chronos-2 & $768$ & $107.0 \pm 0.6$ \\
+Kronos & $832$ & $77.2 \pm 0.5$ \\
+TimesFM 3.0 & $1280$ & $111.9 \pm 0.6$ \\
+\addlinespace \multicolumn{3}{l}{\emph{Untrained floor}} \\
+Random ViT & $384$ & $43.2 \pm 0.1$ \\
+\bottomrule
+\end{tabular}
+\end{table}

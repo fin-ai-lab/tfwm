@@ -1,0 +1,36 @@
+% requires \usepackage{xcolor}
+\begin{table}[t]
+\caption{Forecasting rank IC at the 15-minute horizon from a ridge probe, averaged over 32 eval months; a supervised arm's own head IC follows in parentheses, \textcolor{red!75!black}{red} cells fail to beat the untrained Random ViT floor, and \textcolor{green!45!black}{\textbf{green}} marks the best two \emph{non-supervised} arms per target. Finance baselines and TSFMs presented in Table \ref{tab:finance_baselines}.}
+\label{tab:probe_fit}
+\centering
+\begin{tabular}{lccc}
+\toprule
+ & Return & Volatility & Spread \\
+\midrule
+\addlinespace \multicolumn{4}{l}{\emph{Supervised}} \\
+Return & $0.0272$\,($0.0269$) & $0.0695$ & \textcolor{red!75!black}{$0.1305$} \\
+Vol & $0.0197$ & $0.0883$\,($0.0891$) & \textcolor{red!75!black}{$0.1480$} \\
+Spread & $0.0178$ & $0.0762$ & $0.2517$\,($0.2519$) \\
+Multihead & $0.0311$\,($0.0317$) & $0.0941$\,($0.0952$) & $0.2455$\,($0.2441$) \\
+\addlinespace \multicolumn{4}{l}{\emph{LeJEPA}~\citep{balestriero2025lejepaprovablescalableselfsupervised}} \\
+\scriptsize{Same Stock, Diff. View} & $0.0182$ & $0.0715$ & \textcolor{red!75!black}{$0.1672$} \\
+Time Warping & \textcolor{green!45!black}{$\mathbf{0.0204}$} & \textcolor{green!45!black}{$\mathbf{0.0721}$} & \textcolor{red!75!black}{$0.1691$} \\
+Gaussian Noising & $0.0175$ & \textcolor{red!75!black}{$0.0688$} & \textcolor{red!75!black}{$0.1625$} \\
+Cross Stock & \textcolor{red!75!black}{$0.0169$} & \textcolor{red!75!black}{$0.0693$} & \textcolor{red!75!black}{$0.1667$} \\
+C-S, Same Industry & $0.0173$ & \textcolor{red!75!black}{$0.0692$} & \textcolor{red!75!black}{$0.1660$} \\
+\addlinespace \multicolumn{4}{l}{\emph{SSL}} \\
+DINO~\citep{caron_etal_dino} & \textcolor{red!75!black}{$0.0097$} & \textcolor{red!75!black}{$0.0310$} & \textcolor{red!75!black}{$0.0626$} \\
+BYOL~\citep{grill2020bootstraplatentnewapproach} & \textcolor{red!75!black}{$0.0104$} & \textcolor{red!75!black}{$0.0314$} & \textcolor{red!75!black}{$0.0686$} \\
+CPC~\citep{oord2019representationlearningcontrastivepredictive} & $0.0184$ & $0.0697$ & \textcolor{red!75!black}{$0.1519$} \\
+I-JEPA~\citep{assran2023selfsupervisedlearningimagesjointembedding} & \textcolor{red!75!black}{$0.0103$} & \textcolor{red!75!black}{$0.0256$} & \textcolor{red!75!black}{$0.0646$} \\
+MAE~\citep{he_etal_2022} & $0.0181$ & \textcolor{red!75!black}{$0.0684$} & \textcolor{red!75!black}{$0.1435$} \\
+TS2Vec~\citep{yue2022ts2vec} & \textcolor{green!45!black}{$\mathbf{0.0205}$} & \textcolor{green!45!black}{$\mathbf{0.0719}$} & \textcolor{red!75!black}{$0.1500$} \\
+CoST~\citep{woo2022costcontrastivelearningdisentangled} & \textcolor{red!75!black}{$0.0100$} & \textcolor{red!75!black}{$0.0339$} & \textcolor{red!75!black}{$0.0302$} \\
+TF-C~\citep{zhang2022selfsupervisedcontrastivepretrainingtime} & \textcolor{red!75!black}{$0.0095$} & \textcolor{red!75!black}{$0.0570$} & \textcolor{red!75!black}{$0.1171$} \\
+TimeMAE~\citep{Cheng_2026} & $0.0199$ & $0.0706$ & \textcolor{red!75!black}{$0.1408$} \\
+\addlinespace \multicolumn{4}{l}{\emph{Untrained floor}} \\
+Random ViT & $0.0170$ & $0.0694$ & $0.1692$ \\
+\bottomrule
+\end{tabular}
+\vspace{-1em}
+\end{table}

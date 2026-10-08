@@ -1,0 +1,35 @@
+\begin{table}[t]
+\caption{Forecasting rank IC at the 15-minute horizon for classical baselines, beside the supervised arms of Table~\ref{tab:probe_fit}, averaged over evaluation months. The baselines are read off the \emph{normalised view tensor the encoder receives}, not the raw order book. Based on the results on the Optimization Set, the frozen TSFMs were nearly uniformly optimal at the last layer for all three tasks. Supervised cells give the ridge probe with that arm's own head IC in parentheses. \textcolor{green!45!black}{\textbf{Green}} marks the best two strongest supervised arms and the two strongest baselines.}
+\label{tab:finance_baselines}
+\centering
+\begin{tabular}{lccc}
+\toprule
+ & Return & Volatility & Spread \\
+\midrule
+\addlinespace \multicolumn{4}{l}{\emph{Supervised}} \\
+Return & \textcolor{green!45!black}{$\mathbf{0.0272}$}\,($0.0269$) & $0.0695$ & $0.1305$ \\
+Vol & $0.0197$ & \textcolor{green!45!black}{$\mathbf{0.0883}$}\,($0.0891$) & $0.1480$ \\
+Spread & $0.0178$ & $0.0762$ & \textcolor{green!45!black}{$\mathbf{0.2517}$}\,($0.2519$) \\
+Multihead & \textcolor{green!45!black}{$\mathbf{0.0311}$}\,($0.0317$) & \textcolor{green!45!black}{$\mathbf{0.0941}$}\,($0.0952$) & \textcolor{green!45!black}{$\mathbf{0.2455}$}\,($0.2441$) \\
+\addlinespace \multicolumn{4}{l}{\emph{Classical forecasting models}} \\
+Mean reversion & -- & $0.0274$ & $0.1031$ \\
+AR(p) & $0.0136$ & $0.0442$ & $0.1688$ \\
+ARMA(p,q) & $0.0141$ & $0.0455$ & $0.1740$ \\
+HAR-RV & -- & $0.0639$ & -- \\
+GARCH(1,1) & -- & $0.0468$ & -- \\
+Ridge ARDL & $0.0180$ & $0.0624$ & \textcolor{green!45!black}{$\mathbf{0.1857}$} \\
+\addlinespace \multicolumn{4}{l}{\emph{Learners on the raw view}} \\
+Ridge (8-token tail) & $0.0175$ & $0.0667$ & $0.1507$ \\
+Ridge (24-token tail) & $0.0196$ & $0.0707$ & $0.1660$ \\
+Ridge (64-token tail) & $0.0178$ & $0.0709$ & \textcolor{green!45!black}{$\mathbf{0.1820}$} \\
+GBM (24-token tail) & $0.0097$ & $0.0632$ & $0.1034$ \\
+\addlinespace \multicolumn{4}{l}{\emph{Frozen time-series foundation models}} \\
+Chronos-2 & \textcolor{green!45!black}{$\mathbf{0.0230}$} & \textcolor{green!45!black}{$\mathbf{0.0928}$} & $0.1289$ \\
+Kronos & $0.0171$ & $0.0621$ & $0.0560$ \\
+TimesFM 3.0 & \textcolor{green!45!black}{$\mathbf{0.0232}$} & \textcolor{green!45!black}{$\mathbf{0.0947}$} & $0.1362$ \\
+\addlinespace \multicolumn{4}{l}{\emph{Untrained floor}} \\
+Random ViT & $0.0170$ & $0.0694$ & $0.1692$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+

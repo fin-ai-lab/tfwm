@@ -1,0 +1,803 @@
+[
+  {
+    "eval_month": "2008-08",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.04114066486299145,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-09",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.029203571312066922,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-10",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.042751567430824894,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2009-12",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.04343243880203132,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-01",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.0686797451503298,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-04",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.0587823578964782,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-06",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.0505302442806757,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2011-01",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.04620614568602374,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2011-06",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.022381537645366455,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-04",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.04257855655823046,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-09",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.03778767911077625,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-10",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.04698315060954205,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-11",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.04272648033187406,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-01",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.030243514805251698,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-04",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.032102272095304314,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-12",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.0375672457782579,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2014-01",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.029821415675751743,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-01",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.016936639431322457,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-02",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.022482890088353025,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-08",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.023040248951652863,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2018-11",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.007415929289191314,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2019-09",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.002686274639911618,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-01",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.011169176392045873,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-08",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.007694472229596491,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-09",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.006584121777534827,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-12",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": -0.004136139013213245,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2021-09",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": -9.254366001692444e-05,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2021-12",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.021630797400901673,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2022-07",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.001636982470541796,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2023-04",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.01517445802809692,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2023-11",
+    "target": "return_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.013034726002880035,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-08",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.12495031436308561,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-09",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.1329432493747145,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-10",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.11864232920128787,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2009-12",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.12060737081616113,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-01",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.10609236459917884,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-04",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.11470674800513558,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-06",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.09289032392846056,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2011-01",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.11005475642770146,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2011-06",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.08797818674262466,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-04",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.10902454965200406,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-09",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.0994182555016107,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-10",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.0986068676918218,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-11",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.1002661982585564,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-01",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.10265144966766279,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-04",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.09131019843019006,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-12",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.07987534260980748,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2014-01",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.08551925559953107,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-01",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.07581127394264614,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-02",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.07468858779273428,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-08",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.05775707858950334,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2018-11",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.07538373363806553,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2019-09",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.07884672288355941,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-01",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.09810614040688295,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-08",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.08140440561833749,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-09",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.08352837127494303,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-12",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.07631367122225383,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2021-09",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.07389327995275136,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2021-12",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.061344303261671645,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2022-07",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.05490715970607361,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2023-04",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.05839061323296059,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2023-11",
+    "target": "volatility_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.06039755589969912,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-08",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.26870261301901377,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-09",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.280172933252101,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2008-10",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.2562917327908299,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2009-12",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.2053447636388887,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-01",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.1623818157678585,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-04",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.20596681311585255,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2010-06",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.20836258226680887,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2011-01",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.16681689445564823,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2011-06",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.1876203487432608,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-04",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.19751749323672102,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-09",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.2405475431748552,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-10",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.23800752991022942,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2012-11",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.23139728576474858,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-01",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.17153656964090835,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-04",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.22924729163042948,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2013-12",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.19556211923066605,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2014-01",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.19059427308950433,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-01",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.2703978163096393,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-02",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.26994326118157413,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2017-08",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.22324604833393671,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2018-11",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.3187616726763343,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2019-09",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.32028699163055174,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-01",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.20380457603731933,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-08",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.2996736156991654,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-09",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.2573201614407125,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2020-12",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.2905671212455791,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  },
+  {
+    "eval_month": "2023-04",
+    "target": "spread_change_900",
+    "predictor": "Supervised (head)",
+    "model": "supervised_head",
+    "ic": 0.34165118855831805,
+    "xs_anchor_stats": "xs_anchor_stats_fwdvwap60",
+    "source": "specialists"
+  }
+]

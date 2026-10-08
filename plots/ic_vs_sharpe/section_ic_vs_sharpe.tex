@@ -1,0 +1,28 @@
+\subsubsection{Choice of Metric: IC vs.\ Sharpe Ratio}
+\label{sec:ic-vs-sharpe}
+
+While we are still working only with embeddings and forward return prediction,
+we prefer the information coefficient (IC) to the Sharpe ratio as our
+benchmark. Firstly, even weak-form market efficiency \citep{fama1970efficient} suggests 
+that using only price and volume will not be profitable to trade (strong-form market efficiency
+suggests that even with all available information it is not possible.) 
+%Jensen's economically operative statement a market is efficient with respect to an information set when no strategy trading on it earns returns net of all costs \citep{jensen1978anomalous} %\citep{lesmond2004illusory, korajczyk2004momentum, novymarx2016taxonomy}  Price-history strategies duly shrink or vanish once realistic costs are charged , and short-horizon predictability is weakest where spreads are narrow enough to arbitrage it away \citep{chordia2008liquidity}.
+This does not require that a learned representation carry no signal but that the signal be no larger than the
+cost of acting on it, which for a high-frequency cross-sectional forecast is the bid-ask spread.
+Our results agree. Each unit of turnover in our supervised return model earns
+a median gross edge of $0.84$\,bp against a median $5.91$\,bp to cross the
+spread, so the model averages a Sharpe ratio of $+3.20$ marked at the midpoint
+and $-15.26$ once orders cross, at an unchanged IC of $+0.028$. We expect that the only way to achieve positive sharpe ratios with realistic cost models would be moving beyond price and volume data, such as by linking the series news, earnings announcements and regulatory filings. 
+
+\input{figures/ic_sharpe_choice}
+
+Secondly, absolute Sharpe ratios depends on how a forecast is turned into a
+portfolio and how the resulting trades are charged. Our harness exposes seven
+such choices (Table~\ref{tab:ic-sharpe-choices}), giving $4{,}080$
+configurations, which we evaluate for each of $18$ encoders across $31$ held-
+out months. Across methods $\operatorname{corr}(\mathrm{IC},
+\overline{\text{Sharpe}}) = +0.92$ while
+$\overline{\operatorname{corr}(\mathrm{IC}, \text{Sharpe})} = +0.51$: the IC
+predicts how well a method does once implementation choices are averaged away,
+much less so inside any one implementation. Six of these seven listed
+choices leave the IC identical, with only the choice of universe mattering. 

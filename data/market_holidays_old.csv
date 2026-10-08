@@ -1,0 +1,114 @@
+date,exchange,status,start_time,end_time,holiday_name
+1996-01-01,SIFMA,closed,,,New Year's Day
+1996-01-12,SIFMA,short day,09:30,14:00,Martin Luther King Day
+1996-01-15,SIFMA,closed,,,Martin Luther King Day
+1996-02-16,SIFMA,short day,09:30,14:00,President's Day
+1996-02-19,SIFMA,closed,,,President's Day
+1996-04-05,SIFMA,closed,,,Good Friday
+1996-05-24,SIFMA,short day,09:30,14:00,Memorial Day
+1996-05-27,SIFMA,closed,,,Memorial Day
+1996-07-03,SIFMA,short day,09:30,14:00,Independence Day
+1996-07-04,SIFMA,closed,,,Independence Day
+1996-07-05,SIFMA,short day,09:30,14:00,Independence Day
+1996-08-30,SIFMA,short day,09:30,14:00,Labor Day
+1996-09-02,SIFMA,closed,,,Labor Day
+1996-10-11,SIFMA,short day,09:30,14:00,Columbus Day
+1996-10-14,SIFMA,closed,,,Columbus Day
+1996-11-08,SIFMA,short day,09:30,14:00,Veterans Day
+1996-11-11,SIFMA,closed,,,Veterans Day
+1996-11-27,SIFMA,short day,09:30,14:00,Thanksgiving
+1996-11-28,SIFMA,closed,,,Thanksgiving
+1996-11-29,SIFMA,short day,09:30,14:00,Thanksgiving
+1996-12-24,SIFMA,short day,09:30,14:00,Christmas
+1996-12-25,SIFMA,closed,,,Christmas
+1996-12-31,SIFMA,short day,09:30,14:00,New Year's Day 1997
+1997-01-01,SIFMA,closed,,,New Year's Day
+1997-01-17,SIFMA,short day,09:30,14:00,Martin Luther King Day
+1997-01-20,SIFMA,closed,,,Martin Luther King Day
+1997-02-14,SIFMA,short day,09:30,14:00,President's Day
+1997-02-17,SIFMA,closed,,,President's Day
+1997-03-27,SIFMA,short day,09:30,14:00,Good Friday
+1997-03-28,SIFMA,closed,,,Good Friday
+1997-05-23,SIFMA,short day,09:30,14:00,Memorial Day
+1997-05-26,SIFMA,closed,,,Memorial Day
+1997-07-03,SIFMA,short day,09:30,14:00,Independence Day
+1997-07-04,SIFMA,closed,,,Independence Day
+1997-08-29,SIFMA,short day,09:30,14:00,Labor Day
+1997-09-01,SIFMA,closed,,,Labor Day
+1997-10-10,SIFMA,short day,09:30,14:00,Columbus Day
+1997-10-13,SIFMA,closed,,,Columbus Day
+1997-11-11,SIFMA,closed,,,Veterans Day
+1997-11-26,SIFMA,short day,09:30,14:00,Thanksgiving
+1997-11-27,SIFMA,closed,,,Thanksgiving
+1997-11-28,SIFMA,short day,09:30,14:00,Thanksgiving
+1997-12-24,SIFMA,short day,09:30,14:00,Christmas
+1997-12-25,SIFMA,closed,,,Christmas
+1997-12-26,SIFMA,short day,09:30,14:00,Christmas
+1997-12-31,SIFMA,short day,09:30,14:00,New Year's Day 1998
+1998-01-01,SIFMA,closed,,,New Year's Day
+1998-01-16,SIFMA,short day,09:30,14:00,Martin Luther King Day
+1998-01-19,SIFMA,closed,,,Martin Luther King Day
+1998-02-13,SIFMA,short day,09:30,14:00,President's Day
+1998-02-16,SIFMA,closed,,,President's Day
+1998-04-09,SIFMA,short day,09:30,14:00,Good Friday
+1998-04-10,SIFMA,closed,,,Good Friday
+1998-05-22,SIFMA,short day,09:30,14:00,Memorial Day
+1998-05-25,SIFMA,closed,,,Memorial Day
+1998-07-02,SIFMA,short day,09:30,14:00,Independence Day
+1998-07-03,SIFMA,closed,,,Independence Day
+1998-09-04,SIFMA,short day,09:30,14:00,Labor Day
+1998-09-07,SIFMA,closed,,,Labor Day
+1998-10-09,SIFMA,short day,09:30,14:00,Columbus Day
+1998-10-12,SIFMA,closed,,,Columbus Day
+1998-11-11,SIFMA,closed,,,Veterans Day
+1998-11-25,SIFMA,short day,09:30,14:00,Thanksgiving
+1998-11-26,SIFMA,closed,,,Thanksgiving
+1998-11-27,SIFMA,short day,09:30,14:00,Thanksgiving
+1998-12-24,SIFMA,short day,09:30,14:00,Christmas
+1998-12-25,SIFMA,closed,,,Christmas
+1998-12-31,SIFMA,short day,09:30,14:00,New Year's Day 1999
+1999-01-01,SIFMA,closed,,,New Year's Day
+1999-01-15,SIFMA,short day,09:30,14:00,Martin Luther King Day
+1999-01-18,SIFMA,closed,,,Martin Luther King Day
+1999-02-12,SIFMA,short day,09:30,14:00,President's Day
+1999-02-15,SIFMA,closed,,,President's Day
+1999-04-01,SIFMA,short day,09:30,14:00,Good Friday
+1999-04-02,SIFMA,short day,09:30,12:00,Good Friday
+1999-05-28,SIFMA,short day,09:30,14:00,Memorial Day
+1999-05-31,SIFMA,closed,,,Memorial Day
+1999-07-02,SIFMA,short day,09:30,14:00,Independence Day
+1999-07-05,SIFMA,closed,,,Independence Day
+1999-09-03,SIFMA,short day,09:30,14:00,Labor Day
+1999-09-06,SIFMA,closed,,,Labor Day
+1999-10-08,SIFMA,short day,09:30,14:00,Columbus Day
+1999-10-11,SIFMA,closed,,,Columbus Day
+1999-11-11,SIFMA,closed,,,Veterans Day
+1999-11-24,SIFMA,short day,09:30,14:00,Thanksgiving
+1999-11-25,SIFMA,closed,,,Thanksgiving
+1999-11-26,SIFMA,short day,09:30,14:00,Thanksgiving
+1999-12-23,SIFMA,short day,09:30,14:00,Christmas
+1999-12-24,SIFMA,closed,,,Christmas
+1999-12-31,SIFMA,short day,09:30,14:00,New Year's Day 2000
+2000-01-14,SIFMA,short day,09:30,14:00,Martin Luther King Day
+2000-01-17,SIFMA,closed,,,Martin Luther King Day
+2000-02-18,SIFMA,short day,09:30,14:00,President's Day
+2000-02-21,SIFMA,closed,,,President's Day
+2000-04-20,SIFMA,short day,09:30,14:00,Good Friday
+2000-04-21,SIFMA,closed,,,Good Friday
+2000-05-26,SIFMA,short day,09:30,14:00,Memorial Day
+2000-05-29,SIFMA,closed,,,Memorial Day
+2000-07-03,SIFMA,short day,09:30,14:00,Independence Day
+2000-07-04,SIFMA,closed,,,Independence Day
+2000-09-01,SIFMA,short day,09:30,14:00,Labor Day
+2000-09-04,SIFMA,closed,,,Labor Day
+2000-10-06,SIFMA,short day,09:30,14:00,Columbus Day
+2000-10-09,SIFMA,closed,,,Columbus Day
+2000-11-22,SIFMA,short day,09:30,14:00,Thanksgiving
+2000-11-23,SIFMA,closed,,,Thanksgiving
+2000-11-24,SIFMA,short day,09:30,14:00,Thanksgiving
+2000-12-22,SIFMA,short day,09:30,14:00,Christmas
+2000-12-25,SIFMA,closed,,,Christmas
+2000-12-29,SIFMA,short day,09:30,14:00,New Year's Day 2001
+2012-10-29,SIFMA,closed,,,Hurricane Sandy
+2012-10-30,SIFMA,closed,,,Hurricane Sandy
+2018-12-05,SIFMA,closed,,,Former President George H.W. Bush

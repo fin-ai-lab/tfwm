@@ -1,0 +1,18 @@
+{
+ "label": "6-Month Multihead",
+ "scale": "small",
+ "flops": 880317851284537344,
+ "flops_1x": 293439283761512448,
+ "steps": 1966,
+ "views": 8052736,
+ "train_start": "2017-07-01",
+ "train_end": "2017-12-31",
+ "eval_month": "2018-01",
+ "note": "step count computed from the day store (12 epochs x cells/256); this run's train_meta predates obs_seen. Validated against the 29 measured months: +0..+12 steps, <0.4%.",
+ "ic_head": {
+  "return_900": 0.0042,
+  "volatility_change_900": 0.0869,
+  "spread_change_900": 0.2715
+ },
+ "ic_source": "supervised-full-month-multihead-67e219-2017-10-2018-01 / 2017-12_multi_pairwise_s42"
+}

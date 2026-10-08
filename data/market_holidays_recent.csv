@@ -1,0 +1,86 @@
+date,exchange,status,start_time,end_time,holiday_name
+2021-01-01,SIFMA,closed,,,New Year's Day
+2021-01-18,SIFMA,closed,,,Martin Luther King Day
+2021-02-15,SIFMA,closed,,,Presidents Day
+2021-04-02,SIFMA,short day,,12:00,Good Friday
+2021-05-28,SIFMA,short day,,14:00,Memorial Day (Early Close)
+2021-05-31,SIFMA,closed,,,Memorial Day
+2021-07-02,SIFMA,short day,,14:00,U.S. Independence Day (Early Close)
+2021-07-05,SIFMA,closed,,,U.S. Independence Day (Observed)
+2021-09-06,SIFMA,closed,,,Labor Day
+2021-10-11,SIFMA,closed,,,Columbus Day
+2021-11-11,SIFMA,closed,,,Veterans Day
+2021-11-25,SIFMA,closed,,,Thanksgiving Day
+2021-11-26,SIFMA,short day,,14:00,Thanksgiving Day (Early Close)
+2021-12-23,SIFMA,short day,,14:00,Christmas Day (Early Close)
+2021-12-24,SIFMA,closed,,,Christmas Day (Observed)
+2021-12-31,SIFMA,short day,,14:00,New Year's Day (Early Close)
+2022-01-17,SIFMA,closed,,,Martin Luther King Day
+2022-02-21,SIFMA,closed,,,Presidents Day
+2022-04-14,SIFMA,short day,,14:00,Good Friday (Early Close)
+2022-04-15,SIFMA,closed,,,Good Friday
+2022-05-27,SIFMA,short day,,14:00,Memorial Day (Early Close)
+2022-05-30,SIFMA,closed,,,Memorial Day
+2022-06-20,SIFMA,closed,,,Juneteenth
+2022-07-01,SIFMA,short day,,14:00,U.S. Independence Day (Early Close)
+2022-07-04,SIFMA,closed,,,U.S. Independence Day
+2022-09-05,SIFMA,closed,,,Labor Day
+2022-10-10,SIFMA,closed,,,Columbus Day
+2022-11-11,SIFMA,closed,,,Veterans Day
+2022-11-24,SIFMA,closed,,,Thanksgiving Day
+2022-11-25,SIFMA,short day,,14:00,Thanksgiving Day (Early Close)
+2022-12-23,SIFMA,short day,,14:00,Christmas Day (Early Close)
+2022-12-26,SIFMA,closed,,,Christmas Day (Observed)
+2022-12-30,SIFMA,short day,,14:00,New Year's Day (Early Close)
+2023-01-02,SIFMA,closed,,,New Year's Day (Observed)
+2023-01-16,SIFMA,closed,,,Martin Luther King Day
+2023-02-20,SIFMA,closed,,,Presidents Day
+2023-04-07,SIFMA,short day,,12:00,Good Friday
+2023-05-26,SIFMA,short day,,14:00,Memorial Day (Early Close)
+2023-05-29,SIFMA,closed,,,Memorial Day
+2023-06-19,SIFMA,closed,,,Juneteenth
+2023-07-03,SIFMA,short day,,14:00,U.S. Independence Day (Early Close)
+2023-07-04,SIFMA,closed,,,U.S. Independence Day
+2023-09-04,SIFMA,closed,,,Labor Day
+2023-10-09,SIFMA,closed,,,Columbus Day
+2023-11-23,SIFMA,closed,,,Thanksgiving Day
+2023-11-24,SIFMA,short day,,14:00,Thanksgiving Day (Early Close)
+2023-12-22,SIFMA,short day,,14:00,Christmas Day (Early Close)
+2023-12-25,SIFMA,closed,,,Christmas Day
+2023-12-29,SIFMA,short day,,14:00,New Year's Day (Early Close)
+2024-01-01,SIFMA,closed,,,New Year's Day
+2024-01-15,SIFMA,closed,,,Martin Luther King Day
+2024-02-19,SIFMA,closed,,,Presidents Day
+2024-03-28,SIFMA,short day,,14:00,Good Friday (Early Close)
+2024-03-29,SIFMA,closed,,,Good Friday
+2024-05-24,SIFMA,short day,,14:00,Memorial Day (Early Close)
+2024-05-27,SIFMA,closed,,,Memorial Day
+2024-06-19,SIFMA,closed,,,Juneteenth
+2024-07-03,SIFMA,short day,,14:00,U.S. Independence Day (Early Close)
+2024-07-04,SIFMA,closed,,,U.S. Independence Day
+2024-09-02,SIFMA,closed,,,Labor Day
+2024-10-14,SIFMA,closed,,,Columbus Day
+2024-11-11,SIFMA,closed,,,Veterans Day
+2024-11-28,SIFMA,closed,,,Thanksgiving Day
+2024-11-29,SIFMA,short day,,14:00,Thanksgiving Day (Early Close)
+2024-12-24,SIFMA,short day,,14:00,Christmas Day (Early Close)
+2024-12-25,SIFMA,closed,,,Christmas Day
+2024-12-31,SIFMA,short day,,14:00,New Year's Day (Early Close)
+2025-01-01,SIFMA,closed,,,New Year's Day
+2025-01-20,SIFMA,closed,,,Martin Luther King Day
+2025-02-17,SIFMA,closed,,,Presidents Day
+2025-04-17,SIFMA,short day,,14:00,Good Friday (Early Close)
+2025-04-18,SIFMA,closed,,,Good Friday
+2025-05-23,SIFMA,short day,,14:00,Memorial Day (Early Close)
+2025-05-26,SIFMA,closed,,,Memorial Day
+2025-06-19,SIFMA,closed,,,Juneteenth
+2025-07-03,SIFMA,short day,,14:00,U.S. Independence Day (Early Close)
+2025-07-04,SIFMA,closed,,,U.S. Independence Day
+2025-09-01,SIFMA,closed,,,Labor Day
+2025-10-13,SIFMA,closed,,,Columbus Day
+2025-11-11,SIFMA,closed,,,Veterans Day
+2025-11-27,SIFMA,closed,,,Thanksgiving Day
+2025-11-28,SIFMA,short day,,14:00,Thanksgiving Day (Early Close)
+2025-12-24,SIFMA,short day,,14:00,Christmas Day (Early Close)
+2025-12-25,SIFMA,closed,,,Christmas Day
+2025-12-31,SIFMA,short day,,14:00,New Year's Day (Early Close)

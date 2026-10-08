@@ -1,0 +1,29 @@
+{
+ "_source": "latent_sweep.py --make-picks: the per-(family, task) argmax layer on the Optimization Set (_cmean_opt, eval months 2009-02 2011-04 2014-06 2020-06 2022-03), T1-T4 on the lowest mean rank percentile, LOAD on the mean total-loading decode r, SUBSP on the mean canonical correlation. Readout: time mean over valid patches, nine channels AVERAGED (the _cmean series).",
+ "picks": {
+  "chronos2": {
+   "T1 partner NN": 6,
+   "T2 day centroid": 6,
+   "T3 own-firm centroid": 4,
+   "T4 partner centroid": 11,
+   "LOAD decode": 7,
+   "SUBSP align": 9
+  },
+  "kronos": {
+   "T1 partner NN": 6,
+   "T2 day centroid": 6,
+   "T3 own-firm centroid": 6,
+   "T4 partner centroid": 12,
+   "LOAD decode": 6,
+   "SUBSP align": 6
+  },
+  "timesfm3": {
+   "T1 partner NN": 3,
+   "T2 day centroid": 4,
+   "T3 own-firm centroid": 8,
+   "T4 partner centroid": 2,
+   "LOAD decode": 9,
+   "SUBSP align": 2
+  }
+ }
+}
